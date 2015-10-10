@@ -12,7 +12,7 @@ GCC Lead Link of Learners Guild
 ***
 
 
-## Introduction
+## Guiding Principles
 * [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Mission%20Statement.md)
 * [Learners Guild Values](https://github.com/LearnersGuild/guide/blob/master/Learners Guild%20Values.md)
 
