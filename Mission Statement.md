@@ -23,5 +23,7 @@ With our learners, we take full responsibility for every member learning the cra
 
 > “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.”~ John Dewey
 
+### Notes
+
 <sup name="f1">1</sup> Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world. [↩](#a1)
 
