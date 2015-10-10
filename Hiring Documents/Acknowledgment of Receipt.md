@@ -1,14 +1,14 @@
-# Acknowledgement of Receipt of Employee Handbook
+# Acknowledgement of Receipt of Employee Guide
 
-I acknowledge I have received a copy of the Learners Guild Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
+I acknowledge I have received a copy of the Learners Guild Employee Guide, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Guide.
 
-I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Learners Guild may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
-
-
-I understand and agree that my employment with Learners Guild is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  This is the entire agreement between me and Learners Guild on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
+I further understand that the statements contained in the guide do not create any contractual or other legal obligations of employment.  I also understand that Learners Guild may at any time modify, rescind, or revise any policy, benefit, or practice described in the guide, except for its policy of at-will employment.
 
 
-I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
+I understand and agree that my employment with Learners Guild is at-will and can be terminated by either me or the company without cause or notice and that nothing in the guide should be interpreted to the contrary.  This is the entire agreement between me and Learners Guild on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
+
+
+I acknowledge that it is my responsibility to read and become familiar with the contents of the guide.
 
 
 
@@ -27,11 +27,11 @@ Signature: ________________________
 ***
 
 
-## Contents of the Learners Guild Employee Handbook
-This handbook is hosted online at [github.com/LearnersGuild/guide](https://github.com/handbook), along with several other policies. The *Learners Guild Employee Handbook* consists of only the policies listed below.
+## Contents of the Learners Guild Employee Guide
+This guide is hosted online at [github.com/LearnersGuild/guide](https://github.com/guide), along with several other policies. The *Learners Guild Employee Guide* consists of only the policies listed below.
 
 ### Introduction
-* [Handbook Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
+* [Guide Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20Introduction.md)
 * [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Mission%20Statement.md)
 * [Learners Guild Values](https://github.com/LearnersGuild/guide/blob/master/Learners Guild%20Values.md)
 

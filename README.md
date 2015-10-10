@@ -1,10 +1,10 @@
-# Our Handbook
+# Our Guide
 
 At Learners Guild we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
 As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
 
-We wanted to put those learnings into practice, so we decided to write our own handbook and open source it.
+We wanted to put those learnings into practice, so we decided to write our own guide and open source it.
 
 This repository contains all of the policies that we use at Learners Guild. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
@@ -40,7 +40,7 @@ CEO of Learners Guild
 * [Learners Guild Offer Letter](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Learners Guild%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
-* [Handbook Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
+* [Guide Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20Introduction.md)
 
 ## Onboarding Documents
 * [Welcome to Learners Guild](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)

@@ -4,7 +4,7 @@
 
 At the base of every member of the Learners Guild team’s directory, there should be 6 directories:
 
-1. **[Learners Guild Handbook](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Learners Guild, which anyone can comment on
+1. **[Learners Guild Guide](https://drive.google.com/open?id=0Bwj0rVaUQUXPNWI3SmlwMXRkTDQ&authuser=0)** -- a collection of documents about how we do things at Learners Guild, which anyone can comment on
 
 2. **Active Projects** -- All project folders will be shared globally in this folder
 
