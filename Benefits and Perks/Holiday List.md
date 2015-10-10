@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# Learners Guild Observed Holiday List
 
 <table>
   <tr>

@@ -1,12 +1,12 @@
 # Our Handbook
 
-At Clef we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
+At Learners Guild we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
 As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
 
 We wanted to put those learnings into practice, so we decided to write our own handbook and open source it.
 
-This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
+This repository contains all of the policies that we use at Learners Guild. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.
 
@@ -16,14 +16,14 @@ If these policies sound like a place where you want to work, check out our jobs 
 
 — [B](https://twitter.com/brennenbyrne)
 
-CEO of Clef
+CEO of Learners Guild
 
 ***
 
 
 ## Introduction
 * [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/LearnersGuild/guide/blob/master/Clef%20Values.md)
+* [Learners Guild Values](https://github.com/LearnersGuild/guide/blob/master/Learners Guild%20Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
@@ -37,13 +37,13 @@ CEO of Clef
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Clef Offer Letter](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
+* [Learners Guild Offer Letter](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Learners Guild%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Clef](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
+* [Welcome to Learners Guild](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
 * [Direct Reports](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Internal Transparency](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 * [Objectives and Key Results](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
