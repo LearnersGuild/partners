@@ -2,6 +2,9 @@
 
 ## Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified livelihood. 
 
+Clicking this number[^fn-sample_footnote] will lead you to a footnote.
+
+
 ## Mission Statement
 
 The Learners Guild’s mission is to provide the opportunity for anyone who has the will and capacity to become a professional software developer to be able to do so. 
@@ -17,3 +20,5 @@ We build systems that support a thriving learning culture: inclusive, safe, and 
 We believe learning should be profitable for everyone: We are for purpose and for profit. We do not sacrifice one for the other. Our financial goals are aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business. 
 
 With our learners, we take full responsibility for every member learning the craft and gaining meaningful employment, with the equal understanding that we are focused on helping individuals with the motivation to achieve this craft and obtain valued employment. 
+
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
