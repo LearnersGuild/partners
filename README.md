@@ -2,8 +2,7 @@
 
 At Learners Guild we’re working to build a purpose driven organization. That’s an easy thing to want and say, but it’s difficult to practice. It takes active effort to articulate our guiding principles, and our values, and to express them day to day.
 
-This  repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be a living and dynamic support of the way we are working together. It serves to answer the questions: Why do we exist? How do we behave? What do we do? Why will we succeed? It does not try answer: What's most important right now? Who must do what?
-It’s certainly not perfect, but we think it’s an exciting place to start.
+This repository contains all our agreements, policies, operating models, values and guiding principles. It is meant to be a living and dynamic support of the way we are working together. It’s certainly not perfect, but we think it’s an exciting place to start.
 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
 
@@ -14,8 +13,9 @@ GCC Lead Link of Learners Guild
 
 
 ## Guiding Principles
-* [Purpose & Mission](https://github.com/LearnersGuild/guide/blob/master/Mission%20Statement.md)
-* [Learners Guild Values](https://github.com/LearnersGuild/guide/blob/master/Learners Guild%20Values.md)
+* [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Mission%20Statement.md)
+* [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
+* [Values](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Learners%20Guild%20Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
@@ -67,11 +67,3 @@ GCC Lead Link of Learners Guild
 A large chunk of this Guide was forked from Clef's excellent [Employee Handbook](https://github.com/clef/handbook)
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)
-
-
-<sup name="a1">[1](#f1)</sup>testing
-
-
-###Notes
-
-<sup name="f1">(#f1)</sup>test here baby[↩](#a1)
