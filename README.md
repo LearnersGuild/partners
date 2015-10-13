@@ -66,3 +66,11 @@ GCC Lead Link of Learners Guild
 A large chunk of this Guide was forked from Clef's excellent [Employee Handbook](https://github.com/clef/handbook)
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)
+
+
+<sup name="a1">[1](#f1)</sup>testing
+
+
+###Notes
+
+<sup name="f1">(#f1)</sup>test here baby[↩](#a1)
