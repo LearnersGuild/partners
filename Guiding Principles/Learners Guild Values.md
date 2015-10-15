@@ -47,7 +47,7 @@ In a typical organization, individuals expend enormous energy protecting themsel
 
 We acknowledge that these gaps exist, and are dedicated to closing them.
 
-We are inspired by efforts like Chris Argyris, who recognized the existence of these gaps as a prime hindrance to organizational effectiveness and even learning in the specific.  Like Chris, we will work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.<sup name="a4">[4](#f4)</sup>
+We are inspired by efforts like Chris Argyris, who recognized the existence of these gaps as a prime hindrance to organizational effectiveness and even learning in the specific.  We will work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.<sup name="a4">[4](#f4)</sup>
 
 ## Four Personal Agreements
 
