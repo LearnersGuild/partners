@@ -24,13 +24,13 @@ GCC Lead Link of Learners Guild
 * [Code of Conduct in the Community](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Employee%20Privacy.md)
+* [Partner Privacy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Partner%20Privacy.md)
 * [Working Remotely](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
 * [Learners Guild Offer Letter](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Learners Guild%20Offer%20Letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
+* [Partner Proprietary Information and Inventions Agreement](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Partner%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Guide Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20Introduction.md)
 
@@ -64,6 +64,6 @@ GCC Lead Link of Learners Guild
 
 # Acknowledgements
 
-A large chunk of this Guide was forked from Clef's excellent [Employee Handbook](https://github.com/clef/handbook)
+A large chunk of this Guide was forked from Clef's excellent [Partner Handbook](https://github.com/clef/handbook)
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)

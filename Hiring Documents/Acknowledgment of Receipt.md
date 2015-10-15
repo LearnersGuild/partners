@@ -1,6 +1,6 @@
-# Acknowledgement of Receipt of Employee Guide
+# Acknowledgement of Receipt of Partner Guide
 
-I acknowledge I have received a copy of the Learners Guild Employee Guide, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Guide.
+I acknowledge I have received a copy of the Learners Guild Partner Guide, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Partner Guide.
 
 I further understand that the statements contained in the guide do not create any contractual or other legal obligations of employment.  I also understand that Learners Guild may at any time modify, rescind, or revise any policy, benefit, or practice described in the guide, except for its policy of at-will employment.
 
@@ -27,8 +27,8 @@ Signature: ________________________
 ***
 
 
-## Contents of the Learners Guild Employee Guide
-This guide is hosted online at [github.com/LearnersGuild/guide](https://github.com/guide), along with several other policies. The *Learners Guild Employee Guide* consists of only the policies listed below.
+## Contents of the Learners Guild Partner Guide
+This guide is hosted online at [github.com/LearnersGuild/guide](https://github.com/guide), along with several other policies. The *Learners Guild Partner Guide* consists of only the policies listed below.
 
 ### Introduction
 * [Guide Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20Introduction.md)
@@ -42,7 +42,7 @@ This guide is hosted online at [github.com/LearnersGuild/guide](https://github.c
 * [Code of Conduct in the Community](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Employee%20Privacy.md)
+* [Partner Privacy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Partner%20Privacy.md)
 * [Working Remotely](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ### Benefits and Perks

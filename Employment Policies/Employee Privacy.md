@@ -1,4 +1,4 @@
-# Employee Privacy
+# Partner Privacy
 
 ## Workspace Privacy
 
@@ -32,7 +32,7 @@ To avoid email viruses, phishing for account information, and other threats, emp
 
 If you believe your computer has been infected by a virus, worm, or other security threat to Learners Guild’s system, you must inform the founders immediately.
 
-Employees may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Learners Guild network
+Partners may not share their email passwords with anyone, including coworkers or family members. Revealing passwords to the Company’s email system could allow an outsider to attack the Learners Guild network
 
 ## Internet Use Is Not Private
 

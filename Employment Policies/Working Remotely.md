@@ -4,7 +4,7 @@ As a small team, things move very quickly and decisions are made or reversed as 
 
 Every employee is an important contributor to the decisions we make and the work we do as a team, so we expect full-time employees to be at the Learners Guild office between 45 and 50 hours a week, and to be punctual for team meetings. If employees have a consideration which requires them to be out of the office, they should get approval from the founder they report to as far in advance as possible, and at least a full day before the absence.
 
-Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, and other support.
+Partners with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, and other support.
 
 As we grow, we hope to add the capability for employees to work from home or work remotely more consistently, but, at our current size, the in-person interactions in the office are too critical to pass up.
 
