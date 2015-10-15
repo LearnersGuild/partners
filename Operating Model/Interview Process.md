@@ -1,4 +1,4 @@
-# Interview Process
+# Interview & Hiring Process
 
 Every candidate should go through three interviews that help us find the right person for the job.
 
@@ -23,3 +23,9 @@ The last 30 minutes should be used for questions and answers from both sides. Th
 Finally, the candidate should come in for a whole day of talking to and working with the team. In the morning they'll drill into a much more challenging problem than they had to deal with in their technical interview. We want to get a sense for how candidates handle something out of their comfort zone, how they ask for help, etc. It’s also important that candidates feel like they’ve earned their offer by the time they get it, so this part of the process should be hard!
 
 After the morning exercises, candidates go out to lunch with the team before coming back to the office for one on ones with everyone. As we get a little bigger, this might need to be one on twos to fit conversations into a reasonable amount of time.
+
+# Anonimized Resumes
+
+# Rooney Rule
+
+# Six Month Engagement
