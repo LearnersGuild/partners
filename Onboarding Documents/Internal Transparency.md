@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Internal Transparency
 
 The best way for you to make a decision about what’s good for Learners Guild is to have all of the information about what’s going on at Learners Guild. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Learners Guild that we’re not actively involved with.

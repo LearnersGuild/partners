@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Learners Guild Team Guide
 
 At Learners Guild we’re working to build a purpose driven organization. That’s an easy thing to want and say, but it’s difficult to practice. It takes active effort to articulate our guiding principles, and our values, and to express them day to day.
@@ -7,7 +9,8 @@ This repository contains all our agreements, policies, operating models, values 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
 
 Shereef Bishay
-GCC Lead Link of Learners Guild
+GCC Lead Link
+Learners Guild
 
 ***
 

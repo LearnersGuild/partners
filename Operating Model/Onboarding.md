@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Onboarding
 
 This document is about the general priorities and policies for how we as a company bring new partners onto the team. As a new person on the team, if you have questions about starting at Learners Guild, check out [Your First Day at Learners Guild](https://docs.google.com/document/d/1vvJfWH7lP808mAlKPr8JwUx0HvkiidzS_bkwB8wqA7M).

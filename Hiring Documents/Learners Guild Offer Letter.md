@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 Welcome to Learners Guild, **FIRST_NAME**!
 
 We are excited to extend an official offer for you to join the Learners Guild team as **a/the TITLE**. This offer letter will go over the basics of working at Learners Guild, but there are a lot more details in our [Partner Guide](https://github.com/LearnersGuild/guide). If you have any questions that aren’t in this letter or the guide, please let me know.

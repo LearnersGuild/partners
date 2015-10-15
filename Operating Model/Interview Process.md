@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Interview & Hiring Process
 
 Every candidate should go through three interviews that help us find the right person for the job.

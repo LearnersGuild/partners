@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Healthcare and Disability Insurance
 
 Learners Guild’s priorities with benefits are wellness and education, so it’s important that we offer our partners good medical coverage and disability insurance. Both of these benefits are managed through Zenefits, which every partner should have set up before their first day at Learners Guild.

@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Partner Proprietary Information and Inventions Assignment Agreement
 
 **Learners Guild, INC.**
@@ -56,7 +58,7 @@ THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this 
 
   4. Amendment; Waivers.  This Agreement can be amended or terminated only by a written agreement signed by both parties.  No failure to exercise or delay in exercising any right under this Agreement shall operate as a waiver thereof.
 
-  5. Successors and Assigns.  This Agreement shall be binding upon Partner and Partner’s heirs, executors, administrators, and successors, and shall inure to the benefit of the successors and assigns of the Company, including, without limitation, any purchaser of all or substantially all of the Company’s assets or a majority or more of the Company’s outstanding common stock.  	
+  5. Successors and Assigns.  This Agreement shall be binding upon Partner and Partner’s heirs, executors, administrators, and successors, and shall inure to the benefit of the successors and assigns of the Company, including, without limitation, any purchaser of all or substantially all of the Company’s assets or a majority or more of the Company’s outstanding common stock.
 
   6. Effective Date.  In the event that Partner is executing this Agreement subsequent to the commencement of Partner’s employment with the Company, Partner hereby agrees that this Agreement shall be effective as of the date on which Partner commenced Partner’s employment with the Company.  Without limiting the foregoing, Partner agrees that the terms of this Agreement shall apply to all Proprietary Information received by Partner, and all Inventions created or prepared by Partner, at any time during the course of Partner’s employment with the Company.  
 
@@ -79,11 +81,11 @@ Signature: ________________________
 
 1.	Proprietary Information.
 
-Except as set forth below, Partner acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Partner’s employment by the Company, at the time of commencement of Partner’s employment by the Company) Partner knows nothing about the business or Proprietary Information of Learners Guild, Inc. (the "Company"), other than information Partner has learned from the Company in the course of being hired:  	******************
+Except as set forth below, Partner acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Partner’s employment by the Company, at the time of commencement of Partner’s employment by the Company) Partner knows nothing about the business or Proprietary Information of Learners Guild, Inc. (the "Company"), other than information Partner has learned from the Company in the course of being hired:******************
 
 2.	Prior Inventions.  
 
-Except as set forth below, there are no ideas, processes, inventions, technology, writings, programs, designs, formulas, discoveries, patents, copyrights, or trademarks, or any claims, rights, or improvements to the foregoing, that Partner wishes to exclude from the operation of this Agreement: 	
+Except as set forth below, there are no ideas, processes, inventions, technology, writings, programs, designs, formulas, discoveries, patents, copyrights, or trademarks, or any claims, rights, or improvements to the foregoing, that Partner wishes to exclude from the operation of this Agreement:
 
 ***
 ***

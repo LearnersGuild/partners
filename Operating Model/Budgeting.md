@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Budgeting
 
 Budgeting (all spending except salaries, which, for the first 10 partners will not be included in these budgets) is done by the founders immediately after the company OKRs are set so that the budgets can reflect the company's goals for the quarter. The budgets will be quarterly and will initially be broken down into:

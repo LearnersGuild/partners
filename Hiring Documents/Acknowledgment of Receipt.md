@@ -1,3 +1,5 @@
+> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
 # Acknowledgement of Receipt of Partner Guide
 
 I acknowledge I have received a copy of the Learners Guild Partner Guide, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Partner Guide.
