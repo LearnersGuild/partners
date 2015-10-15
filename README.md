@@ -14,8 +14,8 @@ GCC Lead Link of Learners Guild
 
 ## Guiding Principles
 * [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Mission%20Statement.md)
-* [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
 * [Values](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Learners%20Guild%20Values.md)
+* [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
