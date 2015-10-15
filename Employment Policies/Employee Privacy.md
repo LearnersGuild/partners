@@ -2,9 +2,9 @@
 
 ## Workspace Privacy
 
-As an employer, it is Learners Guild’s goal to monitor or track our partners in as few ways as possible. We want Learners Guild partners to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of Learners Guild partners, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an partner has brought a gun to work or has stolen company property.
+**As an employer, it is Learners Guild’s goal to monitor or track our partners in as few ways as possible.** We want Learners Guild partners to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of Learners Guild partners, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an partner has brought a gun to work or has stolen company property.
 
-This means that while the company will always try to respect partner privacy, partners do not have a right to privacy in their workspaces in any property that belongs to Learners Guild. Learners Guild reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover partner safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
+This means that while the company will always try to respect partner privacy, partners do not have a right to privacy in their workspaces in any property that belongs to Learners Guild. Learners Guild reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover partner safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to the founders.
 
 ## Email and Internet Privacy
 

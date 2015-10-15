@@ -42,7 +42,7 @@ Learners Guild, Inc.
 
 _____________________
 
-B Byrne
+Shereef Bishay
 ```
 
 ## Acceptance

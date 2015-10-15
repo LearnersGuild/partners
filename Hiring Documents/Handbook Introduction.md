@@ -6,7 +6,7 @@ We are pleased to have you join Learners Guild Inc. (“Learners Guild” or the
 
 Each partner is responsible for reading, understanding, and complying with this guide.  Our goal is to provide you with a work environment that is constructive and supports both personal and professional growth.  
 
-As a small company, we anticipate changes will be made to this guide in the future and reserve the right to amend, revise and/or withdraw the provisions set forth in the guide.   
+As a small company, we anticipate changes will be made to this guide in the future and reserve the right to amend, revise and/or withdraw the provisions set forth in the guide.
 
 ```
 
@@ -15,7 +15,7 @@ As a small company, we anticipate changes will be made to this guide in the futu
 
 _____________________________
 
-B Byrne
+Shereef Bishay
 
-CEO of Learners Guild
+GCC Lead Link of Learners Guild
 ```

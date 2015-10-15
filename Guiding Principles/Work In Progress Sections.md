@@ -35,8 +35,18 @@ Trust as output not input. Don’t strain relationships to get work done. Create
 ## Emphasize feedback over regulation
 when you see behaviour that needs changing clarify purpose then create better feedback rather than resort to policy. System structure is the source of system behavior. Change the behaviour through internal regulation rather than external regulation/policy/rules. Avoid organizational scarring. (link to 32 signals)
 
+## Resolving conflicts
+resolving conflict
+
 ## Misc
 define the culture we’re building in terms of how we feel, what we experience, what it brings out in us in terms of behaviour "Experiencing yourself as incomplete, inadequate but still included, accepted and admired."
 Everyone takes responsibility for the culture.
 Culture is “self organizing”
 "Structure drives behavior":
+
+## Rules of thumb
+minimize bullshit
+clarify don't control
+slow down to speed up
+don't leave the team
+don't triangulate
