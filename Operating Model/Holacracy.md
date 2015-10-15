@@ -2,7 +2,7 @@
 
 # Introduction
 
-We run our business on a modified version of the Holacracy Constitution that allows for circles to opt in and out of self-governance. Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
+We run our business on a modified version of the [Holacracy Constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) that allows for circles to opt in and out of self-governance. Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
 
 ## Missing sections
@@ -11,6 +11,6 @@ Why holacracy?
 High level how it works.
 Glassfrog
 Holacracy coach availability
-Modification of the constitution: the governor role
-Resources: the book, articles, re-inventing organizations, videos...etc.
+Modification of the constitution: the governor role. Why a modified constitution?
+Resources: the book, holacracy site, articles, re-inventing organizations, videos...etc.
 Some justification: medium, zappos...etc.
