@@ -14,7 +14,7 @@ At the base of every member of the Learners Guild team’s directory, there shou
 
 5. **OKRs** -- everyone at Learners Guild’s objectives and key results.
 
-6. **[Your Name]** -- every employee should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
+6. **[Your Name]** -- every partner should have their personnel folder in the root directory with contracts, offer letters, etc. inside (shared only with you)
 
 ## Creating New Projects
 

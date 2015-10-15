@@ -12,7 +12,7 @@ Critically, we manage our business culture like we manage our learning culture: 
 
 ## Partners First
 
-In Learners Guild, employees are called **Partners**, learners are **Members**. External partners (e.g. grass root organizations that refer members) are called **Partnerships**. Stakeholders are all of the above in addition to investors, board, customers, and anyone else interacting with --or impacted by-- the Guild.
+In Learners Guild, partners are called **Partners**, learners are **Members**. External partners (e.g. grass root organizations that refer members) are called **Partnerships**. Stakeholders are all of the above in addition to investors, board, customers, and anyone else interacting with --or impacted by-- the Guild.
 
 If our business was a farm, and our offerings the produce of that farm, then we (the partners) would be the soil. We focus on deliberately developing a healthy, thriving soil, as a means and an end. Great produce grows from great soil. We do not put our customers, investors or other stakeholders first. We put each other first and in doing so fulfill our duty to our stakeholders and the organizational purpose.
 

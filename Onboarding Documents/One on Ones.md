@@ -1,6 +1,6 @@
 # One on Ones
 
-Every week, every member of the Learners Guild team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
+Every week, every member of the Learners Guild team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the partner and its primary intention is to build a trusting relationship. This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
 
 Trust is the fundamental currency of teams, and these meetings are the easiest place to earn trust. Managers are making time for every direct report, every week, so that they build an individual relationship with each one and establish a reliable channel for communication.
 
@@ -22,6 +22,6 @@ Managers should probe throughout the meeting. Ask follow up questions, dig deepe
 
 It’s useful to take notes during the meeting, so that you can ask about how things have changed in the future. It’s also useful to take notes during the week -- if you notice something that you’d like to talk about, a note will make sure you address it in your next one on one.
 
-If an employee is having a problem with a coworker, make sure to ask before you intervene. In some cases, intervention will make the complainant’s work situation worse. Always defer to their needs and aim for their goal for resolution.
+If an partner is having a problem with a coworker, make sure to ask before you intervene. In some cases, intervention will make the complainant’s work situation worse. Always defer to their needs and aim for their goal for resolution.
 
 When you do act, remember to follow up and talk about the resolution. This gives you a chance to show that you take their problems seriously and also opens the opportunity to talk about the potential causes of the problem and how to avoid them in the future or improve the way they’re handled.  

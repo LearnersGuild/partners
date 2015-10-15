@@ -38,7 +38,7 @@ For every quarter, one goal should always be a learning or improvement objective
 
 ## Tracking OKRs
 
-Every employee should keep track of their OKRs in their own Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.  
+Every partner should keep track of their OKRs in their own Google Spreadsheet in the OKRs Folder. Within the spreadsheet, there should be a new sheet for each new quarter.  
 
 OKRS should be talked about every week in 1:1s to consider how each objective is progressing, places where help may be necessary, and how well they reflect current objectives.
 
@@ -56,4 +56,4 @@ A key result can be scored in any way that makes sense for the result, but there
 
 The scoring method should be included with each key result. If two people independently evaluated your OKRs at the same time, they should be sure to get the same scores because the criteria for evaluation should be unambiguous.
 
-OKRs should never be used in evaluating employee performance, and should be ambitious. An average score of 7 is ideal, and no one should ever get to a full 10. If they do, their goals were set too low.
+OKRs should never be used in evaluating partner performance, and should be ambitious. An average score of 7 is ideal, and no one should ever get to a full 10. If they do, their goals were set too low.

@@ -4,17 +4,17 @@ Building a great team starts with attracting great candidates, and there are thr
 
 ## Referrals
 
-Referrals from people who already work at Learners Guild are one of the best signals we can get about whether or not a candidate will be successful at Learners Guild. Learners Guild employees understand Learners Guild’s needs and what it’s like to work at Learners Guild, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
+Referrals from people who already work at Learners Guild are one of the best signals we can get about whether or not a candidate will be successful at Learners Guild. Learners Guild partners understand Learners Guild’s needs and what it’s like to work at Learners Guild, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
 
 In order to get good referrals, everyone needs to know which positions are open, know how to start the recruiting process, have time to search their network, and feel aligned with the company incentives. Open positions should be posted on getclef.com/about and also in the #hiring channel so that everyone sees who we’re trying to hire. We’ll host a company lunch with food on the second Tuesday of every month where we talk about which positions are open and go through everyone’s online networks looking for and thinking about candidates. Partners will do initial outreach to interesting connection, which will give us a good space to talk about how we start the recruiting process.
 
-We also offer a [$5,000 referral bonus](https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md) for any new hire that comes from an employee referral to help align company incentives with individual incentives.
+We also offer a [$5,000 referral bonus](https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md) for any new hire that comes from an partner referral to help align company incentives with individual incentives.
 
 **The danger with referrals is that we are most likely to refer candidates who are like us, which can result in a homogenous team instead of the diverse one we want to create.** We should emphasize diversity as a priority in our referral lunches and also search the local networks we are involved in. We should also continue to look for other ways to offset this bias on an organizational level.
 
 ## Outbound Recruiting
 
-For every position open at Learners Guild, there should be one team member (a founder for these first 10 employees) who is in charge of the recruiting efforts for that position. This starts with writing the job description and publishing it on the getclef.com, but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
+For every position open at Learners Guild, there should be one team member (a founder for these first 10 partners) who is in charge of the recruiting efforts for that position. This starts with writing the job description and publishing it on the getclef.com, but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
 
 It is critical that we find talent pools of diverse candidates to pull from, and that our outbound recruiting intentionally target underrepresented groups. If we are recruiting from universities, we need to be careful about which schools we draw from. If we are pulling people from other companies, it’s important that we are thoughtful about the location and industry biases of those companies. Learners Guild works with and supports many local and national organizations that focus on growing the number of underrepresented minorities in the tech industry, including Hack the Hood, Women Who Code, and Qeyno Labs. Our work with these communities should help us find pools of candidates to recruit from.
 
