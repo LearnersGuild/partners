@@ -14,9 +14,9 @@ We also offer a [$5,000 referral bonus](https://github.com/LearnersGuild/guide/b
 
 ## Outbound Recruiting
 
-For every position open at Learners Guild, there should be one team member (a founder for these first 10 partners) who is in charge of the recruiting efforts for that position. This starts with writing the job description and publishing it on the getclef.com, but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
+For every position open at Learners Guild, there should be one team member who is in charge of the recruiting efforts for that position. This starts with writing the job description and publishing it on the leaernesguild.org, but also means proactively searching for people who might be a good fit, looking for pools of candidates that we can recruit from, and asking friends for introductions to promising candidates.
 
-It is critical that we find talent pools of diverse candidates to pull from, and that our outbound recruiting intentionally target underrepresented groups. If we are recruiting from universities, we need to be careful about which schools we draw from. If we are pulling people from other companies, it’s important that we are thoughtful about the location and industry biases of those companies. Learners Guild works with and supports many local and national organizations that focus on growing the number of underrepresented minorities in the tech industry, including Hack the Hood, Women Who Code, and Qeyno Labs. Our work with these communities should help us find pools of candidates to recruit from.
+It is critical that we find talent pools of diverse candidates to pull from, and that our outbound recruiting intentionally target underrepresented groups. If we are recruiting from universities, we need to be careful about which schools we draw from. If we are pulling people from other companies, it’s important that we are thoughtful about the location and industry biases of those companies. Learners Guild will work with and support many local and national organizations that focus on growing the number of underrepresented minorities in the tech industry. Our work with these communities should help us find pools of candidates to recruit from.
 
 ## Inbound Applications
 
