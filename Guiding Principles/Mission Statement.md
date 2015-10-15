@@ -21,6 +21,22 @@ We believe learning should be profitable for everyone: We are for purpose and fo
 
 With our learners, we take full responsibility for every member learning the craft and gaining meaningful employment, with the equal understanding that we are focused on helping individuals with the motivation to achieve this craft and obtain valued employment. 
 
+## Public Benefit Corporation
+
+Learners Guild is a Social enterprise. We are incorporated as a Public Benefit Corporation. The public benefit we provide is two fold:
+
+A. **The personal growth and transformation of the Guild’s stakeholders**. Measured subjectively by: 
+  * the percentage of stakeholders that feel they have personally grown
+  * the degree to which they feel they have been impacted by the Guild.
+
+B. **The meaningful employment of Guild members in software development careers**. Measured objectively by:
+  * Placement rate
+  * Average starting salary
+  * Percentage of members drawn from underrepresented socioeconomic classes, ethnicities and genders.
+  
+  And measured subjectively by how meaningful the members feel their work is
+
+
 > “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.”~ John Dewey
 
 ### Notes
