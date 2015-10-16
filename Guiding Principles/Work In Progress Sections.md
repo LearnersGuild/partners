@@ -68,4 +68,5 @@ When people talk about learning a new skill to thrive in the modern economy, we 
 * experiment, don't argue
 * strong opinions held lightly
 * love is important. use the word. express it. allow it. serve it. it belongs at work. it belongs in our learning communities. it's appropriate. 
+* don't be afraid to sound ridiculous. or feal that fear but do it anyway. 
 
