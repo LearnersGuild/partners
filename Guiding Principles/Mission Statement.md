@@ -17,7 +17,7 @@ We achieve this goal by building a learning community of beginner software devel
 
 We build systems that support a thriving learning culture: inclusive, safe, and effective. We invest financial, curricular, and mentoring support in our learning communities. We believe learning is a collective and personal transformation: we provide social and emotional intelligence curricula to facilitate the journey.
 
-We believe learning should be profitable for everyone: We are for purpose and for profit. We do not sacrifice one for the other. Our financial goals are aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business.<sup name="a2">[2](#f2)</sup>
+We believe learning should be profitable for everyone: We are for purpose and for profit. We do not sacrifice one for the other. Our financial success is aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business.<sup name="a2">[2](#f2)</sup>
 
 With our learners, we take full responsibility for every member learning the craft and gaining meaningful employment.
 
