@@ -52,3 +52,7 @@ clarify don't control
 slow down to speed up
 don't leave the team
 don't triangulate
+lead with clarity
+experiment, don't argue
+strong opinions held lightly
+
