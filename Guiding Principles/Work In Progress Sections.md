@@ -59,12 +59,13 @@ When people talk about learning a new skill to thrive in the modern economy, we 
 
 
 ## Rules of thumb
-minimize bullshit
-clarify don't control
-slow down to speed up
-don't leave the team
-don't triangulate
-lead with clarity
-experiment, don't argue
-strong opinions held lightly
+* minimize bullshit
+* clarify don't control
+* slow down to speed up
+* don't leave the team
+* don't triangulate
+* lead with clarity
+* experiment, don't argue
+* strong opinions held lightly
+* love is important. use the word. express it. allow it. serve it. it belongs at work. it belongs in our learning communities. it's appropriate. 
 
