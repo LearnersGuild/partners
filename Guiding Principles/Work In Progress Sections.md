@@ -46,6 +46,18 @@ Everyone takes responsibility for the culture.
 Culture is “self organizing”
 "Structure drives behavior":
 
+## Vision
+
+It is 2035. In Oakland, New York, Cairo, Mexico City, Dhaka, Budapest, Rangoon, Johannesburg, La Paz, and hundreds of other locales, you can walk into a Learner’s Guild and find mentorship, community, and an education for evolving human civilization. 
+
+Educational and economic resources are sourced from the strength of the network and provided to those with the greatest need and drive.
+
+As a partner/member/learner, I cycle through periods of teaching, periods of learning, and periods of engaged practice. Though the borders between those three aren’t always clear, if they exist at all.
+
+When people talk about learning a new skill to thrive in the modern economy, we are the unquestioned choice. The embodiment of post-industrial education; a paragon of democracy, human dignity, and human potential.
+
+
+
 ## Rules of thumb
 minimize bullshit
 clarify don't control
