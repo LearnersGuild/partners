@@ -2,9 +2,11 @@
 
 # Interview & Hiring Process
 
+## Stages
+
 Every candidate will go through three interviews that help us find the right person for the job.
 
-## Stage 0: Initial Contact and Communications
+### Stage 0: Initial Contact and Communications
 
 Before they are interviewed, the candidate will show some relevant work that will help give us an initial screen and something to talk about in the first coffee interview.
 
@@ -24,7 +26,7 @@ The technical interview is a chance to **dive into the candidate’s ability** a
 
 The last 30 minutes will be be used for questions and answers from both sides. This interview should filter out 50-70% of candidates (of the remaining 20%), and by the end of it, the lead interviewer should have an opinion on whether or not the candidate is the right person for the job.
 
-# Stage 3: Team Fit — Full Day
+## Stage 3: Team Fit — Full Day
 
 Finally, the candidate will come in for a whole day of work and discussion with the team. In the morning they'll drill into a much more challenging problem than they had to deal with in their technical interview.
 
@@ -32,8 +34,14 @@ The purpose of this stage is to get a sense for how candidates handle a task out
 
 After the morning exercises, candidates go out to lunch with the team before coming back to the office for one on ones (or one on twos) with everyone, depending on time constraints and team size.
 
-# Anonimized Resumes
+## Protocols
 
-# Rooney Rule
+### Anonymized Resumes
 
-# Six Month Engagement
+Resumes will be reviewed without including identifying information for the candidate. Information indicating name, age, race, and gender will be excluded from resumes before they are reviewed by the official reviewer.
+
+The purpose of anonymized resumes is twofold. One, we want to ensure that the qualities for which we evaluate candidates are solely the ones which correspond to and indicate their fitness for the position. Two, we are aware of and seek to counteract the ways that unconscious bias influences the reviewer.
+
+### Rooney Rule
+
+### Six Month Engagement
