@@ -87,3 +87,19 @@ $175,000 was raised on notes with a cap of $5m
 $1,683,555 was raised on notes with a cap of $6m
 
 Anyone is always welcome to ask B, our CEO, any questions they have about their options, Learners Guild’s fundraising, or anything else related to equity at Learners Guild. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+
+
+## Notes from conversation with David
+
+five points about options
+common is worth less than preferred because of liquidation preference
+options worth less than stock
+competing with market; not only with what is fair
+getting a locked in price for four years; if things go well and company appreciates - you'll havw bought at a discount
+this is money we don’t need to raise; we're actually cash solvent
+why give options?
+want employees to feel they participate in upside
+want employees to actually have an upside
+whats the goal?
+goal is to keep the price as low as possible without running out
+make it work for everybody taking 25% in equity.
