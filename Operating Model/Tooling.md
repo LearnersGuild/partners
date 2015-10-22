@@ -50,13 +50,26 @@ Link: <br>
 Purpose: <br>
 Users: All partners.
 
-### Google Mail (Gmail)
+### Email (Google Mail)
 
 Link: <br>
 Purpose: External communications.<br>
 Users: All partners.
 
-Each partner will receive a Learners Guild email address.
+Each partner will receive a Learners Guild email address in the format:
+
+  <first name>@learnersguild.org
+  // e.g.: shereef@learnersguild.org
+
+If the address is not available, use either of the following formats:
+
+  <first name>.<first letter of last name>@learnersguild.org
+  // e.g.: shereef.b@learnersguild.org
+
+or
+
+  <first name>.<last name>@learnersguild.org
+  // e.g.: shereef.bishay@learnersguild.org
 
 Email is to be used _solely_ for external communications, _not_ internal communications. Partners and members will always communicate via Slack.
 
