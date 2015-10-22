@@ -40,7 +40,7 @@ After the morning exercises, candidates go out to lunch with the team before com
 
 Resumes is reviewed without including identifying information for the candidate. Information indicating name, age, race, and gender is excluded from resumes before they are reviewed by the official reviewer.
 
-The purpose of anonymized resumes is twofold. One, we want to ensure that the qualities for which we evaluate candidates are solely the ones which correspond to and indicate their fitness for the position. Two, we are aware of and seek to counteract the ways that unconscious bias influences the reviewer.
+The purpose of anonymized resumes is twofold. One, we want to ensure that the qualities for which we evaluate candidates are solely the ones which correspond to and indicate their fitness for the position. Two, we hold the world view that systematic bias and oppression are alive and well; we are not immune to these realities. We design with this perspective in mind.
 
 ### Rooney Rule
 
@@ -53,20 +53,22 @@ The hiring process for any candidate does not move beyond Stage 2 until these cr
 
 Our intent in establishing this rule is to place constraints which direct us towards equality for all partners. We acknowledge that these aims must be sought actively, because passivity only serves to perpetuate existing inequalities and injustices.
 
-### Six Month Commitment
+### Six Month Engagement
 
-Once an applicant has been accepted and hired, they enter into a six month commitment period. During this period, the new hire (referred to here as the **initiate**) is treated as a full partner with all corresponding benefits and responsibilities. At the end of this period, the initiate meets with at least 2 other partners to decide whether or not to continue their employment.
+Once an applicant has been accepted and hired, they enter into a six month engagement period. During this period, the new hire (referred to here as the **provisional partner**) is treated as a full partner with all corresponding benefits and responsibilities.
 
-The other partners involved in the decision include at least one of the following:
+At the end of this period, the provisional partner meets with at least 2 other partners to decide whether or not to continue their employment. The other partners involved in the decision include at least one of the following:
 
-- The partner responsible for hiring the initiate
-- The partner who has worked most closely with the initiate
-- The partner whose domain and responsibilities are most affected by the initiate
+- The partner responsible for hiring the provisional partner
+- The partner who has worked most closely with the provisional partner
+- The partner whose domain and responsibilities are most affected by the provisional partner
 
-The idea behind this structure is to allow both the initiate and the rest of the team time to figure out if the initiate is a good fit for their position. The end of the commitment is a time to address concerns and provide cumulative feedback.
+The idea behind this structure is to allow both the provisional partner and the rest of the team time to figure out if the provisional partner is a good fit for their position. The end of the engagement is a time to address concerns and provide cumulative feedback.
 
-If any of the involved partners (especially the initiate) feel that the initiate is not a good fit for their position, then they together decide to either end the initiate's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing  takes over the process and make the final call.
+If any of the involved partners (especially the provisional partner) feel that the provisional partner is not a good fit for their position, then they together decide to either end the provisional partner's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing  takes over the process and make the final call.
 
-If all involved partners are content (especially the initiate), then the commitment period is over and the initiate is officially a full partner.
+If all involved partners are content (especially the provisional partner), then the engagement period is over and the provisional partner is officially a full partner.
+
+It is important to emphasize that this is not a "trial" period. The provisional partner and the team have made a serious commitment to each other, and both will respect that commitment. The engagement period is a time to build that relationship and to work towards a more serious commitment.
 
 [guide]: https://github.com/LearnersGuild/guide
