@@ -54,4 +54,18 @@ The hiring process for any candidate will not move beyond Stage 2 until these cr
 
 Our intent in establishing this rule is to place constraints which direct us towards equality for all partners. We acknowledge that these aims must be sought actively, because passivity will only serve to perpetuate existing inequalities and injustices.
 
-### Six Month Engagement
+### Six Month Commitment
+
+Once an applicant has been accepted and hired, they enter into a six month commitment period. During this period, the new hire (referred to here as the **initiate**) will be treated as a full partner with all corresponding benefits and responsibilities. At the end of this period, the initiate will meet with at least 2 other partners to decide whether or not to continue their employment.
+
+The other partners involved in the decision will include at least one of the following:
+
+- The partner responsible for hiring the initiate
+- The partner who has worked most closely with the initiate
+- The partner whose domain and responsibilities are most affected by the initiate
+
+The idea behind this structure is to allow both the initiate and the rest of the team time to figure out if the initiate is a good fit for their position. The end of the commitment is a time to address concerns and provide cumulative feedback.
+
+If any of the involved partners (especially the initiate) feel that the initiate is not a good fit for their position, then they will together decide to either end the initiate's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing will take over the process and make the final call.
+
+If all involved partners are content (especially the initiate), then the commitment period is over and the initiate is officially a full partner.
