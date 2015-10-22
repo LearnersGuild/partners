@@ -9,7 +9,7 @@
 
 The Learners Guild’s mission is to provide the opportunity for anyone who has the will and capacity to become a professional software developer to be able to do so.
 
-Today, as many as 30 million Americans are unemployed or severely underemployed. At the same time, there are hundreds of thousands of unfilled software engineering jobs, and that number grows every year.
+Today, millions of Americans are unemployed or severely underemployed. At the same time, there are hundreds of thousands of unfilled software engineering jobs, and that number grows every year.
 The  higher education system is broken, with rising tuition, poor results, and mounting student debt.
 The technology industry has a diversity problem: Women are largely underrepresented, and Blacks and Latinos are almost invisible. As a result the future is being built by people who represent a fraction of it.
 
