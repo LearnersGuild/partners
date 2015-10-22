@@ -20,9 +20,42 @@ Suggested software
 
 ## Social Tools
 
-Asana
-Dropbox
-Glassfrog
-Google Drive
-Google Mail (Gmail)
-Trello
+### Asana
+
+Link: <br>
+Purpose: <br>
+
+### Dropbox
+
+Link: <br>
+Purpose: <br>
+
+### Glassfrog
+
+Link: <br>
+Purpose: <br>
+
+### Google Calendar
+
+Link: <br>
+Purpose: <br>
+
+### Google Drive
+
+Link: <br>
+Purpose: <br>
+
+### Google Mail (Gmail)
+
+Link: <br>
+Purpose: <br>
+
+### Trello
+
+Link: <br>
+Purpose: <br>
+
+### Workable
+
+Link: <br>
+Purpose: <br>
