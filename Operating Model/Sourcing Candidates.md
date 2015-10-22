@@ -32,8 +32,9 @@ As with all candidates, they will be treated with respect.
 
 Every inbound application will receive a response from the Learners Guild team within 3 days so that they feel heard and like they were able to reach us personally.
 
-Note: We use Workable to manage candidates, but when you "Disqualify" a candidate on Workable, it does not send the candidate an email or let them know that they have been disqualified. You should always send the candidate an email before you Disqualify them.
+Note: We use [Workable][tooling-workable] to manage candidates, but when you "Disqualify" a candidate on Workable, it does not send the candidate an email or let them know that they have been disqualified. You should always send the candidate an email before you Disqualify them.
 
 [jobs-page]: TODO need link
 [slack-hiring-channel]: TODO need link
+[tooling-workable]: https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Tooling.md#workable
 [referral-bonuses]: https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md
