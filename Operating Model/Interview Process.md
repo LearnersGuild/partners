@@ -46,9 +46,8 @@ The purpose of anonymized resumes is twofold. One, we want to ensure that the qu
 
 The process of sourcing and hiring candidates will adhere to a modified version of the [Rooney Rule](https://en.wikipedia.org/wiki/Rooney_Rule). Under our Rooney Rule, the candidate pool for any position by the beginning of Stage 2 must meet the following criteria:
 
-- No more than 1/3 of the candidates identify as white cisgendered males.
-- At least 1/3 of the candidates identify as women.
-- At least 1/2 of the candidates identify as belonging to a minority ethnicity.
+- At least 2 the candidates identify as women.
+- At least 2 the candidates identify as belonging to a minority ethnicity.
 
 The hiring process for any candidate will not move beyond Stage 2 until these criteria have been satisfied for the position in question.
 
