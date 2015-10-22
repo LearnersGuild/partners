@@ -22,6 +22,10 @@ _Words and phrases which have specific meaning in the context of Learners Guild 
 - member
 - team
 - circle
+- pod
+- cohort
+- learner
+- stakeholder
 
 ## Appropriate Communication
 
