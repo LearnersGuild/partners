@@ -45,13 +45,13 @@ Learners Guild
 * [One on Ones](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
 * [Product Manifesto](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
 
-## Operations Documents
-* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Budgeting.md)
-* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Hack%20Weeks.md)
-* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Onboarding.md)
-* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operations%20Documents/Sharing%20Files.md)
+## Operating Model
+* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
+* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
+* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
+* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Hack%20Weeks.md)
+* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
+* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
 
 ## Benefits and Perks
 * [Health Care and Disability Insurance](https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
