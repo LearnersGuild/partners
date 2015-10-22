@@ -10,7 +10,7 @@ Every candidate goes through three interviews that help us find the right person
 
 Before they are interviewed, the candidate shows some relevant work that helps give us an initial screen and something to talk about in the first coffee interview.
 
-They also receive a blurb about Learners Guild, the position, and our values so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular are emphasized here so that they understand how important they are to the Learners Guild team and to make sure they align.**
+They also receive a blurb about Learners Guild, the position, and our [guide][guide] so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular are emphasized here so that they understand how important they are to the Learners Guild team and to make sure they align.**
 
 ## Stage 1: Informal/Coffee — 30 Minutes
 
@@ -68,3 +68,5 @@ The idea behind this structure is to allow both the initiate and the rest of the
 If any of the involved partners (especially the initiate) feel that the initiate is not a good fit for their position, then they together decide to either end the initiate's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing  takes over the process and make the final call.
 
 If all involved partners are content (especially the initiate), then the commitment period is over and the initiate is officially a full partner.
+
+[guide]: https://github.com/LearnersGuild/guide
