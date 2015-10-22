@@ -31,8 +31,10 @@ Think twice about private projects. Close the gaps.
 ### Dropbox
 
 Link: <br>
-Purpose: <br>
+Purpose: Files, documents, resources.<br>
 Users: All partners.
+
+Read [Sharing Files][sharing-files] for more information about how files work at Learners Guild.
 
 ### Glassfrog
 
@@ -43,12 +45,6 @@ Users: All partners.
 Difference between projects here and projects there.
 
 ### Google Calendar
-
-Link: <br>
-Purpose: <br>
-Users: All partners.
-
-### Google Drive
 
 Link: <br>
 Purpose: <br>
@@ -77,3 +73,5 @@ Think twice about DM channels. Close the gaps.
 Link: <br>
 Purpose: Managing recruitment.<br>
 Users: Partners responsible for recruiting and hiring.
+
+[sharing-files]: Sharing%20Files.md
