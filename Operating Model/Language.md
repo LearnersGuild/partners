@@ -14,6 +14,20 @@ _Style and format instructions for official communications, e.g. capitalization 
   - Do not use an apostrophe "Learners' Guild" or "Learner's Guild"
   - When whitespace characters are unavailable, use Pascal case: "LearnersGuild"
 
+### Tense and Voice
+
+The default tense and voice for written, official copy is **present declarative**. Avoid future tense, and passive, prescriptive, or directive voice.
+
+Good:
+
+  Partners touch their noses upon meeting each other.
+
+Avoid:
+
+  Partners should touch their noses upon meeting each other.
+  Partners will touch their noses upon meeting each other.
+  The noses of partners are touched upon meeting each other.
+
 ## Glossary of Terms
 
 _Words and phrases which have specific meaning in the context of Learners Guild are to be defined here._
