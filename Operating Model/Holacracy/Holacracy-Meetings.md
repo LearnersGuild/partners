@@ -22,7 +22,7 @@ This is [Holacracy One’s video](http://holacracy.org/resources/video-governanc
 
 Here is the [Governance Meeting flow](https://drive.google.com/file/d/0B-OhONdCZsZ3OVpEWVF1eEIzWWM/edit?usp=sharing)
 
-In order to move governance along in between meetings, at DBC we allow roles to propose Governance into email.
+In order to move governance along in between meetings, at Learners Guild we allow roles to propose Governance into email.
 
 [This video](https://vimeo.com/94226817) speaks a little about when to use email Governance vs. taking a tension to a meeting.
 
