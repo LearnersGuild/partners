@@ -36,7 +36,7 @@ Learning is change. When people learn, they change. Their beliefs change. Their 
 
 Every role at Learners Guild has a purpose that is designed to ultimately serve the organization’s purpose. Each partner fills one or more roles and commits to taking on their roles’ purpose as their own, prioritizing it over their own personal agenda.
 
-### Focus on Core Competencies, Outsource the Rest
+### Core Mastery over Broad Capacity
 
 Building an organization designed to scale exponentially, we will not attempt to become good at everything.<sup name="a4">[4](#f4)</sup> Instead, we’ll focus on a set of core competencies to master and outsource the rest.
 
