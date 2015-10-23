@@ -7,19 +7,18 @@ The organization and governance model of Learners Guild is based on [Holacracy][
 We run our business on a modified version of the [Holacracy Constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) that allows for circles to opt in and out of self-governance. Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
 # Getting Started with Holacracy
-- Check out [Why Holacracy](https://github.com/Devbootcamp/Holacracy/wiki#why-holacracy)
+- Check out [Why Holacracy](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Organization%20and%20Governance.md#why-holacracy)
 
 - Watch the [introduction video](http://holacracy.org/intro) and read this [general summary](http://chrisriedy.me/2013/05/28/holacracy-a-social-technology-for-purposeful-organisation/)
 
-- Learn the different [Terms and Definitions](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions)
+- Learn the different Definitions [Terms and Definitions](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md)
 
-- Learn about [Holacratic Meetings](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Meetings)
+- Learn about [Holacratic Meetings](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Meetings.md)
 
-- Learn about the [Holacracy Specific Roles](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Specific-Roles)
+- Learn about the [Holacracy Specific Roles](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Specific-Roles.md)
 
-- When you're ready learn more about the [Finer Points of Holacratic Practice](https://github.com/Devbootcamp/Holacracy/wiki/Finer-Points-of-Holacracy)
+- When you're ready learn more about the [Finer Points of Holacratic Practice](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Finer-Points-of-Holacracy.md)
 
-- See the [Holacracy Meetings Calendar](https://www.google.com/calendar/embed?src=devbootcamp.com_67bmmpjmdhkckk7d41jomlp2co%40group.calendar.google.com&ctz=America/Los_Angeles) which has all of the circles meetings on it. (To add this calendar to your list, simply click the "+Google Calendar" link on the bottom right of the screen).
 
 # Why Holacracy
 
