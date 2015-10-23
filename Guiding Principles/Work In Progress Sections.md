@@ -45,16 +45,3 @@ define the culture we’re building in terms of how we feel, what we experience,
 Everyone takes responsibility for the culture.
 Culture is “self organizing”
 "Structure drives behavior":
-
-
-## Rules of thumb
-* minimize bullshit
-* clarify don't control
-* slow down to speed up
-* don't leave the team
-* don't triangulate
-* lead with clarity
-* experiment, don't argue
-* strong opinions held lightly
-* love is important. use the word. express it. allow it. serve it. it belongs at work. it belongs in our learning communities. it's appropriate.
-* don't be afraid to sound ridiculous. or feal that fear but do it anyway.
