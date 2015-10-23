@@ -1,4 +1,4 @@
-# Purpose and Mission
+# Purpose, Mission, and Vision
 
 ## Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.
 
@@ -21,6 +21,16 @@ We build systems that support a thriving learning culture: inclusive, safe, and 
 We believe learning should be profitable for everyone: we are for purpose and for profit. We do not sacrifice one for the other. Our financial success is aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business.<sup name="a2">[2](#f2)</sup>
 
 With our learners, we take full responsibility for every member learning the craft and gaining meaningful employment.
+
+## Vision
+
+It is 2035. In Oakland, New York, Cairo, Mexico City, Dhaka, Budapest, Rangoon, Johannesburg, La Paz, and hundreds of other locales, you can walk into a Learners Guild and find mentorship, community, and an education for evolving human civilization.
+
+Educational and economic resources are sourced from the strength of the network and provided to those with the greatest need and drive.
+
+As a partner/member/learner, I cycle through periods of teaching, periods of learning, and periods of engaged practice. The borders between these three are not always clear, if they exist at all.
+
+When people talk about learning a new skill to thrive in the modern economy, we are the unquestioned choice. We are at the vanguard of post-industrial education; a paragon of democracy, human dignity, and human potential.
 
 ## Public Benefit Corporation
 
