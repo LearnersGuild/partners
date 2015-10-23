@@ -11,8 +11,6 @@
 
 - When you're ready learn more about the [Finer Points of Holacratic Practice](https://github.com/Devbootcamp/Holacracy/wiki/Finer-Points-of-Holacracy)
 
-- See the [Holacracy Meetings Calendar](https://www.google.com/calendar/embed?src=devbootcamp.com_67bmmpjmdhkckk7d41jomlp2co%40group.calendar.google.com&ctz=America/Los_Angeles) which has all of the circles meetings on it. (To add this calendar to your list, simply click the "+Google Calendar" link on the bottom right of the screen).
-
 # Why Holacracy
 
 We adopted Holacracy because we were struggling with a couple of things at DBC:
