@@ -20,6 +20,16 @@ Learners Guild
 * [Values](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Learners%20Guild%20Values.md)
 * [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
 
+## Operating Model
+* [Organization & Governances](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Organization%20and%20Governance.md)
+* [Getting Things Done](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/GTD.md)
+* [Language](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Language.md)
+* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
+* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
+* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
+* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
+* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
+
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/At-Will%20Employment.md)
@@ -27,7 +37,6 @@ Learners Guild
 * [Code of Conduct in the Community](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Partner Privacy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Partner%20Privacy.md)
 * [Working Remotely](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ## Hiring Documents
@@ -38,20 +47,9 @@ Learners Guild
 * [Guide Introduction](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Guide%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Learners Guild](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
-* [Direct Reports](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Direct%20Reports.md)
+* [Welcome to Learners Guild](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Learners%20Guild.md)
 * [Internal Transparency](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 * [Objectives and Key Results](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
-* [One on Ones](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
-* [Product Manifesto](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
-
-## Operating Model
-* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
-* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
-* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Hack%20Weeks.md)
-* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
-* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
 
 ## Benefits and Perks
 * [Health Care and Disability Insurance](https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
@@ -68,5 +66,6 @@ Learners Guild
 # Acknowledgements
 
 A large chunk of this Guide was forked from Clef's excellent [Partner Handbook](https://github.com/clef/handbook)
+Holacracy pages and how-tos was forked from the excellent folks at [DevBootcamp](https://github.com/Devbootcamp/Holacracy/wiki)
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our efforts (and Clef's)
