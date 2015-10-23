@@ -22,6 +22,8 @@ After a candidate accepts an offer to join Learners Guild, there are a few thing
   - [Holacracy Constitution][holacracy-constitution] for Learners Guild (required)
   - [Getting Things Done][gtd-book] (required)
   - [Deschooling Society][deschooling-society]
+  - [The Power of Mindful Learning][mindful-learning]
+  - [Thinking in Systems][thinking-in-systems]
   - [Soul Without Shame][soul-without-shame]
 
 1. Set up payroll, benefits, etc.
@@ -68,3 +70,5 @@ From there, the process should merge towards the normal process. It’s importan
 [deschooling-society]: http://learning.media.mit.edu/courses/mas713/readings/DESCHOOLING.pdf
 [gtd-book]: http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
 [soul-without-shame]: http://soulwithoutshame.com/
+[mindful-learning]: http://www.ellenlanger.com/books/2/the-power-of-mindful-learning
+[thinking-in-systems]: http://www.chelseagreen.com/thinking-in-systems
