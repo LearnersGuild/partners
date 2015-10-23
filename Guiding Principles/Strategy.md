@@ -1,11 +1,11 @@
 # Strategy
 ## Emphasizing Scale over Quality
 
-At the core of a for profit education business is a trade off between quality and scale. Learners Guild mission is to build highly scalable learning communities. We approach our business with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”. Any feature too complex to scale (for example, if it depends on rockstar, high talented individuals) is cut.
+At the core of a for profit education business is a trade off between quality and scale. Learners Guild mission is to build highly scalable learning communities. We approach our business with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”. Any feature too complex to scale (for example, if it depends on rockstar, highly talented individuals) is cut.
 
 ## Emphasizing Experimentation over Planning
 
-Instead of spending time and energy attempting to “Predict and Control”, we run our business, and build our offerings through a process of “Dynamic Steering”. Our focus is on designing and building an agile framework where small, rapid, experiments are conducted, learned from, and improved on.<sup name="a1">[1](#f1)</sup>
+Instead of spending time and energy attempting to “Predict and Control”, we run our business and build our offerings through a process of “Dynamic Steering”. Our focus is on designing and building an agile framework where small, rapid experiments are conducted, learned from, and improved upon.<sup name="a1">[1](#f1)</sup>
 
 ## Emphasizing Opinionated Defaults over Personalized Customization
 
@@ -25,49 +25,50 @@ Learning is change. When people learn, they change. Their beliefs change. Their 
 
 ## Emphasizing Role Purpose over Personal Agenda
 
-Every role at Learners Guild has a purpose that is designed to ultimately serve the organization’s purpose. Each partner fills one or more roles and commits to taking on their roles’ purpose as their own; prioritizing it over their own personal agenda.
+Every role at Learners Guild has a purpose that is designed to ultimately serve the organization’s purpose. Each partner fills one or more roles and commits to taking on their roles’ purpose as their own, prioritizing it over their own personal agenda.
 
-## Focus on core competencies, outsource the rest
+## Focus on Core Competencies, Outsource the Rest
 
-Building an organization designed to scale exponentially, we will not attempt to become good at everything.<sup name="a4">[4](#f4)</sup> Instead, we’ll focus on a set of core competencies to master and outsource the rest:
+Building an organization designed to scale exponentially, we will not attempt to become good at everything.<sup name="a4">[4](#f4)</sup> Instead, we’ll focus on a set of core competencies to master and outsource the rest.
 
-### Core Competencies to be mastered:
-  * Learning architecture
-  * Curriculum OS
-  * Group facilitation
-  * Training group facilitators
-  * Engineering Empathy curriculum
-  * Community building
-  * Membership enrollment
-  * Financial instruments
-  * Fund Raising
+##### Core competencies to be mastered:
 
-### Peripheral competencies to be outsourced
-  * Software development<sup name="a5">[5](#f5)</sup>
-  * Curriculum curation<sup name="a6">[6](#f6)</sup>
-  * Curriculum content
-  * Marketing
-  * Accounting
-  * Real estate sourcing
-  * Facilities management
-  * Legal/Regulatory Compliance
-  * HR/Payroll/Benefits
+* Learning architecture
+* Curriculum OS
+* Group facilitation
+* Training group facilitators
+* Engineering Empathy curriculum
+* Community building
+* Membership enrollment
+* Financial instruments
+* Fundraising
 
-###Notes
+##### Peripheral competencies to be outsourced
+
+* Software development<sup name="a5">[5](#f5)</sup>
+* Curriculum curation<sup name="a6">[6](#f6)</sup>
+* Curriculum content
+* Marketing
+* Accounting
+* Real estate sourcing
+* Facilities management
+* Legal/Regulatory Compliance
+* HR/Payroll/Benefits
+
+### Notes
 
 <sup name="f1">1</sup>“True stability results when presumed order and presumed disorder are balanced. A truly stable system expects the unexpected, is prepared to be disrupted, waits to be transformed.” ~ Tom Robbins[↩](#a1)
 
-<sup name="f2">2</sup> For example: If given the opportunity to leverage a personal connection to help a guild member get a job they might not have otherwise, we will refrain until we have a process in place to do that at scale.
+<sup name="f2">2</sup> For example: if given the opportunity to leverage a personal connection to help a guild member get a job they might not have otherwise, we will refrain until we have a process in place to do that at scale.
 [↩](#a2)
 
-<sup name="f3">3</sup>“Learning traditionally gets measured with the assumption that it is a possession of individuals that can be found inside their heads… We think learning is in the relationships between people. Learning occurs within the conditions that bring people together and organize a point of contact that allows for particular pieces of information to take on a relevance; without the points of contact, without the system of relevancies, there is no learning, and there is little memory. Learning does not belong to individual persons, but to the various conversations of which they are a part.” ~ McDermott
+<sup name="f3">3</sup>“Learning traditionally gets measured with the assumption that it is a possession of individuals that can be found inside their heads… We think learning is in the relationships between people. Learning occurs within the conditions that bring people together and organize a point of contact that allows for particular pieces of information to take on a relevance; without the points of contact, without the system of relevancies, there is no learning, and there is little memory. Learning does not belong to individual persons, but to the various conversations of which they are a part.” ~ R.P. McDermott
 [↩](#a3)
 
 <sup name="f4">4</sup> A core competency is the set of skills that we want to be the best in the world at. We want everything done well, both core and outsourced. The core competencies are the ones we want to do better than anyone. For example, we aim for someone saying “Oh, you want to learn to be the best Group Facilitator, go work at the Guild”, but we don’t aim for “Oh, you want to learn to be the best Software Developer, go work at the Guild”.[↩](#a4)
 
 <sup name="f5">5</sup>This is the competency most likely to switch to core. It’s right on the fence.[↩](#a5)
 
-<sup name="f6">6</sup>Q. Why is Engineering Empathy Curriculum a core competency, while the technical curriculum isn’t?
-
-A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from javascript to swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.
-[↩](#a6)
+<sup name="f6">6</sup>
+  Q. Why is Engineering Empathy Curriculum a core competency, while the technical curriculum isn’t?<br>
+  A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from JavaScript to Swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.[↩](#a6)
