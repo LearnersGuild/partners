@@ -10,8 +10,6 @@ Reid Hastings calls it "Work/Life Integration" and while there are a lot of othe
 sustainable over opportunistic
 pace? what sets it?
 
-## skills building over signalling (no certificates, no degrees, no focus on branding, rather: portfolios, code, experience, skills)
-
 ## outside the system over within the system
 
 ## diversity/inclusion (what’s our commitment here, what’s our strategy here?)

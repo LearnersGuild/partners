@@ -64,6 +64,12 @@ Building an organization designed to scale exponentially, we will not attempt to
 * Legal/Regulatory Compliance
 * HR/Payroll/Benefits
 
+### Substantive Evidence over Symbolic Evidence
+
+Evidence of learning or capacity is hard to determine. Society is full of symbolic evidence of learning: degrees, certificates, accreditations of one form or another. We believe that these proxies tend to obscure more than clarify. For this reason, we do not to offer them.
+
+We choose to take as evidence of learning the products of praxis: portfolios, code, experience, skills, etc.
+
 ## Individual Heuristics
 
 ### Slow down to speed up
