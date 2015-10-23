@@ -68,27 +68,33 @@ Building an organization designed to scale exponentially, we will not attempt to
 
 ### Slow down to speed up
 
+You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box][eisenhower-box].
 
-### Minimize bullshit
+### Keep it real
 
+A.K.A "minimize bullshit". Sugar coating leads to cavities. Be real. You know what that means.
 
-### Clarify don't control
+### Seek to clarify, not to control
 
+When reality is not aligned with how you wish it to be, clarify the dissonance for others instead of demanding that it be fixed. Our ideal reality is not always shared by others; to move together we must first agree on where and what the dissonances are.
 
-### Don't leave the team
+Autonomy only works if we choose to communicate over command. In a cooperative environment, we lead with clarity.
 
+### Play harmonies, not solos
+
+Working with a team involves an implicit (and hopefully, explicit) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
 
 ### Don't triangulate
 
+<!-- what does this mean? -->
 
-### Lead with clarity
+### Run experiments, not your mouth
 
+Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth.
 
-### Experiment, don't argue
+### Hold strong opinions lightly
 
-
-### Strong opinions held lightly
-
+Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning.
 
 ### Love is important
 
@@ -116,3 +122,5 @@ Or feel that fear but do it anyway.
 <sup name="f6">6</sup>
   Q. Why is Engineering Empathy Curriculum a core competency, while the technical curriculum isn’t?<br>
   A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from JavaScript to Swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.[↩](#a6)
+
+[eisenhower-box]: http://jamesclear.com/eisenhower-box
