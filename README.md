@@ -27,7 +27,6 @@ Learners Guild
 * [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
 * [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
 * [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
-* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Hack%20Weeks.md)
 * [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
 * [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
 
