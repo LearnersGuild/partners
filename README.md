@@ -20,6 +20,17 @@ Learners Guild
 * [Values](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Learners%20Guild%20Values.md)
 * [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
 
+## Operating Model
+* [Organization & Governances](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Organization%20and%20Governance.md)
+* [Getting Things Done](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/GTD.md)
+* [Language](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Language.md)
+* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
+* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
+* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
+* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Hack%20Weeks.md)
+* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
+* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
+
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/At-Will%20Employment.md)
@@ -44,14 +55,6 @@ Learners Guild
 * [Objectives and Key Results](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 * [One on Ones](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
 * [Product Manifesto](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
-
-## Operating Model
-* [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
-* [Budgeting](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Budgeting.md)
-* [Hack Weeks](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Hack%20Weeks.md)
-* [Onboarding](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Onboarding.md)
-* [Sharing Files](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sharing%20Files.md)
 
 ## Benefits and Perks
 * [Health Care and Disability Insurance](https://github.com/LearnersGuild/guide/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)

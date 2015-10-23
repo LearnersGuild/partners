@@ -101,4 +101,4 @@ They are called tensions because that is how they literally manifest in our bodi
 
 What is asked of every partner around tensions is to honor your intuition – if you literally “feel a tension” then that is to be respected and listened to. Each of our roles’ tensions and processing them is what drives Learners Guild forward.They are an integral and necessary part of how we do work in Holacracy, they are not a problem.
 
-Here’s a [flow chart](https://workflowy.com/shared/a2756c36-c412-5f9f-869f-b5e8b4e984ca/) of how to think about/process tensions.
+Here’s a [flow chart](https://workflowy.com/s/p3csxr0B9d) of how to think about/process tensions.

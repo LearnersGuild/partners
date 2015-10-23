@@ -37,10 +37,10 @@ This is a great [FAQ](http://clarifyingquestions.wordpress.com/) by the founder 
 
 ## Missing sections
 
-Why Holacracy
-Materials
-Glassfrog
-Holacracy coaching (what is it, how to get it)
-Modification of the constitution: the governor role. Why a modified constitution?
-Resources: the book, holacracy site, articles, re-inventing organizations, videos...etc.
-Links to kung fu of holacracy
+* Why Holacracy
+* Materials
+* Glassfrog
+* Holacracy coaching (what is it, how to get it)
+* Modification of the constitution: the governor role. Why a modified constitution?
+* Resources: the book, holacracy site, articles, re-inventing organizations, videos...etc.
+* Links to kung fu of holacracy
