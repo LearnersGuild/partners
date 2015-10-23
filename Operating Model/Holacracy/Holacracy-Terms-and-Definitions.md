@@ -1,0 +1,102 @@
+**Terms:**
+- [Accountability](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability)
+- [Circle](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#circle)
+- [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain)
+- [Objection](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#objection)
+- [Partner](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#partner)
+- [Policy](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#policy)
+- [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose)
+- [Role](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#role)
+- [Tension](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#tension)
+
+# Accountability
+The Holacracy operating system distributes power throughout an organization, by defining roles with the accountability and authority to make various decisions and take action – authority no one else can “trump”.
+
+Each circle/role has a series of accountabilities (they cannot be created without at least one) that all start with a "ing" ending verb.  This signifies the ongoing work that this role is responsible for.
+
+eg. Updating website with latest news or Interviewing students.
+
+# Circle
+A Circle is a role that's grown larger and needs to break itself down into sub-Roles, so multiple people can work together to express the Circle’s overall Purpose and Accountabilities.  So circles act as roles within their parent circles.
+
+eg. [Admissions](https://glassfrog.holacracy.org/circles/1229) is a circle at DBC, with different roles inside of it, but in its parent circle, the [GCC](https://glassfrog.holacracy.org/circles/1105), Admissions acts as a role with accountabilities, domain, and purpose.  And is represented by its Lead Link.
+
+# Domain
+Domain basically says that an area cannot be edited or changed by any role/circle that doesn't have domain unless permission is first given by the domain holder.
+
+You can think of a Domain as a “property right”, that leads to another simple rule-of-thumb for practicing Holacracy:  You are free to do whatever you wish with your own property (your role’s Domain), but don’t exert control on your neighbor’s property without their permission. We can extend this one step further to include circles as well:  If a circle has been granted a Domain to control, and hasn’t further delegated that Domain to one of its roles, then it’s considered “communal property” of all roles within that circle – any one of them can exert control within that Domain. But, if you fill a role which is not in that circle, you’ll need permission first.
+
+eg. Our Facebook Group
+
+#Objection
+Objections are raised in a Governance meeting.  It is when a partner makes a proposal that you think, through one of your roles, might cause harm or set the organization backwards.
+
+It's sometimes hard not to take objections personally.  They feel like an interruption of the flow and a slowing down of the work we're trying to get done.  However, they are a very important and an integral part of the Holacratic process.  Through objecting and integrating the proposals are chiseled and formed into something that will keep DBC healthy and move us all forward.  We have to trust that others feeling objections from their roles are what's protecting us from creating any damage with our proposals.
+
+However, for this to work well, objections have to be valid.  The facilitator will help the objector reflect on whether or not their objection is valid by checking the objection against these following criteria:
+
+- Will this proposal cause harm, degrade clarity, or set us backwards, or do you just have a better idea? - If it’s a better idea then it is not a valid objection
+
+- Is this harm caused by the proposal, or does it already exist? - If it already exists then it is not a valid objection
+
+- Is this objection based on presently known data, or is it a future fear? - If future fear then it is not a valid objection
+
+- Are you objecting from a role or as yourself as a person? Does this proposal limit any of your roles? - If you’re just speaking, not within a role, then it’s not a valid objection.
+
+- Does this objection have to do with the allocation of resources or assigning of roles around this proposal? - If it does the it’s not a valid objection. (Because allocating resources and assigning roles are up to the Lead link and not part of Governance)
+
+8:50 - 18:30 of [this video](https://vimeo.com/94227010) Karim explains to a facilitator how to test objections.  It's a good view into how we think about objections as facilitators and a great guide for all partners.
+
+# Partner
+Partner is the term we use for anyone who's working at DBC.  A partner does not have any "titles" or "positions" at DBC. They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
+
+It is important to differentiate between a Partner and a Role. Generally partners are not supposed to bring up tensions in meetings or object to proposals as a Partner, rather they need to know which Role they are speaking from.
+
+If someone is feeling a tension as a Partner, however, they are free to speak to whomever has an accountability concerning that tension.  The health of the system depends on all of us speaking our minds and sharing what we see.  But as a Partner I can only make observations and suggestions to relevant roles, if I want to propose or object I need to speak as a Role.
+
+# Policy
+When filling a Role with a Domain, a Partner has the authority to control (authorize or restrict) how other Roles can impact this Domain through policies.
+
+Policies are worded "when x happens, y is done"
+
+eg. The Admissions circle is given domain over the Fluid Review site (our application portal). And the Prep circle uses that same portal as well.  The Admissions circle then adds policies regarding this domain so that Prep knows how to use it in a way that doesn't disrupt operations.
+
+An example of policies there would be: 
+
+- When withdrawing students from their cohort, the student's cohort category should not be removed.
+
+- When sending emails to students, applications@ must be cc'd.
+
+# Purpose
+The Holacracy governance process is not governance “of the people, by the people, and for the people” – it is governance of the organization, through the people, for the **purpose**. It enables the organization to find and express its deepest creative capacity.
+
+For Holacracy to function well, all roles and circles in the organization are focused on purpose.  Their own purpose in service of the larger organization's purpose as a whole.  These purposes are the statements that we all individually and collectively come back to as a guide to what we do.  It is always a great question to ask yourself "is this in service of my role's, circle's, and ultimately DBC's purpose?"
+
+[This is a blog post](http://holacracy.org/blog/beyond-serving-stakeholders) about purpose driven organizations as an evolution from stake-holder driven organizations.
+
+eg. Creating exquisite livelihood for all.
+
+# Role
+A role is not a job title, it is a collection of a purpose, domains, and accountabilities that make sense within one entity, or one role.  Each partner at DBC will fill more than one role, and a role can have more than one partner energizing it.
+
+[This is a blog post](http://holacracy.org/blog/differentiating-role-and-soul) about the difference between Role and Soul.
+
+**Check out what the [Holacracy Constitution](http://holacracy.org/constitution) has to say about a Role:**
+A “Role” is an organizational entity meant to be filled and energized by one or more duly-assigned Partners of the Organization, in order to:
+
+- Fulfill a [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
+
+- Control a [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
+
+- Perform [Accountabilities](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
+
+# Tension
+We speak of tensions often, they are the driving force behind any action at DBC.
+
+A tension is what a role feels when they see a difference between how things are, and how things can be.
+
+They are called tensions because that is how they literally manifest in our bodies, as tensions. I could feel a tension because I see an opportunity that we are not utilizing, or I could feel a tension because there is something in our structure or operation that is problematic and causes me tension in role.
+
+What is asked of every partner around tensions is to honor your intuition – if you literally “feel a tension” then that is to be respected and listened to. Each of our roles’ tensions and processing them is what drives DBC forward.They are an integral and necessary part of how we do work in Holacracy, they are not a problem.
+
+Here’s a [flow chart](https://workflowy.com/shared/a2756c36-c412-5f9f-869f-b5e8b4e984ca/) of how to think about/process tensions.
