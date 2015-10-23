@@ -21,6 +21,7 @@ Learners Guild
 * [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
 
 ## Operating Model
+* [Working Together](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Working%20Together.md)
 * [Organization & Governances](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Organization%20and%20Governance.md)
 * [Getting Things Done](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/GTD.md)
 * [Language](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Language.md)
@@ -37,7 +38,6 @@ Learners Guild
 * [Code of Conduct in the Community](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Working Remotely](https://github.com/LearnersGuild/guide/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/LearnersGuild/guide/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
