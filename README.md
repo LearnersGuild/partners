@@ -24,6 +24,7 @@ Learners Guild
 * [Working Together](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Working%20Together.md)
 * [Organization & Governances](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Organization%20and%20Governance.md)
 * [Getting Things Done](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/GTD.md)
+* [Internal Transparency](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Internal%20Transparency.md)
 * [Language](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Language.md)
 * [Sourcing Candidates](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Sourcing%20Candidates.md)
 * [Interview Process](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Interview%20Process.md)
@@ -48,7 +49,6 @@ Learners Guild
 
 ## Onboarding Documents
 * [Welcome to Learners Guild](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Welcome%20to%20Learners%20Guild.md)
-* [Internal Transparency](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 * [Objectives and Key Results](https://github.com/LearnersGuild/guide/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 
 ## Benefits and Perks
