@@ -21,7 +21,9 @@ At all stages, the partner receiving the request can say Yes, No, or negotiate f
 
 3. If mediation fails, a panel of topic-relevant partners is convened. Again the panel does not impose a solution. The just weigh in with what they think is fair, and it's up to the person receiving the request to decide.
 
-4. In an ultimate step, if a resolution is still not reached, the founder is called into the panel. Unlike the previous stages the Founder can choose to impose a solution.
+4. In an ultimate step, if a resolution is still not reached, the founder is called into the panel. Unlike the previous stages the Founder can choose to impose a solution.<sup name="a2">[2](#f2)</sup>
 
 ### Notes
 <sup name="f1">1</sup>This the only process by which a partner is asked to leave Learners Guild.[↩](#a1)
+
+<sup name="f2">2</sup>If the founder is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.[↩](#a2)
