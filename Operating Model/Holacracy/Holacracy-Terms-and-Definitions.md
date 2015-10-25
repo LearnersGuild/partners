@@ -1,15 +1,15 @@
 # Holacracy Terms and Definitions
 
 **Terms:**
-- [Accountability](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability)
-- [Circle](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#circle)
-- [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain)
-- [Objection](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#objection)
-- [Partner](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#partner)
-- [Policy](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#policy)
-- [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose)
-- [Role](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#role)
-- [Tension](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#tension)
+- [Accountability](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#accountability)
+- [Circle](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#circle)
+- [Domain](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#domain)
+- [Objection](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#objection)
+- [Partner](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#partner)
+- [Policy](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#policy)
+- [Purpose](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#purpose)
+- [Role](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#role)
+- [Tension](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md#tension)
 
 ## Accountability
 The Holacracy operating system distributes power throughout an organization, by defining roles with the accountability and authority to make various decisions and take action – authority no one else can “trump”.
@@ -49,6 +49,8 @@ However, for this to work well, objections have to be valid.  The facilitator wi
 
 8:50 - 18:30 of [this video](https://vimeo.com/94227010) Karim explains to a facilitator how to test objections.  It's a good view into how we think about objections as facilitators and a great guide for all partners.
 
+And here's the [guide to testing objections](https://drive.google.com/open?id=0B603F2WUOtLJSjR0RHdKY0VSUmM)
+
 ## Partner
 Partner is the term we use for anyone who's working at Learners Guild.  A partner does not have any "titles" or "positions". They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
 
@@ -86,11 +88,11 @@ A role is not a job title, it is a collection of a purpose, domains, and account
 **Check out what the [Holacracy Constitution](http://holacracy.org/constitution) has to say about a Role:**
 A “Role” is an organizational entity meant to be filled and energized by one or more duly-assigned Partners of the Organization, in order to:
 
-- Fulfill a [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
+- Fulfill a [Purpose](Purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
 
-- Control a [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
+- Control a [Domain](Domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
 
-- Perform [Accountabilities](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
+- Perform [Accountabilities](Accountabilities): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
 
 ## Tension
 We speak of tensions often, they are the driving force behind any action.
@@ -101,4 +103,4 @@ They are called tensions because that is how they literally manifest in our bodi
 
 What is asked of every partner around tensions is to honor your intuition – if you literally “feel a tension” then that is to be respected and listened to. Each of our roles’ tensions and processing them is what drives Learners Guild forward.They are an integral and necessary part of how we do work in Holacracy, they are not a problem.
 
-Here’s a [flow chart](https://workflowy.com/s/p3csxr0B9d) of how to think about/process tensions.
+Here’s a [flow chart](https://drive.google.com/open?id=0B603F2WUOtLJMVBJcC1pNVNreUk) of how to think about/process tensions.
