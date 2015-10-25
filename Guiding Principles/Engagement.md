@@ -51,4 +51,4 @@ Or feel that fear but do it anyway.
 ### Notes
 
 [eisenhower-box]: http://jamesclear.com/eisenhower-box
-[conflict-process]: Conflict.md
+[conflict-process]: Conflict.html
