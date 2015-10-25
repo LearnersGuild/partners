@@ -1,3 +1,8 @@
+---
+layout: page
+title: Compliant Policy
+---
+
 # Complaint Policy
 
 Learners Guild is committed to creating a safe work environment that is free of threats to the health, safety, and wellbeing of the people who work here. That includes (but isn’t limited to) harassment, discrimination, violation of health and safety rules, and violence.

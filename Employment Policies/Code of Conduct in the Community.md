@@ -1,3 +1,8 @@
+---
+layout: page
+title: Code of Conduct
+---
+
 # Code of Conduct
 
 This code of conduct applies to community members, learners, and Learners Guild team in all Learners Guild communities online (including but not limited to IRC, support chat, the Learners Guild Community Slack, Twitter, and Facebook), in the Learners Guild office, and at all events hosted by Learners Guild.

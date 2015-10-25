@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cross-Link Role
+---
+
 #Cross-Link Role
 The Cross-Link is essentially a Rep Link that can come from any other circle, not necessarily a sub-circle like the Rep Link.  The Cross-Link can even come from outside of the company entirely.
 
@@ -46,9 +51,9 @@ The Cross-Link goes one way, like the Rep Link.  If two circle want Cross-Links 
 The facilitator ideally acts as an impartial umpire in tactical and governance meetings.
 
 This role is crucial for the smooth operation of Holacracy and any person energizing it must be sure that they have been adequately trained in Holacratic facilitation.
- 
-# Lead Link Role 
-There are no “managers” in Holacracy. Instead, the Lead Link carries some of those leadership functions, and yet it looks nothing like a conventional "boss". 
+
+# Lead Link Role
+There are no “managers” in Holacracy. Instead, the Lead Link carries some of those leadership functions, and yet it looks nothing like a conventional "boss".
 
 Here are some of the Lead Link's main accountabilities:
 

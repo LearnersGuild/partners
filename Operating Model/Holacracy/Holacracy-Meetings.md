@@ -1,3 +1,8 @@
+---
+layout: page
+title: Holacracy Meetings
+---
+
 There are three types of meetings in Holacracy, [Tactical](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Meetings#tactical-meetings), [Governance](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Meetings#governance-meetings), and [Strategy](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Meetings#strategy-meetings).
 
 They have similarities but serve very different purposes and have a different cadence/feel from each other.

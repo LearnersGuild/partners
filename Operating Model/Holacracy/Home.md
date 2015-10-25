@@ -1,3 +1,8 @@
+---
+layout: page
+title: Getting Started with Holacracy
+---
+
 # Getting Started with Holacracy
 - Check out [Why Holacracy](https://github.com/Devbootcamp/Holacracy/wiki#why-holacracy)
 

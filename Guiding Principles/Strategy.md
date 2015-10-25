@@ -1,3 +1,8 @@
+---
+layout: page
+title: Organizational Strategies
+---
+
 ## Organizational Strategies
 
 The strategies outlined here follow the format of "X over Y". What this means is that, given a choice between the two, we agree to choose one over the other in most situations.

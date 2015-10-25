@@ -1,3 +1,8 @@
+---
+layout: page
+title: Referral Bonuses
+---
+
 # Referral Bonuses
 
 Referrals from people who already work at Learners Guild are one of the best signals we can get about whether or not a candidate will be successful at Learners Guild. Learners Guild partners understand Learners Guild’s needs and what it’s like to work at Learners Guild, and their relationship with the candidate means they know a lot more than we can learn during an interview process.

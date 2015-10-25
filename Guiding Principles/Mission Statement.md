@@ -1,3 +1,8 @@
+---
+layout: page
+title: Purpose, Mission and Vision
+---
+
 # Purpose, Mission, and Vision
 
 ## Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.
