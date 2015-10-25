@@ -9,7 +9,6 @@ We address and resolve conflicts with these principles at front of mind:
 * We don’t talk behind someone’s back.
 * We resolve disagreements directly with those involved, and don't drag anyone else into the problem.
 * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
-* We focus on strengths more than weaknesses, on opportunities more than problems.
 
 ### Formal Process
 
