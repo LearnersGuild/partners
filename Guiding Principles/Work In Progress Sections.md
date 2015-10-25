@@ -10,8 +10,6 @@ Reid Hastings calls it "Work/Life Integration" and while there are a lot of othe
 sustainable over opportunistic
 pace? what sets it?
 
-## skills building over signalling (no certificates, no degrees, no focus on branding, rather: portfolios, code, experience, skills)
-
 ## outside the system over within the system
 
 ## diversity/inclusion (what’s our commitment here, what’s our strategy here?)
@@ -45,28 +43,3 @@ define the culture we’re building in terms of how we feel, what we experience,
 Everyone takes responsibility for the culture.
 Culture is “self organizing”
 "Structure drives behavior":
-
-## Vision
-
-It is 2035. In Oakland, New York, Cairo, Mexico City, Dhaka, Budapest, Rangoon, Johannesburg, La Paz, and hundreds of other locales, you can walk into a Learner’s Guild and find mentorship, community, and an education for evolving human civilization. 
-
-Educational and economic resources are sourced from the strength of the network and provided to those with the greatest need and drive.
-
-As a partner/member/learner, I cycle through periods of teaching, periods of learning, and periods of engaged practice. Though the borders between those three aren’t always clear, if they exist at all.
-
-When people talk about learning a new skill to thrive in the modern economy, we are the unquestioned choice. The embodiment of post-industrial education; a paragon of democracy, human dignity, and human potential.
-
-
-
-## Rules of thumb
-* minimize bullshit
-* clarify don't control
-* slow down to speed up
-* don't leave the team
-* don't triangulate
-* lead with clarity
-* experiment, don't argue
-* strong opinions held lightly
-* love is important. use the word. express it. allow it. serve it. it belongs at work. it belongs in our learning communities. it's appropriate. 
-* don't be afraid to sound ridiculous. or feal that fear but do it anyway. 
-
