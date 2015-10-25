@@ -92,7 +92,7 @@ Working with a team involves an implicit (and hopefully, explicit) commitment to
 
 ### Don't triangulate
 
-<!-- what does this mean? -->
+Don't gossip. Don't build political alliances to get work done. Don't mention someone's name when they're not present. If you have feedback for someone, the best and only place for this feedback is to give it them directly. If that's not working, get otheres to join the conversation. Let's build a team where everyone is confident that no-body is talking about them behind their back.
 
 ### Run experiments, not your mouth
 
