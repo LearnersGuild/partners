@@ -18,7 +18,8 @@ Learners Guild
 ## Guiding Principles
 * [Mission Statement](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Mission%20Statement.md)
 * [Values](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Learners%20Guild%20Values.md)
-* [Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
+* [Org Strategy](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Strategy.md)
+* [Rules of Engagement](https://github.com/LearnersGuild/guide/blob/master/Guiding%20Principles/Engagement.md)
 
 ## Operating Model
 * [Working Together](https://github.com/LearnersGuild/guide/blob/master/Operating%20Model/Working%20Together.md)

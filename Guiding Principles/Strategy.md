@@ -1,12 +1,8 @@
-# Strategy
+## Organizational Strategies
 
 The strategies outlined here follow the format of "X over Y". What this means is that, given a choice between the two, we agree to choose one over the other in most situations.
 
-The first set of strategies exist at the _organizational_ level: these are the guides we use when making decisions that affect the whole organization or a significant subset of it.
-
-The second set of strategies exist at the _individual_ level: these are heuristics (rules of thumb) we agree to follow in our daily work and interactions.
-
-## Organizational Strategies
+These are strategies that apply at the _organizational_ level: these are the guides we use when making decisions that affect the whole organization or a significant subset of it.
 
 ### Emphasize Scale over Quality
 
@@ -70,47 +66,6 @@ Evidence of learning or capacity is hard to determine. Society is full of symbol
 
 We choose to take as evidence of learning the products of praxis: portfolios, code, experience, skills, etc.
 
-## Individual Heuristics
-
-### Slow down to speed up
-
-You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box][eisenhower-box].
-
-### Keep it real
-
-A.K.A "minimize bullshit". Sugar coating leads to cavities. Be real. You know what that means.
-
-### Seek to clarify, not to control
-
-When reality is not aligned with how you wish it to be, clarify the dissonance for others instead of demanding that it be fixed. Our ideal reality is not always shared by others; to move together we must first agree on where and what the dissonances are.
-
-Autonomy only works if we choose to communicate over command. In a cooperative environment, we lead with clarity.
-
-### Play harmonies, not solos
-
-Working with a team involves an implicit (and hopefully, explicit) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
-
-### Don't triangulate
-
-Don't gossip. Don't build political alliances to get work done. Don't mention someone's name when they're not present. If you have feedback for someone, the best and only place for this feedback is to give it them directly. If that's not working, get otheres to join the conversation. Let's build a team where everyone is confident that no-body is talking about them behind their back.
-
-### Run experiments, not your mouth
-
-Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth.
-
-### Hold strong opinions lightly
-
-Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning.
-
-### Love is important
-
-Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.
-
-### Don't be afraid to be ridiculous
-
-Or feel that fear but do it anyway.
-
-
 ### Notes
 
 <sup name="f1">1</sup>“True stability results when presumed order and presumed disorder are balanced. A truly stable system expects the unexpected, is prepared to be disrupted, waits to be transformed.” ~ Tom Robbins[↩](#a1)
@@ -128,5 +83,3 @@ Or feel that fear but do it anyway.
 <sup name="f6">6</sup>
   Q. Why is Engineering Empathy Curriculum a core competency, while the technical curriculum isn’t?<br>
   A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from JavaScript to Swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.[↩](#a6)
-
-[eisenhower-box]: http://jamesclear.com/eisenhower-box
