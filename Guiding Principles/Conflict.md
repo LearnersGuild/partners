@@ -7,7 +7,7 @@ We address and resolve conflicts with these principles at front of mind:
 * It’s impossible to change other people. We can only change ourselves.
 * We take ownership for our thoughts, beliefs, words, and actions. We don’t spread rumors.
 * We don’t talk behind someone’s back.
-* We resolve disagreements one-on-one and don’t drag other people into the problem.
+* We resolve disagreements directly with those involved, and don't drag anyone else into the problem.
 * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
 * We focus on strengths more than weaknesses, on opportunities more than problems.
 
@@ -23,9 +23,9 @@ At all stages, the partner receiving the request can say Yes, No, or negotiate f
 
 3. If mediation fails, a panel of topic-relevant partners is convened. Again the panel does not impose a solution. The weigh in with what they think is fair, and it's up to the person receiving the request to decide.
 
-4. In an ultimate step, if a resolution is still not reached, the founder is called into the panel. Unlike the previous stages the Founder can choose to impose a solution.<sup name="a2">[2](#f2)</sup>
+4. In an ultimate step, if a resolution is still not reached, the Conflict Resolver is called into the panel. Unlike the previous stages the Conflict Resolver can choose to impose a solution.<sup name="a2">[2](#f2)</sup>
 
 ### Notes
 <sup name="f1">1</sup>This the only process by which a partner is asked to leave Learners Guild.[↩](#a1)
 
-<sup name="f2">2</sup>If the founder is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.[↩](#a2)
+<sup name="f2">2</sup>If the Conflict Resolver is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.[↩](#a2)
