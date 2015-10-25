@@ -11,21 +11,19 @@
 
 - When you're ready learn more about the [Finer Points of Holacratic Practice](https://github.com/Devbootcamp/Holacracy/wiki/Finer-Points-of-Holacracy)
 
-- See the [Holacracy Meetings Calendar](https://www.google.com/calendar/embed?src=devbootcamp.com_67bmmpjmdhkckk7d41jomlp2co%40group.calendar.google.com&ctz=America/Los_Angeles) which has all of the circles meetings on it. (To add this calendar to your list, simply click the "+Google Calendar" link on the bottom right of the screen).
-
 # Why Holacracy
 
-We adopted Holacracy because we were struggling with a couple of things at DBC:
+We're using Holacracy for many reasons, here are some of the main ones:
 
 - As organizations grow, people start feeling disengaged and overwhelmed by bureaucracy and power structures.
 - Politics ultimately creep in and political savvy becomes the primary resource for getting things done.
-- Meetings ran in circles, where we spoke passionately “about” topics but didn’t actually get to actionable outcomes.
-- Those who were heard in meetings were those who spoke the loudest and/or quickest. And quieter, slower thinkers were not heard from nearly as much.
-- Partners felt disempowered by the power structure at DBC.  
-- Partners didn’t feel enough autonomy, and needed to check in with a very large number of people to “cover their butt” and make sure its ok to do what they wanted to do.
-- Ideas and movement were bottlenecked by the managers at DBC, because most change and action had to go through them.
+- Meetings can run in circles, where we speak passionately “about” topics but don't actually get to actionable outcomes.
+- Those who are heard in meetings are those who spoke the loudest and/or quickest. And quieter, slower thinkers are not heard from nearly as much.
+- Partners feel disempowered by the power structure.  
+- Partners don’t feel enough autonomy, and needed to check in with a very large number of people to “cover their butt” and make sure its ok to do what they want to do.
+- Ideas and movement are bottlenecked by the managers, because most change and action have to go through them.
 
-[This video](https://vimeo.com/95001374) is part of a chat session where Karim was responding to this question.
+[This video](https://vimeo.com/95001374) is part of a chat session where Karim, while at DBC, was responding to this question.
 
 # What is Holacracy
 Holacracy is a social technology, an organizational design or operating system for companies.
