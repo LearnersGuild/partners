@@ -21,6 +21,9 @@ When reality is not aligned with how you wish it to be, clarify the dissonance f
 
 Autonomy only works if we choose to communicate over command. In a cooperative environment, we lead with clarity.
 
+> “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”
+  <footer>Donella Meadows</footer>
+
 ### Play harmonies, not solos
 
 Working with a team involves an implicit (and hopefully, explicit) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
