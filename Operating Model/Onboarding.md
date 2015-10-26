@@ -24,12 +24,14 @@ After a candidate accepts an offer to join Learners Guild, there are a few thing
   - Use two-factor auth or highest security level available
 
 1. Background reading
-  - [Holacracy Constitution][holacracy-constitution] for Learners Guild (required)
+  - [Holacracy Book][holacracy-book] (required)
   - [Getting Things Done][gtd-book] (required)
   - [Deschooling Society][deschooling-society]
   - [The Power of Mindful Learning][mindful-learning]
   - [Thinking in Systems][thinking-in-systems]
   - [Soul Without Shame][soul-without-shame]
+  - [From One to Many][from-one-to-many]
+  - [Holacracy Constitution][holacracy-constitution] for Learners Guild
 
 1. Set up payroll, benefits, etc.
 
@@ -77,3 +79,5 @@ From there, the process should merge towards the normal process. It’s importan
 [soul-without-shame]: http://soulwithoutshame.com/
 [mindful-learning]: http://www.ellenlanger.com/books/2/the-power-of-mindful-learning
 [thinking-in-systems]: http://www.chelseagreen.com/thinking-in-systems
+[from-one-to-many]: http://www.amazon.com/One-Many-VISA-Chaordic-Organization-ebook/dp/B00XAX5UY0/ref=asap_bc?ie=UTF8
+[holacracy-book]: http://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X
