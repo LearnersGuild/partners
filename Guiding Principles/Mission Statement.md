@@ -7,7 +7,7 @@ title: Purpose, Mission and Vision
 
 ## Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.
 
-> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” <footer>Dee Hock</footer>
+> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” ~ Dee Hock
 
 ## Mission Statement
 
@@ -52,11 +52,9 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
   And measured subjectively by how meaningful the members feel their work is.
 
-> “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.”
-<footer>John Dewey</footer>
+> “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.” ~ John Dewey
 
-> “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.”
-<footer>Cesar Chavez</footer>
+> “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.” ~ Cesar Chavez
 
 ### Notes
 

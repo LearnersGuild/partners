@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Readme
+title: Welcome
 ---
 
 
 
 > EARLY DRAFT: This guide still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
+
+> “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
 
 # Learners Guild Team Guide
 
@@ -16,8 +18,6 @@ This repository contains all our agreements, policies, operating models, values 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. This is a work in progress that we hope will get better with more time and more contributors.
 
 Shereef Bishay
-GCC Lead Link
-Learners Guild
 
 ***
 
