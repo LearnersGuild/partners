@@ -29,7 +29,7 @@ We are in the learning business. Learning is the process of acting on our curios
 
   We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as transparent as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
 
-1. **A uncompromising embrace of mastery**
+2. **An uncompromising embrace of mastery**
 
   We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.<sup name="a2">[2](#f2)</sup>
 
