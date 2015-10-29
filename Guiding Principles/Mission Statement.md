@@ -37,6 +37,8 @@ As a partner/member/learner, I cycle through periods of teaching, periods of lea
 
 When people talk about learning a new skill to thrive in the modern economy, we are the unquestioned choice. We are at the vanguard of post-industrial education; a paragon of democracy, human dignity, and human potential.
 
+> “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.” ~ John Dewey
+
 ## Public Benefit Corporation
 
 Learners Guild is a social enterprise. We are incorporated as a Public Benefit Corporation. The public benefit we provide is twofold:
@@ -51,8 +53,6 @@ B. **Meaningful employment of Guild members in software development careers**. M
   * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a3">[3](#f3)</sup>
 
   And measured subjectively by how meaningful the members feel their work is.
-
-> “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.” ~ John Dewey
 
 > “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.” ~ Cesar Chavez
 
