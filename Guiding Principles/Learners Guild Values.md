@@ -57,9 +57,9 @@ We are inspired by efforts like those of Chris Argyris, who recognized the exist
 
 ## Rooted Membership
 
-We believe that the ideal ownership of a corporation is in the hands of stakeholders who are directly involved in its workings.  These stakeholders can be employees, customers, members, alumni, partners, communities in which they operate and/or working founders, depending on the structure and stage of an organization.[^5]
+We believe that the ideal ownership of a corporation is in the hands of rooted stakeholders who are directly involved in its workings.  These rooted stakeholders can be employees, customers, members, alumni, partners, communities in which they operate and/or working founders, depending on the structure and stage of an organization.[^5]
 
-As founders, investors, and partners we will make a sincere effort over time, to transition the ownership of the corporation, in whole or in part, to its stakeholders. We do this, with full consideration, and without compromising our fiduciary duty to ourselves, our stakeholders, and the company.
+As founders, investors, and partners we will make a sincere effort over time, to transition the ownership of the corporation, in whole or in part, to its rooted stakeholders. We will do this, with full consideration, and without compromising our fiduciary duty to ourselves, to all our stakeholders, and to the company.
 
 ---
 
