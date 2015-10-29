@@ -23,7 +23,7 @@ A withhold is anything that I'm "holding" in my mind or heart, that's keeping me
 
 Withholds come in many different flavors:
 
-* **A Pinch:** Something someone did, that "pinched" my ego. I could let it go, but it's building a small level of resentment, so I'll just say it. For example: "When you didn't respond to that question I asked in the meeting and I feel snubbed". Pinches are quick to resolve, and usually don't need more than a "thank you" in response.
+* **A Pinch:** Something someone did, that "pinched" my ego. I could let it go, but it's building a small level of resentment, so I'll just say it. For example: "When you didn't respond to that question I asked in the meeting I felt snubbed". Pinches are quick to resolve, and usually don't need more than a "thank you" in response.
 
 * **A Reality Check:** We make up stories all the time about each other. If you notice a belief forming in your mind about someone else, ask them about it. For example: "I noticed that whenever I talk about anything related to marketing, you seem to zone out. I'm starting to make up a story in my mind that you think I'm shitty at marketing. Is there any truth to that?"
 
