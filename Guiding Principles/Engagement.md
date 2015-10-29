@@ -45,7 +45,7 @@ Working with a team involves an implicit (and hopefully, explicit) commitment to
 
 ### Hold strong opinions lightly
 
-Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning.
+Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning. Embrace not-knowing, and don't confuse confidence with certainty. 
 
 ### Don't be afraid to be ridiculous, or screw up.
 
@@ -55,7 +55,7 @@ Or be afraid, but do it anyway.
 
 ### Run experiments, not debates
 
-Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement. Stay true to questions not answers. 
+Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement. Stay true to questions not answers.
 
 ### Save yourself, not the world
 
