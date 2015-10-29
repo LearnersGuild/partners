@@ -5,7 +5,7 @@ title: Purpose, Mission and Vision
 
 # Purpose, Mission, and Vision
 
-**Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.**
+**Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified[^1] livelihood.**
 
 > “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” ~ Dee Hock
 
@@ -21,7 +21,7 @@ We fulfill our purpose by building a learning community of beginner software dev
 
 We build systems that support a thriving learning culture: inclusive, safe, and effective. We invest financial, curricular, and mentoring support in our learning communities. We believe learning is a collective and personal transformation: we provide social and emotional intelligence curricula to facilitate the journey.
 
-We believe learning should be profitable for everyone: we are for purpose and for profit. We do not sacrifice one for the other. Our financial success is aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business.<sup name="a2">[2](#f2)</sup>
+We believe learning should be profitable for everyone: we are for purpose and for profit. We do not sacrifice one for the other. Our financial success is aligned with our learners. We only profit when they do and aim to create significantly more value than we require to operate our business.[^2]
 
 With our learners, we take full responsibility for every member learning the craft and gaining meaningful employment.
 
@@ -43,31 +43,30 @@ More importantly, by then, we've made significant advances in learning to take o
 
 Learners Guild is a social enterprise. We are incorporated as a Public Benefit Corporation. The public benefit we provide is twofold:
 
-A. **Personal growth and transformation of the Guild’s stakeholders**. Measured<sup name="a3">[3](#f3)</sup> subjectively by:
+A. **Personal growth and transformation of the Guild’s stakeholders**. Measured[^3] subjectively by:
 
-  * Percentage of stakeholders who feel they have personally grown
-  * Degree to which they feel they have been impacted by the Guild
+  * the percentage of stakeholders who feel they have personally grown
+  * the degree to which they feel they have been impacted by the Guild
 
 B. **Meaningful employment of Guild members in software development careers**. Measured objectively by:
 
   * Placement rate
   * Average starting salary
-  * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a4">[4](#f4)</sup>
+  * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders[^4]
 
   And measured subjectively by how meaningful the members feel their work is.
 
 > “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.” ~ Cesar Chavez
 
-### Notes
+---
 
-<sup name="f1">1</sup>Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world. [↩](#a1)
+[^1]: Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world.
 
-<sup name="f2">2</sup>Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.[↩](#a2)
+[^2]: Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.
 
-<sup name="f3">3</sup>We are committed to becoming excellent at implementing and continuously improving ways of measuring the degree to which we are accomplishing our mission. We see impact measurement as an evolving discipline and understand that there are real tradeoffs to be made in deciding what to pursue within measurement practices. We are committed to publishing metrics annually and integrating feedback from our stakeholders. As with all things, we will decide what and how we measure based on what collectively benefits our stakeholders.[↩](#a3)
+[^3]: We are committed to becoming excellent at implementing and continuously improving ways of measuring the degree to which we are accomplishing our mission. We see impact measurement as an evolving discipline and understand that there are real tradeoffs to be made in deciding what to pursue within measurement practices. We are committed to publishing metrics annually and integrating feedback from our stakeholders. As with all things, we will decide what and how we measure based on what collectively benefits our stakeholders.
 
-<sup name="f4">4</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
-[↩](#a4)
+[^4]: It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
 
 [link1]: http://www.blackgirlscode.com/
 [link2]: http://www.yearup.org/
