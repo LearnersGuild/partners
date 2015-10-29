@@ -7,7 +7,7 @@ title: Getting Things Done
 
 # GTD
 
-All partners in Learners Guild practice GTD. The [Holacracy constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed. Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD. Software projects are defined in Asana and link to either pivotal or trello for task breakdown.
+All partners in Learners Guild practice GTD. The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed. Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD. Software projects are defined in Asana and link to either pivotal or trello for task breakdown.
 
 ## Availability
 
