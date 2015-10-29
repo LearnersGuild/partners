@@ -3,10 +3,6 @@ layout: page
 title: Welcome
 ---
 
-
-
-> EARLY DRAFT: This guide still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
-
 > “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
 
 # Learners Guild Team Guide
