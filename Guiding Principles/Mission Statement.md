@@ -62,9 +62,7 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 <sup name="f2">2</sup>Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.[↩](#a2)
 
-<sup name="f3">3</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that.
-
-We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
+<sup name="f3">3</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
 [↩](#a3)
 
 [link1]: http://www.blackgirlscode.com/
