@@ -21,8 +21,7 @@ When reality is not aligned with how you wish it to be, clarify the dissonance f
 
 Autonomy only works if we choose to communicate over command. In a cooperative environment, we lead with clarity.
 
-> “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”
-  <footer>Donella Meadows</footer>
+> “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.” ~ Donella Meadows
 
 ### Play harmonies, not solos
 
@@ -36,7 +35,7 @@ Don't gossip. Don't build political alliances to get work done. Don't mention so
 
 ### Run experiments, not your mouth
 
-Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth.
+Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement.
 
 ### Hold strong opinions lightly
 
