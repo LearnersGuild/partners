@@ -44,10 +44,12 @@ More importantly, by then, we've made significant advances in learning to take o
 Learners Guild is a social enterprise. We are incorporated as a Public Benefit Corporation. The public benefit we provide is twofold:
 
 A. **Personal growth and transformation of the Guild’s stakeholders**. Measured<sup name="a3">[3](#f3)</sup> subjectively by:
-  * the percentage of stakeholders who feel they have personally grown
-  * the degree to which they feel they have been impacted by the Guild
+
+  * Percentage of stakeholders who feel they have personally grown
+  * Degree to which they feel they have been impacted by the Guild
 
 B. **Meaningful employment of Guild members in software development careers**. Measured objectively by:
+
   * Placement rate
   * Average starting salary
   * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a4">[4](#f4)</sup>
