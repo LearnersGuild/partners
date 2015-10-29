@@ -21,10 +21,6 @@ Part of our work is to be aware of this privilege and of the responsibility that
 
 Don't gossip. Don't build political alliances to get work done. Don't mention someone's name when they're not present. If you have feedback for someone, the best and only place for this feedback is to give it them directly. If that's not working, get others to join the conversation. Let's build a team where everyone is confident that no-body is talking about them behind their back. Checkout our [Conflict Resloution Process][conflict-process] for more details on resolving tensions.
 
-### Love is important
-
-Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.
-
 ### Keep it real
 
 Sugar coating leads to cavities. Be real. Minimize bullshit and call people on it (kindly please).
@@ -51,24 +47,32 @@ Working with a team involves an implicit (and hopefully, explicit) commitment to
 
 Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning.
 
+### Don't be afraid to be ridiculous, or screw up.
+
+Or be afraid, but do it anyway.
+
+> "Be bold, and mighty forces will come to your aid " ~ Johann Goethe
+
 ### Run experiments, not debates
 
 Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement.
 
 ### Save yourself, not the world
 
+It's easy to feel like because we're in education we need to pretend to be purely selfless and altruistic. That "we're here to help". Bring your personal purpose, needs, and agenda to the table. It's more honest.
+
 > "If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together." ~ Lill Watson
+
+### Love is important
+
+Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.
 
 ### Serve with humility
 
+Learners Guild will not single handedly save the world. We are ultimately, not that important. Act accordingly.
+
 > "We can do no great things, only small things with great love" ~ Mother Teresa
 
-### Don't be afraid to be ridiculous
-
-Or be afraid, but do it anyway.
-
-
-### Notes
 
 [eisenhower-box]: http://jamesclear.com/eisenhower-box
 [conflict-process]: Conflict.html
