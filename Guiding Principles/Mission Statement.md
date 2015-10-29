@@ -48,7 +48,7 @@ A. **Personal growth and transformation of the Guild’s stakeholders**. Measure
 B. **Meaningful employment of Guild members in software development careers**. Measured objectively by:
   * Placement rate
   * Average starting salary
-  * Percentage of members drawn from underrepresented socioeconomic classes, ethnicities and genders
+  * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a3">[3](#f3)</sup>
 
   And measured subjectively by how meaningful the members feel their work is.
 
@@ -61,3 +61,13 @@ B. **Meaningful employment of Guild members in software development careers**. M
 <sup name="f1">1</sup>Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world. [↩](#a1)
 
 <sup name="f2">2</sup>Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.[↩](#a2)
+
+<sup name="f3">3</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that.
+
+We are broader by design. However we critically measure our success by our ability and our success in attracting the interest of, and serving these underrepresented communities. We are not interested in this company if we fail to do so.
+[↩](#a3)
+
+[link1]: http://www.blackgirlscode.com/
+[link2]: http://www.yearup.org/
+[link3]: http://www.yeswecode.org/
+[link4]: http://www.codeforprogress.org/
