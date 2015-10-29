@@ -55,9 +55,17 @@ Respect, love, and nurture your own and others' opinions. Recognize that they ar
 
 Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement.
 
+### Save yourself, not the world
+
+> "If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together." ~ Lill Watson
+
+### Serve with humility
+
+> "We can do no great things, only small things with great love" ~ Mother Teresa
+
 ### Don't be afraid to be ridiculous
 
-Or feel that fear but do it anyway.
+Or be afraid, but do it anyway.
 
 
 ### Notes
