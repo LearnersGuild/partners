@@ -55,7 +55,7 @@ Or be afraid, but do it anyway.
 
 ### Run experiments, not debates
 
-Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement.
+Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos (temporarily), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement. Stay true to questions not answers. 
 
 ### Save yourself, not the world
 
