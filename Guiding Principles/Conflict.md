@@ -3,9 +3,6 @@ layout: page
 title: Conflict Resolution Process
 ---
 
-
-> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
-
 # Conflict Resolution Process
 
 We address and resolve conflicts with these principles at front of mind:

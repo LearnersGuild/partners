@@ -7,6 +7,17 @@ title: Rules of Engagement
 
 Following is a set of strategies that exists at the _individual_ level: these are heuristics (rules of thumb) we agree to follow in our daily work and interactions with each other and with our stakeholders.
 
+## Four Personal Agreements
+
+In all interactions with each other and with our stakeholders we do our best to conduct ourselves with:
+
+* **Kindness:** Treating myself and others with dignity, respect and an open heart.
+* **Integrity:** Speaking my truth clearly and authentically. Keeping my word. Calling out and repairing my mistakes (even when no one is looking).
+* **Whole-heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
+* **Full responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding.
+
+Furthermore, we all share responsibility for holding each other accountable to these agreements.
+
 ## Own your Privilege (and ours)
 
 Because of our collective history, and the poor design of the social and economic systems we operate in: the dice are loaded. Racism, sexism, classism, homophobia are some of the many ways there is a systematic imbalance of power and privilege in our society.

@@ -25,11 +25,11 @@ If our business was a farm, and our offerings the produce of that farm, then we 
 
 We are in the learning business. Learning is the process of acting on our curiosity, receiving feedback, integrating it, and reflecting on it. In working together, we are animated by:
 
-1. **A genuine love for and pursuit of truth**
+First: **A genuine love for and pursuit of truth**
 
   We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as transparent as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
 
-2. **An uncompromising embrace of mastery**
+Second: **An uncompromising embrace of mastery**
 
   We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.<sup name="a2">[^2]</sup>
 
@@ -53,18 +53,13 @@ In a typical organization, individuals expend enormous energy protecting themsel
 
 We acknowledge that these gaps exist, and we are dedicated to closing them.
 
-We are inspired by efforts like those of Chris Argyris, who recognized the existence of these gaps as a prime hindrance to organizational effectiveness and even learning in the specific. We will work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.<sup name="a4">[^4]</sup>
+We are inspired by efforts like those of Chris Argyris, who recognized the existence of these gaps as a prime hindrance to organizational effectiveness and even learning in the specific. We will work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.[^4]
 
-## Four Personal Agreements
+## Rooted Membership
 
-In all interactions with each other and with our stakeholders we do our best to conduct ourselves with:
+We believe that the ideal ownership of a corporation is in the hands of stakeholders who are directly involved in its workings.  These stakeholders can be employees, customers, members, alumni, partners, communities in which they operate and/or working founders, depending on the structure and stage of an organization.[^5]
 
-* **Kindness:** Treating myself and others with dignity, respect and an open heart.
-* **Integrity:** Speaking my truth clearly and authentically. Keeping my word. Calling out and repairing my mistakes (even when no one is looking).
-* **Whole-heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
-* **Full responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding.
-
-Furthermore, we all share responsibility for holding each other accountable to these agreements.
+As founders, investors, and partners we will make a sincere effort over time, to transition the ownership of the corporation, in whole or in part, to its stakeholders. We do this, with full consideration, and without compromising our fiduciary duty to ourselves, our stakeholders, and the company.
 
 ---
 
@@ -74,5 +69,6 @@ Furthermore, we all share responsibility for holding each other accountable to t
 
 [^3]: Source: [The Deliberately Developmental Organization](https://static1.squarespace.com/static/54541a13e4b0331fc2f2a0f7/t/550b6b72e4b0ff02510e1594/1426811762075/W2G+What+is+a+DDO+Sept+2013+Copyrighted.pdf)
 
-[^4]: Source: Overcoming Organizational Defenses: Facilitating Organizational Learning
- by Chris Argyris (Prentice Hall: 1990)
+[^4]: Source: Overcoming Organizational Defenses: Facilitating Organizational Learning by Chris Argyris (Prentice Hall: 1990)
+
+[^5]: As argued masterfully in [Owning our future](http://www.amazon.com/Owning-Our-Future-Ownership-Revolution/dp/1605093106)
