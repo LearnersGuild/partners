@@ -5,7 +5,7 @@ title: Purpose, Mission and Vision
 
 # Purpose, Mission, and Vision
 
-## Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.
+**Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified<sup name="a1">[1](#f1)</sup> livelihood.**
 
 > “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we (notice the plural) could achieve that, then my (notice the singular) life would have meaning.’” ~ Dee Hock
 
@@ -13,13 +13,11 @@ title: Purpose, Mission and Vision
 
 The mission of Learners Guild is to provide the opportunity for anyone who has the will and capacity to become a professional software developer to be able to do so.
 
-Today, millions of Americans are unemployed or severely underemployed. At the same time, there are hundreds of thousands of unfilled software engineering jobs, and that number grows every year.
+* Today, millions of Americans are unemployed or severely underemployed. At the same time, there are hundreds of thousands of unfilled software engineering jobs, and that number grows every year.
+* The  higher education system is failing to address this economic challenge, with rising tuition, poor results, and mounting student debt.
+* The technology industry has a diversity problem: women are largely underrepresented, and blacks and latinos are almost invisible. As a result the future is being built by people who represent a fraction of it.
 
-The higher education system is broken, with rising tuition, poor results, and mounting student debt.
-
-The technology industry has a diversity problem: women are largely underrepresented, and blacks and latinos are almost invisible. As a result the future is being built by people who represent a fraction of it.
-
-We achieve this goal by building a learning community of beginner software developers that is highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
+We fulfill our purpose by building a learning community of beginner software developers that is highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
 
 We build systems that support a thriving learning culture: inclusive, safe, and effective. We invest financial, curricular, and mentoring support in our learning communities. We believe learning is a collective and personal transformation: we provide social and emotional intelligence curricula to facilitate the journey.
 
@@ -36,6 +34,8 @@ Educational and economic resources are sourced from the strength of the network 
 As a partner/member/learner, I cycle through periods of teaching, periods of learning, and periods of engaged practice. The borders between these three are not always clear, if they exist at all.
 
 When people talk about learning a new skill to thrive in the modern economy, we are the unquestioned choice. We are at the vanguard of post-industrial education; a paragon of democracy, human dignity, and human potential.
+
+More importantly, by then, we've made significant advances in learning to take ourselves less seriously.
 
 > “To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.” ~ John Dewey
 
@@ -62,7 +62,7 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 <sup name="f2">2</sup>Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.[↩](#a2)
 
-<sup name="f3">3</sup>The Corporation is dedicated to creating a world class competence in the establishment, implementation, and continuous improvement of high quality measurements that demonstrate the degree to which it is accomplishing its mission. Along these lines, we view the science of impact measurement to be an evolving discipline, with each generation of change building on and enhancing the accuracy and efficiency of what has come before. We understand that there are real choices and tradeoffs in deciding what to pursue and what not to pursue within measurement practices. We are committed to publishing metrics annually and are open to constructive feedback from our community about the type, intensity and fairness of our measurements. As with all things, we will endeavor to decide on measurement policies and technologies by pursuing the mix and extensiveness that benefits our stakeholders most on a collective basis.[↩](#a3)
+<sup name="f3">3</sup>We are committed to becoming excellent at implementing and continuously improving ways of measuring the degree to which we are accomplishing our mission. We see impact measurement as an evolving discipline and understand that there are real tradeoffs to be made in deciding what to pursue within measurement practices. We are committed to publishing metrics annually and integrating feedback from our stakeholders. As with all things, we will decide what and how we measure based on what collectively benefits our stakeholders.[↩](#a3)
 
 <sup name="f4">4</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
 [↩](#a4)
