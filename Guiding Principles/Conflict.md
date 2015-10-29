@@ -16,7 +16,7 @@ We address and resolve conflicts with these principles at front of mind:
 * We resolve disagreements directly with those involved, and don't drag anyone else into the problem.
 * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
 
-### Resolve personal tensions swiftly and directly
+## Resolve personal tensions swiftly and directly
 
 We are human. Personal conflicts will come up as we work together. When you feel that something personal is beginning to get in the way of you working optimally with another partner, **address it directly with them as soon as you can.**
 
@@ -34,7 +34,7 @@ Withholds come in many different flavors:
 
 Sharing reflections in this way, and being heard, can often diffuse the withhold, and reduce its charge.
 
-### Formal Process
+## Formal Process
 
 Most interpersonal tensions can be resolved by sharing and being heard. If, however, your tension is work-related, or it isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
 

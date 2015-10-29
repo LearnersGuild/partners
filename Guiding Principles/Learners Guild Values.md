@@ -39,7 +39,7 @@ In a typical organization, individuals expend enormous energy protecting themsel
 
 “Gaps” in organizations, in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.<sup name="a3">[^3]</sup>
 
-##### Gaps may arise between:
+### Gaps may arise between:
 
 * what we do and what we say
 * what we feel and what we say

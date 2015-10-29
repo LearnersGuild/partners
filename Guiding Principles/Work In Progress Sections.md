@@ -31,6 +31,13 @@ https://docs.google.com/document/d/1N74AL32CdDwRMV9CEJmA05KMI_bY1Y7o8Se9GZq1yCQ/
 ## Trust not required
 Trust as output not input. Don’t strain relationships to get work done. Create clear agreements. Let trust and friendship and love bloom from that. Don’t use trust, friendship and love instead of agreements.
 
+## Be generative
+Always create more value than you extract
+
+## Marketing strategy
+tell stories, don't make promises
+Address only our stakeholders??
+
 ## Emphasize feedback over regulation
 when you see behaviour that needs changing clarify purpose then create better feedback rather than resort to policy. System structure is the source of system behavior. Change the behaviour through internal regulation rather than external regulation/policy/rules. Avoid organizational scarring. (link to 32 signals)
 

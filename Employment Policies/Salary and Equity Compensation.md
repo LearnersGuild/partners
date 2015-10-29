@@ -3,11 +3,11 @@ layout: page
 title: Salary and Equity Compensation
 ---
 
-#Salary and Equity Compensation
+# Salary and Equity Compensation
 
 The following policy will apply to all partners at Learners Guild.
 
-##Salary
+## Salary
 
 Fair compensation is critical to making Learners Guild a desirable place to work and helping our partners lead happy, healthy lives inside and outside of the office. When used as a motivational tool, though, it can incentivize the wrong kind of optimizations. Our goal with salary is that it checks the "enough" and "fair" box for folks who are excited about working at Learners Guild (because of the people, product, and opportunity for growth) and then fades into the background.
 
@@ -20,7 +20,7 @@ Choosing to apply this rubric to everyone has the following advantages:
 * Removes information asymmetry
 * Encourages partners to periodically interview with other companies
 
-##Market Bias
+## Market Bias
 
 Traditional market salaries are heavily biased because they rely on individual gut feelings and negotiation. This favors candidates who come from more privileged backgrounds and are afforded more confidence during the hiring process.
 
@@ -29,7 +29,7 @@ To acknowledge and help counteract some of this bias:
   * All current and historical salaries, consultant fees, stock options and cap table are internally transparent
   * Everyone will have access to a third party professional negotiation and career coach
 
-##Equity
+## Equity
 
 Every offer also comes with the option to take less salary in exchange for equity. The earlier a partner joins Learners Guild, the more equity they are granted for their salary exchange. The history of offers, and equity exchanges chosen is also transparent to partners and to people coming on board.
 
@@ -37,5 +37,5 @@ At the beginning of each quarter we will adjust the equity to salary exchange **
 
 All new partners should also check out our [Guide to Your Equity](/guide/Hiring%20Documents/Guide%20to%20Your%20Equity.html), which walks through the nuances of owning Learners Guild stock options.
 
-##Mission Sections
+## Mission Sections
 * Determining market salary based on consulting rates
