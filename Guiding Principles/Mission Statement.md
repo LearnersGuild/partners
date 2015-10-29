@@ -43,14 +43,14 @@ When people talk about learning a new skill to thrive in the modern economy, we 
 
 Learners Guild is a social enterprise. We are incorporated as a Public Benefit Corporation. The public benefit we provide is twofold:
 
-A. **Personal growth and transformation of the Guild’s stakeholders**. Measured subjectively by:
+A. **Personal growth and transformation of the Guild’s stakeholders**. Measured<sup name="a3">[3](#f3)</sup> subjectively by:
   * the percentage of stakeholders who feel they have personally grown
   * the degree to which they feel they have been impacted by the Guild
 
 B. **Meaningful employment of Guild members in software development careers**. Measured objectively by:
   * Placement rate
   * Average starting salary
-  * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a3">[3](#f3)</sup>
+  * Percentage of members drawn from historically underrepresented socioeconomic classes, ethnicities and genders<sup name="a4">[4](#f4)</sup>
 
   And measured subjectively by how meaningful the members feel their work is.
 
@@ -62,8 +62,10 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 <sup name="f2">2</sup>Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.[↩](#a2)
 
-<sup name="f3">3</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
-[↩](#a3)
+<sup name="f3">3</sup>The Corporation is dedicated to creating a world class competence in the establishment, implementation, and continuous improvement of high quality measurements that demonstrate the degree to which it is accomplishing its mission. Along these lines, we view the science of impact measurement to be an evolving discipline, with each generation of change building on and enhancing the accuracy and efficiency of what has come before. We understand that there are real choices and tradeoffs in deciding what to pursue and what not to pursue within measurement practices. We are committed to publishing metrics annually and are open to constructive feedback from our community about the type, intensity and fairness of our measurements. As with all things, we will endeavor to decide on measurement policies and technologies by pursuing the mix and extensiveness that benefits our stakeholders most on a collective basis.[↩](#a3)
+
+<sup name="f4">4</sup>It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
+[↩](#a4)
 
 [link1]: http://www.blackgirlscode.com/
 [link2]: http://www.yearup.org/
