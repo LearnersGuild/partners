@@ -17,7 +17,7 @@ Before they are interviewed, the candidate shows some relevant work that helps g
 
 They also receive a blurb about Learners Guild, the position, and our [guide][guide] so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular are emphasized here so that they understand how important they are to the Learners Guild team and to make sure they align.**
 
-## Stage 1: Informal/Coffee — 30 Minutes
+### Stage 1: Informal/Coffee — 30 Minutes
 
 A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is **what they want to do next** and whether that matches what we’re looking for at Learners Guild. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
 
@@ -25,13 +25,13 @@ The interviewer spends 30 minutes getting to know the candidate and let them ask
 
 This interview also fills the purpose of selling Learners Guild and recruiting promising candidates, as this is their first real contact with Learners Guild. Their desire to work here is formed in this meeting.
 
-# Stage 2: Technical Interview — 2 Hour
+### Stage 2: Technical Interview — 2 Hour
 
 The technical interview is a chance to **dive into the candidate’s ability** at the job they’re interviewing for. The lead on this hire prepares two exercises which each take 45 minutes, one which involves high level thinking for the position and another which focuses on more low level implementation.
 
 The last 30 minutes are used for questions and answers from both sides. This interview should filter out 50-70% of candidates (of the remaining 20%), and by the end of it, the lead interviewer should have an opinion on whether or not the candidate is the right person for the job.
 
-## Stage 3: Team Fit — Full Day
+### Stage 3: Team Fit — Full Day
 
 Finally, the candidate comes in for a whole day of work and discussion with the team. In the morning they'll drill into a much more challenging problem than they had to deal with in their technical interview.
 
