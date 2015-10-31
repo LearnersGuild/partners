@@ -30,7 +30,7 @@ Part of our work is to be aware of our privileges and of the responsibilities th
 
 ## Don't triangulate
 
-Don't gossip. Don't build political alliances to get work done. Don't mention someone's name when they're not present. If you have feedback for someone, the best and only place for this feedback is to give it to them directly. If that's not working, get others to join the conversation. Let's build a team where everyone is confident that no-body is talking about them behind their back. Checkout our [Conflict Resloution Process][conflict-process] for more details on resolving tensions.
+Don't gossip. Don't build political alliances to get work done. If you mention someone's name when they're not present do it in the same way you would if they were present. If you have feedback for someone, the best and only place for this feedback is to give it to them directly. If that's not working, get others to join the conversation. Let's build a team where everyone is confident that they are respected and honored when they're not present. Checkout our [Conflict Resloution Process][conflict-process] for more details on resolving tensions.
 
 ## Keep it real
 
