@@ -1,8 +1,3 @@
----
-layout: page
-title: Cross-Link Role
----
-
 #Cross-Link Role
 The Cross-Link is essentially a Rep Link that can come from any other circle, not necessarily a sub-circle like the Rep Link.  The Cross-Link can even come from outside of the company entirely.
 

@@ -1,8 +1,3 @@
----
-layout: page
-title: Sabbatical
----
-
 # Sabbatical
 
 After every 3 years of working at Learners Guild, partners are encouraged to take a nine contiguous weeks paid sabbatical.

@@ -1,8 +1,3 @@
----
-layout: page
-title: Organization and Governance
----
-
 # Organization and Governance
 
 The organization and governance model of Learners Guild is based on [Holacracy][holacracy].

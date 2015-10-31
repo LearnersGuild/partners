@@ -1,9 +1,4 @@
----
-layout: page
-title: Core Values
----
-
-# Learners Guild Core Values
+# Core Values
 
 ## Deliberately Developmental Culture
 

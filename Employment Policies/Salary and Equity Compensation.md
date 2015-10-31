@@ -1,8 +1,3 @@
----
-layout: page
-title: Salary and Equity Compensation
----
-
 # Salary and Equity Compensation
 
 The following policy will apply to all partners at Learners Guild.

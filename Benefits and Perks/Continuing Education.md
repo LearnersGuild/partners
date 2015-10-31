@@ -1,8 +1,3 @@
----
-layout: page
-title: Continuing Education
----
-
 # Continuing Education
 
 As a learning community it’s important that we support our partners’ efforts to learn, grow, and improve. These are some of the key benefits of working at Learners Guild, and are central to our company culture.

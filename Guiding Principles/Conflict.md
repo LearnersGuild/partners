@@ -1,8 +1,3 @@
----
-layout: page
-title: Conflict Resolution Process
----
-
 # Conflict Resolution Process
 
 We address and resolve conflicts with these principles at front of mind:

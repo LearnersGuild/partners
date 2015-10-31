@@ -1,9 +1,6 @@
----
-layout: page
-title: Holacracy Nuances
----
+# Holacracy Nuances
 
-## **This page has some content around the more nuanced understanding of Holacratic Practice**
+> **This page has some content around the more nuanced understanding of Holacratic Practice**
 
 ### When to use accountabilities vs. domains or policies.
 

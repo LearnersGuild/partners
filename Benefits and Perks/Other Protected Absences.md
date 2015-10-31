@@ -1,8 +1,3 @@
----
-layout: page
-title: Protected Absences
----
-
 # Other Protected Absences
 
 ## Pregnancy Disability Leave

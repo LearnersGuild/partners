@@ -1,9 +1,4 @@
----
-layout: page
-title: Holiday List
----
-
-# Learners Guild Observed Holiday List
+# Observed Holiday List
 
 <table>
   <tr>

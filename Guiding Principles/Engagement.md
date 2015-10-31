@@ -1,8 +1,3 @@
----
-layout: page
-title: Rules of Engagement
----
-
 # Rules of Engagement
 
 Following is a set of strategies that exists at the _individual_ level: these are heuristics (rules of thumb) we agree to follow in our daily work and interactions with each other and with our stakeholders.

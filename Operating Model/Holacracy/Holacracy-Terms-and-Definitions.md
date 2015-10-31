@@ -1,8 +1,3 @@
----
-layout: page
-title: Holacracy Terms and Definitions
----
-
 # Holacracy Terms and Definitions
 
 **Terms:**
