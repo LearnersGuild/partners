@@ -1,8 +1,8 @@
 # Summary
 
 - [Introduction](README.md)
-- [Guiding Principles](Guiding-Principles/README.md)
-  - [Mission Statement](Guiding%20Principles/Mission%20Statement.md)
+- [Guiding Principles](Guiding_Principles/README.md)
+  - [Mission Statement](Guiding_Principles/Mission_Statement.md)
   - [Values](Guiding%20Principles/Learners%20Guild%20Values.md)
   - [Org Strategy](Guiding%20Principles/Strategy.md)
   - [Rules of Engagement](Guiding%20Principles/Engagement.md)
