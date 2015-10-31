@@ -12,52 +12,52 @@ All feedback and suggestions (especially in the form of pull requests) are very 
 
 
 ## Guiding Principles
-* [Mission Statement](Guiding%20Principles/Mission%20Statement.html)
-* [Values](Guiding%20Principles/Learners%20Guild%20Values.html)
-* [Org Strategy](Guiding%20Principles/Strategy.html)
-* [Rules of Engagement](Guiding%20Principles/Engagement.html)
-* [Conflict Resolution Process](Guiding%20Principles/Conflict.html)
+* [Mission Statement](Guiding%20Principles/Mission%20Statement.md)
+* [Values](Guiding%20Principles/Learners%20Guild%20Values.md)
+* [Org Strategy](Guiding%20Principles/Strategy.md)
+* [Rules of Engagement](Guiding%20Principles/Engagement.md)
+* [Conflict Resolution Process](Guiding%20Principles/Conflict.md)
 
 ## Operating Model
-* [Working Together](Operating%20Model/Working%20Together.html)
-* [Organization & Governances](Operating%20Model/Organization%20and%20Governance.html)
-* [Getting Things Done](Operating%20Model/GTD.html)
-* [Internal Transparency](Operating%20Model/Internal%20Transparency.html)
-* [Language](Operating%20Model/Language.html)
-* [Sourcing Candidates](Operating%20Model/Sourcing%20Candidates.html)
-* [Interview Process](Operating%20Model/Interview%20Process.html)
-* [Budgeting](Operating%20Model/Budgeting.html)
-* [Onboarding](Operating%20Model/Onboarding.html)
-* [Sharing Files](Operating%20Model/Sharing%20Files.html)
+* [Working Together](Operating%20Model/Working%20Together.md)
+* [Organization & Governances](Operating%20Model/Organization%20and%20Governance.md)
+* [Getting Things Done](Operating%20Model/GTD.md)
+* [Internal Transparency](Operating%20Model/Internal%20Transparency.md)
+* [Language](Operating%20Model/Language.md)
+* [Sourcing Candidates](Operating%20Model/Sourcing%20Candidates.md)
+* [Interview Process](Operating%20Model/Interview%20Process.md)
+* [Budgeting](Operating%20Model/Budgeting.md)
+* [Onboarding](Operating%20Model/Onboarding.md)
+* [Sharing Files](Operating%20Model/Sharing%20Files.md)
 
 ## Employment Policies
-* [Equal Opportunity Employment](Employment%20Policies/Equal%20Opportunity%20Employment.html)
-* [At-Will Employment](Employment%20Policies/At-Will%20Employment.html)
-* [Salary and Equity Compensation](Employment%20Policies/Salary%20and%20Equity%20Compensation.html)
-* [Code of Conduct in the Community](Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.html)
-* [Complaint Policy](Employment%20Policies/Complaint%20Policy.html)
-* [Drug and Alcohol Policy](Employment%20Policies/Drug%20and%20Alcohol%20Policy.html)
+* [Equal Opportunity Employment](Employment%20Policies/Equal%20Opportunity%20Employment.md)
+* [At-Will Employment](Employment%20Policies/At-Will%20Employment.md)
+* [Salary and Equity Compensation](Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
+* [Code of Conduct in the Community](Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
+* [Complaint Policy](Employment%20Policies/Complaint%20Policy.md)
+* [Drug and Alcohol Policy](Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
 
 ## Hiring Documents
-* [Acknowledgement of Receipt](Hiring%20Documents/Acknowledgment%20of%20Receipt.html)
-* [Learners Guild Offer Letter](Hiring%20Documents/Learners Guild%20Offer%20Letter.html)
-* [Partner Proprietary Information and Inventions Agreement](Hiring%20Documents/Partner%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.html)
-* [Guide to Your Equity](Hiring%20Documents/Guide%20to%20Your%20Equity.html)
-* [Guide Introduction](Hiring%20Documents/Guide%20Introduction.html)
+* [Acknowledgement of Receipt](Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
+* [Learners Guild Offer Letter](Hiring%20Documents/Learners Guild%20Offer%20Letter.md)
+* [Partner Proprietary Information and Inventions Agreement](Hiring%20Documents/Partner%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
+* [Guide to Your Equity](Hiring%20Documents/Guide%20to%20Your%20Equity.md)
+* [Guide Introduction](Hiring%20Documents/Guide%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Learners Guild](Onboarding%20Documents/Welcome%20to%20Learners%20Guild.html)
-* [Objectives and Key Results](Onboarding%20Documents/Objectives%20and%20Key%20Results.html)
+* [Welcome to Learners Guild](Onboarding%20Documents/Welcome%20to%20Learners%20Guild.md)
+* [Objectives and Key Results](Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 
 ## Benefits and Perks
-* [Health Care and Disability Insurance](Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.html)
-* [Vacation and Sick Leave](Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.html)
-* [Holiday List](Benefits%20and%20Perks/Holiday%20List.html)
-* [Referral Bonuses](Benefits%20and%20Perks/Referral%20Bonuses.html)
-* [Continuing Education](Benefits%20and%20Perks/Continuing%20Education.html)
-* [Sabbatical](Benefits%20and%20Perks/Sabbatical.html)
-* [New Parent Leave](Benefits%20and%20Perks/New%20Parent%20Leave.html)
-* [Other Protected Absences](Benefits%20and%20Perks/Other%20Protected%20Absences.html)
+* [Health Care and Disability Insurance](Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Vacation and Sick Leave](Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Holiday List](Benefits%20and%20Perks/Holiday%20List.md)
+* [Referral Bonuses](Benefits%20and%20Perks/Referral%20Bonuses.md)
+* [Continuing Education](Benefits%20and%20Perks/Continuing%20Education.md)
+* [Sabbatical](Benefits%20and%20Perks/Sabbatical.md)
+* [New Parent Leave](Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [Other Protected Absences](Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
 

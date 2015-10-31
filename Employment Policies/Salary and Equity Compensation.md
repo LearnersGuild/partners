@@ -30,7 +30,7 @@ Every offer also comes with the option to take less salary in exchange for equit
 
 At the beginning of each quarter we will adjust the equity to salary exchange **for new offers** to make sure it stays at market rate. At that time existing partners may choose to change the percentage of their salary they are exchanging for equity (at the same rate new offers are being made at).
 
-All new partners should also check out our [Guide to Your Equity](/guide/Hiring%20Documents/Guide%20to%20Your%20Equity.html), which walks through the nuances of owning Learners Guild stock options.
+All new partners should also check out our [Guide to Your Equity](/guide/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Learners Guild stock options.
 
 ## Mission Sections
 * Determining market salary based on consulting rates

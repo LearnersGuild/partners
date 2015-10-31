@@ -81,4 +81,4 @@ Learners Guild will not single handedly save the world. We are ultimately, not t
 
 
 [eisenhower-box]: http://jamesclear.com/eisenhower-box
-[conflict-process]: Conflict.html
+[conflict-process]: Conflict.md
