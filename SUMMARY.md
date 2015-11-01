@@ -7,7 +7,7 @@
    * [Org Strategy](Guiding-Principles/Strategy.md)
    * [Rules of Engagement](Guiding-Principles/Engagement.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
-* Operating Model
+* [Operating Model](Operating-Model/README.md)
    * [Working Together](Operating-Model/Working-Together.md)
    * [Organization & Governances](Operating-Model/Organization-and-Governance.md)
    * [Holacracy](Operating-Model/Holacracy/Home.md)
@@ -20,23 +20,22 @@
    * [Budgeting](Operating-Model/Budgeting.md)
    * [Onboarding](Operating-Model/Onboarding.md)
    * [Sharing Files](Operating-Model/Sharing-Files.md)
-* Employment Policies
+* [Employment Policies](Employment-Policies/README.md)
    * [Equal Opportunity Employment](Employment-Policies/Equal-Opportunity-Employment.md)
    * [At-Will Employment](Employment-Policies/At-Will-Employment.md)
    * [Salary and Equity Compensation](Employment-Policies/Salary-and-Equity-Compensation.md)
    * [Code of Conduct in the Community](Employment-Policies/Code-of-Conduct-in-the-Community.md)
    * [Complaint Policy](Employment-Policies/Complaint-Policy.md)
    * [Drug and Alcohol Policy](Employment-Policies/Drug-and-Alcohol-Policy.md)
-* Hiring Documents
+* [Hiring Documents](Hiring-Documents/README.md)
    * [Acknowledgement of Receipt](Hiring-Documents/Acknowledgment-of-Receipt.md)
    * [Learners Guild Offer Letter](Hiring-Documents/Learners Guild-Offer-Letter.md)
    * [Partner Proprietary Information and Inventions Agreement](Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.md)
    * [Guide to Your Equity](Hiring-Documents/Guide-to-Your-Equity.md)
    * [Guide Introduction](Hiring-Documents/Guide-Introduction.md)
-* Onboarding Documents
-   * [Welcome to Learners Guild](Onboarding-Documents/Welcome-to-Learners-Guild.md)
-   * [Objectives and Key Results](Onboarding-Documents/Objectives-and-Key-Results.md)
-* Benefits and Perks
+   * [Welcome to Learners Guild](Hiring-Documents/Welcome-to-Learners-Guild.md)
+   * [Objectives and Key Results](Hiring-Documents/Objectives-and-Key-Results.md)
+* [Benefits and Perks](Benefits-and-Perks/README.md)
    * [Health Care and Disability Insurance](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
    * [Vacation and Sick Leave](Benefits-and-Perks/Vacation-and-Sick-Leave.md)
    * [Holiday List](Benefits-and-Perks/Holiday-List.md)
