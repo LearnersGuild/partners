@@ -1,15 +1,15 @@
 # Holacracy Terms and Definitions
 
 **Terms:**
-- [Accountability](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability)
-- [Circle](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#circle)
-- [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain)
-- [Objection](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#objection)
-- [Partner](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#partner)
-- [Policy](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#policy)
-- [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose)
-- [Role](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#role)
-- [Tension](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#tension)
+- [Accountability](Holacracy-Terms-and-Definitions#accountability)
+- [Circle](Holacracy-Terms-and-Definitions#circle)
+- [Domain](Holacracy-Terms-and-Definitions#domain)
+- [Objection](Holacracy-Terms-and-Definitions#objection)
+- [Partner](Holacracy-Terms-and-Definitions#partner)
+- [Policy](Holacracy-Terms-and-Definitions#policy)
+- [Purpose](Holacracy-Terms-and-Definitions#purpose)
+- [Role](Holacracy-Terms-and-Definitions#role)
+- [Tension](Holacracy-Terms-and-Definitions#tension)
 
 ## Accountability
 The Holacracy operating system distributes power throughout an organization, by defining roles with the accountability and authority to make various decisions and take action – authority no one else can “trump”.
@@ -86,11 +86,11 @@ A role is not a job title, it is a collection of a purpose, domains, and account
 **Check out what the [Holacracy Constitution](http://holacracy.org/constitution) has to say about a Role:**
 A “Role” is an organizational entity meant to be filled and energized by one or more duly-assigned Partners of the Organization, in order to:
 
-- Fulfill a [Purpose](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
+- Fulfill a [Purpose](Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
 
-- Control a [Domain](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
+- Control a [Domain](Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
 
-- Perform [Accountabilities](https://github.com/Devbootcamp/Holacracy/wiki/Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
+- Perform [Accountabilities](Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
 
 ## Tension
 We speak of tensions often, they are the driving force behind any action.
