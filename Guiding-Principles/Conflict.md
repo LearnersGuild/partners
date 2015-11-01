@@ -46,4 +46,5 @@ At all stages, the partner receiving the request can say Yes, No, or negotiate f
 
 ---
 [^1] This the only process by which a partner is asked to leave Learners Guild
+
 [^2] If the Conflict Resolver is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.
