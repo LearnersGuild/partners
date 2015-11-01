@@ -29,7 +29,7 @@
    * [Drug and Alcohol Policy](Employment-Policies/Drug-and-Alcohol-Policy.md)
 * [Hiring Documents](Hiring-Documents/README.md)
    * [Acknowledgement of Receipt](Hiring-Documents/Acknowledgment-of-Receipt.md)
-   * [Learners Guild Offer Letter](Hiring-Documents/Learners Guild-Offer-Letter.md)
+   * [Learners Guild Offer Letter](Hiring-Documents/Learners-Guild-Offer-Letter.md)
    * [Partner Proprietary Information and Inventions Agreement](Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.md)
    * [Guide to Your Equity](Hiring-Documents/Guide-to-Your-Equity.md)
    * [Guide Introduction](Hiring-Documents/Guide-Introduction.md)
