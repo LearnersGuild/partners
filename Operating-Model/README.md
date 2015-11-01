@@ -1,0 +1,16 @@
+# Operating Model
+
+* [Working Together](Working-Together.md)
+* [Holacracy](Holacracy/Home.md)
+    * [Meetings](Holacracy/Holacracy-Meetings.md)
+    * [Specific Roles](Holacracy/Holacracy-Specific-Roles.md)
+    * [Terms and Definitions](Holacracy/Holacracy-Terms-and-Definitions.md)
+    * [Finer Points](Holacracy/Finer-Points-of-Holacracy.md)
+* [Getting Things Done](GTD.md)
+* [Internal Transparency](Internal-Transparency.md)
+* [Language](Language.md)
+* [Sourcing Candidates](Sourcing-Candidates.md)
+* [Interview Process](Interview-Process.md)
+* [Budgeting](Budgeting.md)
+* [Onboarding](Onboarding.md)
+* [Sharing Files](Sharing-Files.md)
