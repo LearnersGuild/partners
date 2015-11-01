@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Mission Statement](Guiding_Principles/Mission_Statement.md)
+* [Acknowledgements](Acknowledgements.md)
 * [Guiding Principles](Guiding_Principles/README.md)
    * [Mission Statement](Guiding_Principles/Mission_Statement.md)
    * [Values](Guiding%20Principles/Learners%20Guild%20Values.md)
@@ -47,4 +48,3 @@
    * [New Parent Leave](Benefits%20and%20Perks/New%20Parent%20Leave.md)
    * [Other Protected Absences](Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 * [Acknowledgements](Acknowledgements.md)
-
