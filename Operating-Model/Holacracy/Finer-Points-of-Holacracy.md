@@ -1,8 +1,6 @@
 # Holacracy Nuances
 
-> **This page has some content around the more nuanced understanding of Holacratic Practice**
-
-### When to use accountabilities vs. domains or policies.
+## When to use accountabilities vs. domains or policies.
 
 When thinking of how to resolve your governance tension, it is difficult to decide between using an accountability, a policy, or a domain to resolve it.  Hopefully this guide should shed some light on this issue.
 
