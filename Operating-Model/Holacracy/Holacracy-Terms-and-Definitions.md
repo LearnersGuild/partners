@@ -1,15 +1,15 @@
 # Holacracy Terms and Definitions
 
 **Terms:**
-- [Accountability](Holacracy-Terms-and-Definitions#accountability)
-- [Circle](Holacracy-Terms-and-Definitions#circle)
-- [Domain](Holacracy-Terms-and-Definitions#domain)
-- [Objection](Holacracy-Terms-and-Definitions#objection)
-- [Partner](Holacracy-Terms-and-Definitions#partner)
-- [Policy](Holacracy-Terms-and-Definitions#policy)
-- [Purpose](Holacracy-Terms-and-Definitions#purpose)
-- [Role](Holacracy-Terms-and-Definitions#role)
-- [Tension](Holacracy-Terms-and-Definitions#tension)
+- [Accountability](Holacracy-Terms-and-Definitions.md#accountability)
+- [Circle](Holacracy-Terms-and-Definitions.md#circle)
+- [Domain](Holacracy-Terms-and-Definitions.md#domain)
+- [Objection](Holacracy-Terms-and-Definitions.md#objection)
+- [Partner](Holacracy-Terms-and-Definitions.md#partner)
+- [Policy](Holacracy-Terms-and-Definitions.md#policy)
+- [Purpose](Holacracy-Terms-and-Definitions.md#purpose)
+- [Role](Holacracy-Terms-and-Definitions.md#role)
+- [Tension](Holacracy-Terms-and-Definitions.md#tension)
 
 ## Accountability
 The Holacracy operating system distributes power throughout an organization, by defining roles with the accountability and authority to make various decisions and take action – authority no one else can “trump”.

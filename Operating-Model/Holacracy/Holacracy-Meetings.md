@@ -1,6 +1,6 @@
 # Holacracy Meetings
 
-There are three types of meetings in Holacracy, [Tactical](Holacracy-Meetings#tactical-meetings), [Governance](Holacracy-Meetings#governance-meetings), and [Strategy](Holacracy-Meetings#strategy-meetings).
+There are three types of meetings in Holacracy, [Tactical](Holacracy-Meetings.md#tactical-meetings), [Governance](Holacracy-Meetings.md#governance-meetings), and [Strategy](Holacracy-Meetings.md#strategy-meetings).
 
 They have similarities but serve very different purposes and have a different cadence/feel from each other.
 

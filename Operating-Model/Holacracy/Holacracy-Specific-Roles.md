@@ -1,4 +1,6 @@
-#Cross-Link Role
+# Specific Roles
+
+## Cross-Link Role
 The Cross-Link is essentially a Rep Link that can come from any other circle, not necessarily a sub-circle like the Rep Link.  The Cross-Link can even come from outside of the company entirely.
 
 One use of this is circles can decide to have, for example, a representative of the student body, or of the coaches, sit in on their meetings as a member.
@@ -33,8 +35,9 @@ Each circle can add extra accountabilities on the Cross-Link but these accountab
 The Cross-Link goes one way, like the Rep Link.  If two circle want Cross-Links to go both ways two roles and two separate policies need to be created.  The same person can fill them but the roles are separate.
 
 
-# Secretary Role
- Here are some of the Secretary's main accountabilities:
+## Secretary Role
+
+Here are some of the Secretary's main accountabilities:
 
 - Scheduling circle meetings, and also making the final call on frequency, location, etc.
 
@@ -42,12 +45,12 @@ The Cross-Link goes one way, like the Rep Link.  If two circle want Cross-Links 
 
 - Acting as a reference guide when there's a question about the organization (roles, accountabilities, domains, etc.) or about the constitution of Holacracy.
 
-# Facilitator Role
+## Facilitator Role
 The facilitator ideally acts as an impartial umpire in tactical and governance meetings.
 
 This role is crucial for the smooth operation of Holacracy and any person energizing it must be sure that they have been adequately trained in Holacratic facilitation.
 
-# Lead Link Role
+## Lead Link Role
 There are no “managers” in Holacracy. Instead, the Lead Link carries some of those leadership functions, and yet it looks nothing like a conventional "boss".
 
 Here are some of the Lead Link's main accountabilities:
@@ -64,7 +67,7 @@ Here are some of the Lead Link's main accountabilities:
 
 [Video on the Lead Link role](http://holacracy.org/resources/the-lead-link-role-in-holacracy)
 
-# Rep Link Role
+## Rep Link Role
 The Rep link's primary accountability is to carry tensions up from the circle to its parent circle.
 
 eg. If I, in Admissions, need to add an accountability to the Prep circle, I ask my Rep Link to take that tension to the GCC Governance meeting and add the accountability on the Prep circle there.
