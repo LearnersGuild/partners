@@ -9,7 +9,6 @@
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
 * [Operating Model](Operating-Model/README.md)
    * [Working Together](Operating-Model/Working-Together.md)
-   * [Organization & Governances](Operating-Model/Organization-and-Governance.md)
    * [Holacracy](Operating-Model/Holacracy/Home.md)
        * [Meetings](Operating-Model/Holacracy/Holacracy-Meetings.md)
        * [Specific Roles](Operating-Model/Holacracy/Holacracy-Specific-Roles.md)
