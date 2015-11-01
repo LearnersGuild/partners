@@ -55,13 +55,13 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 ---
 
-[^1]: Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world.
+[^1] Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world.
 
-[^2]: Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.
+[^2] Almost every learning institution starts with lofty values of “putting the learner first”. Unless an organization's financial success—its very means of surviving—is 100% aligned with the success of its learners, we believe that over time their prospective outcomes will deviate in spite of best intentions.
 
-[^3]: We are committed to becoming excellent at implementing and continuously improving ways of measuring the degree to which we are accomplishing our mission. We see impact measurement as an evolving discipline and understand that there are real tradeoffs to be made in deciding what to pursue within measurement practices. We are committed to publishing metrics annually and integrating feedback from our stakeholders. As with all things, we will decide what and how we measure based on what collectively benefits our stakeholders.
+[^3] We are committed to becoming excellent at implementing and continuously improving ways of measuring the degree to which we are accomplishing our mission. We see impact measurement as an evolving discipline and understand that there are real tradeoffs to be made in deciding what to pursue within measurement practices. We are committed to publishing metrics annually and integrating feedback from our stakeholders. As with all things, we will decide what and how we measure based on what collectively benefits our stakeholders.
 
-[^4]: It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
+[^4] It is important to make a distinction here. We are not designing our program to target a certain demographic. There are [many][link1] [many][link2] [excellent][link3] [programs][link4] that do that. We are broader by design. However, we critically measure our success by our ability to attract and serve these underrepresented communities. We are not interested in a solution that fails to do so.
 
 [link1]: http://www.blackgirlscode.com/
 [link2]: http://www.yearup.org/

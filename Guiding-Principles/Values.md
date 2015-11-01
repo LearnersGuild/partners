@@ -58,12 +58,12 @@ As founders, investors, and partners we will make a sincere effort over time, to
 
 ---
 
-[^1]: “Our relations with each other has a direct effect on learner success. We may think we can hide conflict behind a wall of professionalism, but the learners feel it, sense it, or see it clearly. And it works the other way — our level of trust, authenticity and openness creates the soil for their success.” ~ Will Grant
+[^1] “Our relations with each other has a direct effect on learner success. We may think we can hide conflict behind a wall of professionalism, but the learners feel it, sense it, or see it clearly. And it works the other way — our level of trust, authenticity and openness creates the soil for their success.” ~ Will Grant
 
-[^2]: Tory Higgins, ranking professor of psychology and org behavior at Columbia, wrote a masterpiece called Beyond Pleasure and Pain several years ago that summarizes three hundred years of motivation inquiry, complete with 25 years of lab experiments. In essence, he debunks the widely held premise that humans are motivated to seek pleasure and avoid pain. The experimental data do not show this. Rather, humans are motivated most centrally to seek truth and achieve mastery, and they will endure enormous hardship and deprivation to accomplish these core values. This explains the commonplace observation of the marathon runner, the IronMan competer, just about anyone who seeks a worthy goal and places their comfort and pleasure at risk in order to be more fully human.
+[^2] Tory Higgins, ranking professor of psychology and org behavior at Columbia, wrote a masterpiece called Beyond Pleasure and Pain several years ago that summarizes three hundred years of motivation inquiry, complete with 25 years of lab experiments. In essence, he debunks the widely held premise that humans are motivated to seek pleasure and avoid pain. The experimental data do not show this. Rather, humans are motivated most centrally to seek truth and achieve mastery, and they will endure enormous hardship and deprivation to accomplish these core values. This explains the commonplace observation of the marathon runner, the IronMan competer, just about anyone who seeks a worthy goal and places their comfort and pleasure at risk in order to be more fully human.
 
-[^3]: Source: [The Deliberately Developmental Organization](https://static1.squarespace.com/static/54541a13e4b0331fc2f2a0f7/t/550b6b72e4b0ff02510e1594/1426811762075/W2G+What+is+a+DDO+Sept+2013+Copyrighted.pdf)
+[^3] Source: [The Deliberately Developmental Organization](https://static1.squarespace.com/static/54541a13e4b0331fc2f2a0f7/t/550b6b72e4b0ff02510e1594/1426811762075/W2G+What+is+a+DDO+Sept+2013+Copyrighted.pdf)
 
-[^4]: Source: Overcoming Organizational Defenses: Facilitating Organizational Learning by Chris Argyris (Prentice Hall: 1990)
+[^4] Source: Overcoming Organizational Defenses: Facilitating Organizational Learning by Chris Argyris (Prentice Hall: 1990)
 
-[^5]: As argued masterfully in [Owning our future](http://www.amazon.com/Owning-Our-Future-Ownership-Revolution/dp/1605093106)
+[^5] As argued masterfully in [Owning our future](http://www.amazon.com/Owning-Our-Future-Ownership-Revolution/dp/1605093106)
