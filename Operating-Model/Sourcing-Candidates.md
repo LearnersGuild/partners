@@ -36,5 +36,5 @@ Note: We use [Workable][tooling-workable] to manage candidates, but when you "Di
 
 [jobs-page]: TODO need link
 [slack-hiring-channel]: TODO need link
-[tooling-workable]: /Operating%20Model/Tooling.md#workable
-[referral-bonuses]: /Benefits%20and%20Perks/Referral%20Bonuses.md
+[tooling-workable]: /Operating-Model/Tooling.md#workable
+[referral-bonuses]: /Benefits-and-Perks/Referral-Bonuses.md

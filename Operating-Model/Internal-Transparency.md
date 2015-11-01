@@ -8,7 +8,7 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ## Public OKRs
 
-Everyone at Learners Guild writes their own [Objectives and Key Results](/Onboarding%20Documents/Objectives%20and%20Key%20Results.md) and they’re viewable by all partners in the OKRs folder. Any time you want to know what someone else is working on, or what their goals are for the next few months, you can check them out there.
+Everyone at Learners Guild writes their own [Objectives and Key Results](/Onboarding-Documents/Objectives-and-Key-Results.md) and they’re viewable by all partners in the OKRs folder. Any time you want to know what someone else is working on, or what their goals are for the next few months, you can check them out there.
 
 OKRs are explicit, written priorities and intentions. These are what we think about every day and the ways we’re measuring our success, so they’re a good place to start when you want to know what someone is working on, or why they’re approaching a problem in a certain way.
 

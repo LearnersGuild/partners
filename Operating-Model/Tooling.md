@@ -87,4 +87,4 @@ Link: <br>
 Purpose: Managing recruitment.<br>
 Users: Partners responsible for recruiting and hiring.
 
-[sharing-files]: Sharing%20Files.md
+[sharing-files]: Sharing-Files.md

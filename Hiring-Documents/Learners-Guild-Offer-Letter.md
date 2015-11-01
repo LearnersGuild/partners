@@ -8,25 +8,25 @@ We are excited to extend an official offer for you to join the Learners Guild te
 
 In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES **shares of Learners Guild’s common stock. There are **OUTSTANDING SHARES** shares of Learners Guild common stock outstanding, and your shares will vest over six years, with a one year cliff.
 
-Equity at startups is complicated, so we’ve created a [Guide to Your Equity](/Hiring%20Documents/Guide%20to%20Your%20Equity.md) that explains how options are issued, exercised, and what they might be worth if Learners Guild is successful.
+Equity at startups is complicated, so we’ve created a [Guide to Your Equity](/Hiring-Documents/Guide-to-Your-Equity.md) that explains how options are issued, exercised, and what they might be worth if Learners Guild is successful.
 
 The best perk of working at Learners Guild is your incredible new coworkers, but you’re also entitled to all of the benefits that apply to you from our benefits plan. These currently include:
 
-* [Healthcare, Dental, Vision](/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Healthcare, Dental, Vision](/Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
 
-* [Short and Long Term Disability Insurance](/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Short and Long Term Disability Insurance](/Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
 
-* [Three weeks vacation (15 days PTO)](/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Three weeks vacation (15 days PTO)](/Benefits-and-Perks/Vacation-and-Sick-Leave.md)
 
-* [Holidays](/Benefits%20and%20Perks/Holiday%20List.md)
+* [Holidays](/Benefits-and-Perks/Holiday-List.md)
 
-* [A quarter-long (12 week) paid sabbatical every 5 years working at Learners Guild](/Benefits%20and%20Perks/Sabbatical.md)
+* [A quarter-long (12 week) paid sabbatical every 5 years working at Learners Guild](/Benefits-and-Perks/Sabbatical.md)
 
-* [12 weeks paid new parent (maternity/paternity) leave](/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [12 weeks paid new parent (maternity/paternity) leave](/Benefits-and-Perks/New-Parent-Leave.md)
 
-* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](/Benefits-and-Perks/Continuing-Education.md)
 
-* [Flights and hotels covered for speaking at industry conferences](/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Flights and hotels covered for speaking at industry conferences](/Benefits-and-Perks/Continuing-Education.md)
 
 The benefits we offer will adapt to the team’s needs over time and we evaluate and adjust compensation at the beginning of each year (around January).
 
@@ -36,7 +36,7 @@ Learners Guild is an "at-will" employer, which means that both you and Learners 
 
 Our [Partner Guide](https://github.com/LearnersGuild/guide) goes over the general policies and practices for working at Learners Guild. This letter is specific to you and it supersedes the guide if they conflict -- otherwise, the guide is the authority on working at Learners Guild.
 
-But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](/Hiring%20Documents/Partner%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement%20(NDA).doc.md) and establish your identity and authorization to work in the country.
+But this letter doesn’t mean anything unless you sign it! And before this takes legal effect, you’ll need to fill out our [Proprietary Information and Inventions Agreement](/Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement-(NDA).doc.md) and establish your identity and authorization to work in the country.
 
 It has been great getting to know you through the interview process. The whole Learners Guild team is convinced that you’re the right person for this job, and we can’t wait to work with you!
 ```

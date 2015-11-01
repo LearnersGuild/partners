@@ -32,7 +32,7 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 ## The Basics about Learners Guild
 
-**Learners Guild is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Learners Guild and they guide the decisions we make here. You can read more about the [Learners Guild Values](/Learners Guild%20Values.md), but the short versions are:
+**Learners Guild is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Learners Guild and they guide the decisions we make here. You can read more about the [Learners Guild Values](/Learners Guild-Values.md), but the short versions are:
 
 * Be better today than yesterday
 

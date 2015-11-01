@@ -63,10 +63,10 @@ After a week, the new partner should have their first one-on-one meeting. This m
 
 From there, the process should merge towards the normal process. It’s important to set reasonable expectations and be very supportive for as long as it takes for the partner to feel comfortable at Learners Guild (this might be a week for some and a month for others).
 
-[welcome-to-lg]: ../Onboarding%20Documents/Welcome%20to%20Learners%20Guild.md
+[welcome-to-lg]: ../Onboarding-Documents/Welcome-to-Learners-Guild.md
 [offer-letter]: TODO make offer letter (clef version: https://docs.google.com/document/d/1WUiY-mzKHJblc6MatcyZcqWqdnhe_D4fl0RvFXR7dz0)
 [prop-info-agreement]: TODO do we need this? (clef version:  https://docs.google.com/document/d/10RI3ne-OLjU8cwuwVuYA3H_pQdEW1pioz1zIAJ3nOLY)
-[sharing-files]: Sharing%20Files.md
+[sharing-files]: Sharing-Files.md
 [tooling]: Tooling.md
 [holacracy-constitution]: https://github.com/LearnersGuild/Holacracy-Constitution
 [deschooling-society]: http://learning.media.mit.edu/courses/mas713/readings/DESCHOOLING.pdf
