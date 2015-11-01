@@ -42,6 +42,6 @@ Communication, as they say, is the key to every relationship. Working remotely m
 
 ## Getting Things Done
 
-All partners in Learners Guild commit practice [GTD](/Operating-Model/GTD.md). The [Holacracy constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed. Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD. Software projects are defined in Asana and link to either pivotal or trello for task breakdown.
+All partners in Learners Guild commit practice [GTD](./Operating-Model/GTD.md). The [Holacracy constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed. Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD. Software projects are defined in Asana and link to either pivotal or trello for task breakdown.
 
-Check out the [Getting Things Done](/Operating-Model/GTD.md) section of the Guide
+Check out the [Getting Things Done](./Operating-Model/GTD.md) section of the Guide
