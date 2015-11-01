@@ -9,13 +9,13 @@ Holacracy is a new way of running an organization that removes power from a mana
 # Getting Started with Holacracy
 - Watch the [introduction video](http://holacracy.org/intro) and read this [general summary](http://chrisriedy.me/2013/05/28/holacracy-a-social-technology-for-purposeful-organisation/)
 
-- Learn the different Definitions [Terms and Definitions](/Operating%20Model/Holacracy/Holacracy-Terms-and-Definitions.md)
+- Learn the different Definitions [Terms and Definitions](Holacracy-Terms-and-Definitions.md)
 
-- Learn about [Holacratic Meetings](/Operating%20Model/Holacracy/Holacracy-Meetings.md)
+- Learn about [Holacratic Meetings](Holacracy-Meetings.md)
 
-- Learn about the [Holacracy Specific Roles](/Operating%20Model/Holacracy/Holacracy-Specific-Roles.md)
+- Learn about the [Holacracy Specific Roles](Holacracy-Specific-Roles.md)
 
-- When you're ready learn more about the [Finer Points of Holacratic Practice](/Operating%20Model/Holacracy/Finer-Points-of-Holacracy.md)
+- When you're ready learn more about the [Finer Points of Holacratic Practice](Finer-Points-of-Holacracy.md)
 
 # What is Holacracy
 Holacracy is a social technology, an organizational design or operating system for companies.
