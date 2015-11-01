@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Guiding Principles](Guiding-Principles/README.md)
    * [Mission Statement](Guiding-Principles/Mission-Statement.md)
-   * [Values](Guiding-Principles/Values.md)
+   * [Core Values](Guiding-Principles/Values.md)
    * [Org Strategy](Guiding-Principles/Strategy.md)
    * [Rules of Engagement](Guiding-Principles/Engagement.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
