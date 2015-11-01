@@ -1,14 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Mission Statement](Guiding_Principles/Mission_Statement.md)
-* [Acknowledgements](Acknowledgements.md)
+* [Mission Statement](Guiding-Principles/Mission-Statement.md)
 * [Guiding Principles](Guiding_Principles/README.md)
    * [Mission Statement](Guiding_Principles/Mission_Statement.md)
-   * [Values](Guiding%20Principles/Learners%20Guild%20Values.md)
-   * [Org Strategy](Guiding%20Principles/Strategy.md)
-   * [Rules of Engagement](Guiding%20Principles/Engagement.md)
-   * [Conflict Resolution Process](Guiding%20Principles/Conflict.md)
+   * [Values](Guiding-Principles/Values.md)
+   * [Org Strategy](Guiding-Principles/Strategy.md)
+   * [Rules of Engagement](Guiding-Principles/Engagement.md)
+   * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
 * Operating Model
    * [Working Together](Operating%20Model/Working%20Together.md)
    * [Organization & Governances](Operating%20Model/Organization%20and%20Governance.md)
