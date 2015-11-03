@@ -2,7 +2,26 @@
 
 The organization and governance model of Learners Guild is based on [Holacracy][holacracy].
 
-We run our business on a modified version of the [Holacracy Constitution](https://github.com/LearnersGuild/Holacracy-Constitution) that allows for circles to opt in and out of self-governance.
+We run our business on the [Holacracy Constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) with an important policy that allows for circles to opt in and out of self-governance.
+
+This policy:
+Policy: Localized Governance
+
+Each circle shall delegate its governance authority to the role of @Governor.
+
+The @Governor of each circle shall have exclusive authority of passing governance in their circle.
+
+For a circle to evolve to distributed governance.  The @Governer, @Lead Link of the circle, and @Holacracy Engagement Lead need to all agree.
+
+For a circle to turn back towards localized governance, the @Lead Link of the circle and @Holacracy Engagement Lead need to agree.
+
+Role: Governor
+<br>Purpose:  This circle's structure evolved through governance in order to optimally express its purpose 
+<br>Domain: This circle’s governance
+<br>Accountabilities:
+- Meeting with circle members in order to process their governance tensions
+- Acting as Secretary when enacting governance outside of a meeting
+- Creating and passing governance proposals for this circle
 
 Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
@@ -48,12 +67,8 @@ Check out the [LG Holacracy Google Drive](https://drive.google.com/open?id=0B603
 
 ## Missing sections
 
-* Why Holacracy
-* Materials
 * Glassfrog
 * Holacracy coaching (what is it, how to get it)
-* Modification of the constitution: the governor role. Why a modified constitution?
 * Resources: the book, holacracy site, articles, re-inventing organizations, videos...etc.
-* Links to kung fu of holacracy
 
 [holacracy]: http://holacracy.org
