@@ -49,6 +49,8 @@ However, for this to work well, objections have to be valid.  The facilitator wi
 
 8:50 - 18:30 of [this video](https://vimeo.com/94227010) Karim explains to a facilitator how to test objections.  It's a good view into how we think about objections as facilitators and a great guide for all partners.
 
+And here's the [guide to testing objections](https://drive.google.com/open?id=0B603F2WUOtLJSjR0RHdKY0VSUmM)
+
 ## Partner
 Partner is the term we use for anyone who's working at Learners Guild.  A partner does not have any "titles" or "positions". They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
 
@@ -101,4 +103,4 @@ They are called tensions because that is how they literally manifest in our bodi
 
 What is asked of every partner around tensions is to honor your intuition – if you literally “feel a tension” then that is to be respected and listened to. Each of our roles’ tensions and processing them is what drives Learners Guild forward.They are an integral and necessary part of how we do work in Holacracy, they are not a problem.
 
-Here’s a [flow chart](https://workflowy.com/s/p3csxr0B9d) of how to think about/process tensions.
+Here’s a [flow chart](https://drive.google.com/open?id=0B603F2WUOtLJMVBJcC1pNVNreUk) of how to think about/process tensions.
