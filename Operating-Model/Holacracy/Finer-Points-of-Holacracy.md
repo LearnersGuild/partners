@@ -1,5 +1,7 @@
 # Holacracy Nuances
 
+For some short videos on practicing Holacracy, check out the [Kung Fu of Holacracy series](http://www.clearerpathsconsulting.com/kung-fu-of-holacracy/).
+
 ## When to use accountabilities vs. domains or policies.
 
 When thinking of how to resolve your governance tension, it is difficult to decide between using an accountability, a policy, or a domain to resolve it.  Hopefully this guide should shed some light on this issue.
