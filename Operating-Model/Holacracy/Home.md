@@ -28,6 +28,9 @@ Holacracy is a social technology, an organizational design or operating system f
 * Brief intro videos: [Here](http://www.youtube.com/watch?v=nG-9fgSNLDQ), and [here](http://www.youtube.com/watch?v=EPVR-oqvC_g)
 * This is a great [FAQ](http://clarifyingquestions.wordpress.com/) by the founder to help answer some deeper questions.
 
+## More resources
+Check out the [LG Holacracy Google Drive](https://drive.google.com/open?id=0B603F2WUOtLJang2UmVWTmZUVjA) for more resources
+
 
 ## Missing sections
 
