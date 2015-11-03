@@ -19,6 +19,18 @@ Holacracy is a new way of running an organization that removes power from a mana
 
 - When you're ready learn more about the [Finer Points of Holacratic Practice](Finer-Points-of-Holacracy.md)
 
+# Why Holacracy
+
+We're using Holacracy for many reasons, here are some of the main ones:
+
+- Meetings can run in circles, where we speak passionately “about” topics but don't actually get to actionable outcomes.
+- Those who are heard in meetings are those who spoke the loudest and/or quickest. And quieter, slower thinkers are not heard from nearly as much.
+- Partners feel disempowered by the power structure.  
+- Partners don’t feel enough autonomy, and needed to check in with a very large number of people to “cover their butt” and make sure its ok to do what they want to do.
+- Ideas and movement are bottlenecked by the managers, because most change and action have to go through them.
+
+[This video](https://vimeo.com/95001374) is part of a chat session where Karim, while at DBC, was responding to this question.
+
 # What is Holacracy
 Holacracy is a social technology, an organizational design or operating system for companies.
 
