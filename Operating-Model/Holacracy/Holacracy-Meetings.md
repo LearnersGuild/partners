@@ -13,20 +13,22 @@ This is where we decide WHAT we are doing. We resolve tensions here by coming up
 
 [This is a video](https://vimeo.com/94227060) training a facilitator on how to run a Tactical Meeting. It should be really useful however for everyone. It’s good to know ideally what we’re thinking about in Tactical meetings and how we run them.
 
-Here is the [Tactical Meeting flow](https://drive.google.com/file/d/0B-OhONdCZsZ3RURRRThBS2cwbFE/edit?usp=sharing)
+Here is the [Tactical Meeting flow](https://drive.google.com/open?id=0B603F2WUOtLJOHZJeXNScW5tNVk)
 
 # Governance Meetings
 This is where we decide HOW we’re working together. Outcomes of Governance meetings are new roles/circles, changing/adding accountabilities, changing domains and also policies.
 
-[This is a video](https://vimeo.com/94227010) training a facilitator on how to run a Governance Meeting. It should be really useful however for everyone. It’s good to know ideally what we’re thinking about in Governance meetings and how we test objections, etc.
+[This is a video](https://vimeo.com/94227010) from Karim's work with Dev Bootcamp training a facilitator on how to run a Governance Meeting. It should be really useful however for everyone. It’s good to know ideally what we’re thinking about in Governance meetings and how we test objections, etc.
 
 This is [Holacracy One’s video](http://holacracy.org/resources/video-governance-simulation) of a simulated Governance meeting, another good basic understanding of it.
 
-Here is the [Governance Meeting flow](https://drive.google.com/file/d/0B-OhONdCZsZ3OVpEWVF1eEIzWWM/edit?usp=sharing)
+Here is the [Governance Meeting flow](https://drive.google.com/open?id=0B603F2WUOtLJMjN6dTRpZmVTNEE)
+
+Here is a [Guide to Testing Objections](https://drive.google.com/open?id=0B603F2WUOtLJSjR0RHdKY0VSUmM) for both facilitators and participants to learn how to think about objecting in Governance.
 
 In order to move governance along in between meetings, at Learners Guild we allow roles to propose Governance into email.
 
-[This video](https://vimeo.com/94226817) speaks a little about when to use email Governance vs. taking a tension to a meeting.
+[This video](https://vimeo.com/94226817) from Dev Bootcamp speaks a little about when to use email Governance vs. taking a tension to a meeting.
 
 If nobody objects to a Governance proposal over email, it will pass after 72 working day hours and it is the circle secretary’s accountability to add it into governance.
 
@@ -39,4 +41,4 @@ It is a facilitated brainstorming session that starts with reviewing the circle'
 
 Strategies shall use the form of "Emphasize x, even over y", where x and y represent two connected poles of a polarity with both poles having value independently.
 
-Here is the [Strategy Meeting flow](https://docs.google.com/a/devbootcamp.com/file/d/0B-OhONdCZsZ3aE9nNWVmcTNyUFU/edit)
+Here is the [Strategy Meeting flow](https://drive.google.com/open?id=0B603F2WUOtLJTmtheDJBc25VZHM)
