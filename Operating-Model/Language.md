@@ -28,21 +28,13 @@ Avoid:
   Partners will touch their noses upon meeting each other.
   The noses of partners are touched upon meeting each other.
 
-## Glossary of Terms
+## Glossary
 
-_Words and phrases which have specific meaning in the context of Learners Guild are to be defined here._
-
-- partner
-- member
-- team
-- circle
-- pod
-- cohort
-- learner
-- stakeholder
+See the [Learners Guild glossary][glossary]
 
 ## Appropriate Communication
 
 Use [NVC][nvc] with all partners and members.
 
+[glossary]: ../GLOSSARY.md
 [nvc]: https://en.wikipedia.org/wiki/Nonviolent_Communication
