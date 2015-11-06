@@ -2,13 +2,13 @@
 
 # Sharing Files at Learners Guild
 
-We use Dropbox to share and manage files. Every partner will have access to the shared Dropbox account.
+We use Google Drive to share and manage files. Every partner will have access to the shared Google Drive account.
 
 **Sharing and Permissions**: All directories and files will be internally accessible to all partners unless there is a _really good_ reason to make them private.
 
 ## Base Directories
 
-At the base of the Learners Guild Dropbox directory, there should be 5 directories:
+At the base of the Learners Guild Google Drive directory, there should be 5 directories:
 
 1. **Guide** -- a collection of documents about how we do things at Learners Guild, which anyone can comment on and make suggestions to.
 
