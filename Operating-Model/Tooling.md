@@ -73,6 +73,14 @@ or
 
 Email is to be used _solely_ for external communications, _not_ internal communications. Partners and members will always communicate via Slack.
 
+### LastPass
+
+Link: https://lastpass.com/<br>
+Purpose: Secure account/password storage and sharing.<br>
+Users: All partners.
+
+Partners are expected to use LastPass to store their company accounts. If we all use LastPass, it is easier to share login information.
+
 ### Slack
 
 Link: <br>
@@ -86,5 +94,13 @@ Think twice about DM channels. Close the gaps.
 Link: <br>
 Purpose: Managing recruitment.<br>
 Users: Partners responsible for recruiting and hiring.
+
+### Zoom.us
+
+Link: https://zoom.us<br>
+Purpose: Video conferencing.
+Users: All partners needing to attend meetings remotely.
+
+As of Nov 2015, we have one Pro plan (see LastPass for login) which can be used to host meetings. Other partners will need to create their own account and download the software to participate in meetings.
 
 [sharing-files]: Sharing-Files.md
