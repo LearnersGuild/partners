@@ -14,9 +14,13 @@ Social tools are shared by multiple partners or the entire team. As such, these 
 
 ## Personal Tools
 
-Computer
-Suggested software
-- ?
+### Laptop Computer
+
+Most partners in Learners Guild use Apple computers. It is highly recommended that you use one as well, as collaboration is made that much easier with a shared platform.
+
+### GTD Supplies
+
+To best follow the [Getting Things Done][gtd] method in your own work, acquire the tools you need.
 
 ## Social Tools
 
