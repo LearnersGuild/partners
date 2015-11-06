@@ -26,13 +26,13 @@ First: **A genuine love for and pursuit of truth**
 
 Second: **An uncompromising embrace of mastery**
 
-  We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.<sup name="a2">[^2]</sup>
+  We understand that the achievement of mastery is one of the strongest drives in people, and that it can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We cherish mastery in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.[^2]
 
 ## Closing the Gaps
 
 In a typical organization, individuals expend enormous energy protecting themselves. People hide parts of themselves, avoid conflict, unwittingly sabotage change efforts, and subtly enforce a separation between “the me at work” and the “real me”. The consequences are all too common, and all too familiar: more stress and turnover, office politics and gossip, less engagement and collaboration, and ultimately worse outcomes.
 
-“Gaps” in organizations, in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.<sup name="a3">[^3]</sup>
+“Gaps” in organizations, in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.[^3]
 
 ### Gaps may arise between:
 
