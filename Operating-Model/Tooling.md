@@ -22,9 +22,11 @@ Suggested software
 
 ### Asana
 
-Link: <br>
+Link: https://app.asana.com/<br>
 Purpose: Project management and low-level task tracking.<br>
 Users: All partners.
+
+We use Asana for task management (according to the [Getting Things Done][gtd] methodology) as well as for Holacracy tactical meetings.
 
 Think twice about private projects. Close the gaps.
 
@@ -33,6 +35,8 @@ Think twice about private projects. Close the gaps.
 Link: https://github.com/learnersguild<br>
 Purpose: Software storage, versioning, collaboration. Also some documents.<br>
 Users: All partners.
+
+GitHub is where we store and collaborate on internal software projects. It is also used for certain documents and resources, such as this guide.
 
 ### GlassFrog
 
@@ -44,9 +48,11 @@ GlassFrog is the software component of Holacracy.
 
 ### Google Calendar
 
-Link: <br>
-Purpose: <br>
+Link: https://calendar.google.com/<br>
+Purpose: Scheduling.<br>
 Users: All partners.
+
+Partners keep their work-related events in an internally visible calendar. Invites to events are sent to `@learnersguild.org` addresses.
 
 ### Google Drive
 
@@ -58,7 +64,7 @@ Read [Sharing Files][sharing-files] for more information about how files work at
 
 ### Email (Google Mail)
 
-Link: <br>
+Link: https://mail.google.com/<br>
 Purpose: External communications.<br>
 Users: All partners.
 
@@ -89,17 +95,13 @@ Partners are expected to use LastPass to store their company accounts. If we all
 
 ### Slack
 
-Link: <br>
+Link: https://learnersguild.slack.com/<br>
 Purpose: Internal communications.<br>
-Users: All partners and members.
+Users: All partners.
 
-Think twice about DM channels. Close the gaps.
+Slack is the forum, water cooler, dashboard, couch, and all-around central communication and collaboration hub. In the spirit of transparency, internal communication happens on Slack in a way that is visible to all other partners _unless there is a really good reason for not doing so._
 
-### Workable
-
-Link: <br>
-Purpose: Managing recruitment.<br>
-Users: Partners responsible for recruiting and hiring.
+Think twice about private channels and messages. Close the gaps.
 
 ### Zoom.us
 
@@ -109,4 +111,5 @@ Users: All partners needing to attend meetings remotely.
 
 As of Nov 2015, we have one Pro plan (see LastPass for login) which can be used to host meetings. Other partners will need to create their own account and download the software to participate in meetings.
 
+[gtd]: GTD.md
 [sharing-files]: Sharing-Files.md
