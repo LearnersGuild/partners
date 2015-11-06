@@ -28,33 +28,33 @@ Users: All partners.
 
 Think twice about private projects. Close the gaps.
 
-### Dropbox
-
-Link: <br>
-Purpose: Files, documents, resources.<br>
-Users: All partners.
-
-Read [Sharing Files][sharing-files] for more information about how files work at Learners Guild.
-
 ### GitHub
 
 Link: https://github.com/learnersguild<br>
 Purpose: Software storage, versioning, collaboration. Also some documents.<br>
 Users: All partners.
 
-### Glassfrog
+### GlassFrog
 
-Link: <br>
+Link: https://glassfrog.holacracy.org<br>
 Purpose: Recording and tracking governance and high-level operations.<br>
 Users: All partners.
 
-Difference between projects here and projects there.
+GlassFrog is the software component of Holacracy.
 
 ### Google Calendar
 
 Link: <br>
 Purpose: <br>
 Users: All partners.
+
+### Google Drive
+
+Link: https://drive.google.com<br>
+Purpose: Storing, editing, and sharing core documents and files.<br>
+Users: All partners.
+
+Read [Sharing Files][sharing-files] for more information about how files work at Learners Guild.
 
 ### Email (Google Mail)
 
