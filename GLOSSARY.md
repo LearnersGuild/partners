@@ -17,7 +17,7 @@ The Guilde Core is the central organizational body of Learners Guild. The Core i
 Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
 
 # Member
-Everyone who works for or with Learners Guild is a member. This includes the staff (parnters) of the core as well as everyone involved with a guild chapter, as well as all learners.
+Everyone who works for or with Learners Guild is a member. This includes the staff (partners) of the core as well as everyone involved with a guild chapter, as well as all learners.
 
 # Mentor
 Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, mentor, and otherwise assist apprentices and practitioners in their learning.
