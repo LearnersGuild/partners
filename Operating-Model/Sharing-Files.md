@@ -8,7 +8,7 @@ We use Dropbox to share and manage files. Every partner will have access to the 
 
 ## Base Directories
 
-At the base of the Learners Guild Dropbox directory, there should be 6 directories:
+At the base of the Learners Guild Dropbox directory, there should be 5 directories:
 
 1. **Guide** -- a collection of documents about how we do things at Learners Guild, which anyone can comment on and make suggestions to.
 
@@ -17,8 +17,6 @@ At the base of the Learners Guild Dropbox directory, there should be 6 directori
 	1. **Inactive Projects** -- Projects which aren’t currently under development.
 
 1. **Resources** -- common resources which will be shared across projects (design resources, press clippings, etc.)
-
-1. **OKRs** -- everyone at Learners Guild’s objectives and key results.
 
 1. **Personnel** -- every partner will have their own folder in this directory.
 	1. **[Partner Name]** -- contracts, offer letters, etc. for the partner.
