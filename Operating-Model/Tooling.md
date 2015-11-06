@@ -36,6 +36,12 @@ Users: All partners.
 
 Read [Sharing Files][sharing-files] for more information about how files work at Learners Guild.
 
+### GitHub
+
+Link: https://github.com/learnersguild<br>
+Purpose: Software storage, versioning, collaboration. Also some documents.<br>
+Users: All partners.
+
 ### Glassfrog
 
 Link: <br>
