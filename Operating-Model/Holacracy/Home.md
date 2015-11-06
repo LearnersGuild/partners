@@ -2,7 +2,7 @@
 
 The organization and governance model of Learners Guild is based on [Holacracy][holacracy].
 
-We run our business on the [Holacracy Constitution] (https://github.com/LearnersGuild/Holacracy-Constitution) with an important policy that allows for circles to opt in and out of self-governance.
+We run our business on the [Holacracy Constitution](https://github.com/LearnersGuild/Holacracy-Constitution) with an important policy that allows for circles to opt in and out of self-governance.
 
 This policy:
 Policy: Localized Governance
@@ -16,7 +16,7 @@ For a circle to evolve to distributed governance.  The @Governer, @Lead Link of 
 For a circle to turn back towards localized governance, the @Lead Link of the circle and @Holacracy Engagement Lead need to agree.
 
 Role: Governor
-<br>Purpose:  This circle's structure evolved through governance in order to optimally express its purpose 
+<br>Purpose:  This circle's structure evolved through governance in order to optimally express its purpose
 <br>Domain: This circle’s governance
 <br>Accountabilities:
 - Meeting with circle members in order to process their governance tensions
@@ -40,7 +40,7 @@ Holacracy is a new way of running an organization that removes power from a mana
 
 - When you're ready learn more about the [Finer Points of Holacratic Practice](Finer-Points-of-Holacracy.md)
 
-- Check out the [Holacracy Book](http://amzn.com/162779428X) and [Reinventing Organizations](http://amzn.com/2960133501) 
+- Check out the [Holacracy Book](http://amzn.com/162779428X) and [Reinventing Organizations](http://amzn.com/2960133501)
 
 - Reach out to LG's [Holacracy Coach](https://glassfrog.holacracy.org/roles/4477013) for support on anything Holacracy related
 
