@@ -6,12 +6,6 @@ The best way for you to make a decision about what’s good for Learners Guild i
 
 Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Learners Guild. These are some of the policies we use to make information more accessible, but our work is ongoing.
 
-## Public OKRs
-
-Everyone at Learners Guild writes their own [Objectives and Key Results](/Onboarding-Documents/Objectives-and-Key-Results.md) and they’re viewable by all partners in the OKRs folder. Any time you want to know what someone else is working on, or what their goals are for the next few months, you can check them out there.
-
-OKRs are explicit, written priorities and intentions. These are what we think about every day and the ways we’re measuring our success, so they’re a good place to start when you want to know what someone is working on, or why they’re approaching a problem in a certain way.
-
 ## Public Slack Channels
 
 Almost all Slack conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
@@ -20,7 +14,7 @@ Not every ping or question needs to happen publicly, but when in question, you s
 
 ## Public Trello Boards
 
-Projects should have org-visible Trello boards so that everyone can see where a project is, and what’s being worked on at any point in time. These boards are a little more granular than OKRs and are more cross-organizational since they’re not specific to any individual person.
+Projects should have org-visible Trello boards so that everyone can see where a project is, and what’s being worked on at any point in time. These boards are more cross-organizational since they’re not specific to any individual person.
 
 ## Public Calendars
 

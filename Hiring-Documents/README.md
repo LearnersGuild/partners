@@ -5,4 +5,3 @@
  * [Guide to Your Equity](Guide-to-Your-Equity.md)
  * [Guide Introduction](Guide-Introduction.md)
  * [Welcome to Learners Guild](Welcome-to-Learners-Guild.md)
- * [Objectives and Key Results](Objectives-and-Key-Results.md)

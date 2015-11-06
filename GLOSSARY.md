@@ -14,19 +14,25 @@ Learners are organized into crews. Crews are the atomic level of group organizat
 The Guilde Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
 # Learner
-Everyone who works for or with Learners Guild is a learner. This includes the staff of the core as well as everyone involved with a guild chapter.
+Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
+
+# Member
+Everyone who works for or with Learners Guild is a member. This includes the staff (parnters) of the core as well as everyone involved with a guild chapter, as well as all learners.
 
 # Mentor
 Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, mentor, and otherwise assist apprentices and practitioners in their learning.
 
+# Partner
+Everyone who works for Learners Guild is a partner.
+
 # Practitioner
-Practitioners are learners who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good mentors can advance to become guides.
+Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
 
 # Professional Role
 A craft is a profession which has a specific Professional Role associated with it. For example, the craft of software development is associated with the Role "software developer". The craft of photovoltaic technology is associated with the Role "solar electric technician".
 
 # Stages
-Within a role, learners move through three stages of development: apprentice, practitioner, and guide. For example, a learner might be an "apprentice software developer" or a "practicing solar electric technician" or a "mentor graphic designer". Learners can occupy multiple roles at once, and they can be at various stages in each role.
+Within a role, learners move through three stages of development: apprentice, practitioner, and mentor. For example, a learner might be an "apprentice software developer" or a "practicing solar electric technician" or a "mentor graphic designer". Learners can occupy multiple roles at once, and they can be at various stages in each role.
 
 # Stakeholder
-Stakeholders include all learners in addition to affinity organizations,  investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
+Stakeholders include all members in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
