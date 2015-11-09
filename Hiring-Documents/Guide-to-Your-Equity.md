@@ -2,7 +2,7 @@
 
 # Guide to Your Equity
 
-There are currently **14,600,000** shares of Learners Guild common stock outstanding.
+To find out how many shares of currently outstanding stock there are, email help@learnersguild.org.
 
 We have not **yet** undergone a 409A valuation to determine the current strike price of Learners Guild stock.
 
