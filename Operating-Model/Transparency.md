@@ -2,6 +2,8 @@
 
 # Transparency
 
+_The purpose of this document is to define our transparency policy. Partners interested in how we manage transparency at Learners Guild will find answers here._
+
 The best way for you to make a decision about what’s good for Learners Guild is to have all of the information about what’s going on at Learners Guild. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Learners Guild that we’re not actively involved with.
 
 Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis, even for a company the size of Learners Guild. These are some of the policies we use to make information more accessible, but our work is ongoing.
