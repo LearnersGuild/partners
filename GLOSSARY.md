@@ -11,7 +11,7 @@ Learners are involved with one or more crafts. These are the industries and skil
 Learners are organized into crews. Crews are the atomic level of group organization in Learners Guild. Each crew has a defined purpose, domain, and objectives.
 
 # Guild Core
-The Guilde Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
+The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
 # Learner
 Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
