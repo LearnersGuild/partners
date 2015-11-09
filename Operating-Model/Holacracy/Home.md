@@ -44,6 +44,9 @@ Holacracy is a new way of running an organization that removes power from a mana
 
 - Watch the [Glassfrog Tool intro video](https://shereef.wistia.com/medias/8wqy1yxwsk)
 
+- Learn how we're using Asana by learning the [Holacracy>GTD>Asana Key](Operating-Model/Holacracy/Holacracy-GTD-Asana Key) 
+
+
 - When you're ready learn more about the [Finer Points of Holacratic Practice](Finer-Points-of-Holacracy.md)
 
 - Check out the [Holacracy Book](http://amzn.com/162779428X) and [Reinventing Organizations](http://amzn.com/2960133501)
