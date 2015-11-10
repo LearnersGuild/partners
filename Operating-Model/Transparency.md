@@ -34,7 +34,7 @@ The following are examples of the kinds of information which is transparent, but
 
 Almost all Slack conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
 
-Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly. Currently about 60% of our conversations happen in public channels, which is a number we hope will keep growing.
+Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly. Currently about 90% of our conversations happen in public channels, which is a number we hope will keep growing. Think twice before starting or using a private channel. Is it absolutely necessary? Is it essential that nobody else view this conversation?
 
 ### Calendars
 
@@ -42,7 +42,7 @@ Work calendars should be shared to make scheduling meetings really easy and also
 
 ### Finances and Salaries
 
-Learners Guild financial information (profit & loss statements, operating budget, etc.) are transparent. So are all the salary and equity ownership data for every partner.
+Learners Guild financial information (profit & loss statements, operating budget, etc.) are transparent. So are all the salary and equity ownership data for every partner and external consultant.
 
 ### Statistics and Metrics
 
