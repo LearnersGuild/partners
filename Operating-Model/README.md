@@ -7,7 +7,7 @@
     * [Terms and Definitions](Holacracy/Holacracy-Terms-and-Definitions.md)
     * [Finer Points](Holacracy/Finer-Points-of-Holacracy.md)
 * [Getting Things Done](GTD.md)
-* [Internal Transparency](Internal-Transparency.md)
+* [Transparency](Transparency.md)
 * [Language](Language.md)
 * [Sourcing Candidates](Sourcing-Candidates.md)
 * [Interview Process](Interview-Process.md)

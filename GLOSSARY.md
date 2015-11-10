@@ -22,11 +22,17 @@ Everyone who works for or with Learners Guild is a member. This includes the sta
 # Mentor
 Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, mentor, and otherwise assist apprentices and practitioners in their learning.
 
+# Open
+Open information is information visible and accessible to everyone inside and outside of Learners Guild. Contrast with private and transparent.
+
 # Partner
 Everyone who works for Learners Guild is a partner.
 
 # Practitioner
 Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
+
+# Private
+Private information is information which is not shared with all partners but is accessible only to a subset. Contrast with transparent and open.
 
 # Professional Role
 A craft is a profession which has a specific Professional Role associated with it. For example, the craft of software development is associated with the Role "software developer". The craft of photovoltaic technology is associated with the Role "solar electric technician".
@@ -36,3 +42,6 @@ Within a role, learners move through three stages of development: apprentice, pr
 
 # Stakeholder
 Stakeholders include all members in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
+
+# Transparent
+Transparent information is information visible and accessible to all partners at Learners Guild, but is not shared with the outside world (including non-partner members). Contrast with open and private.
