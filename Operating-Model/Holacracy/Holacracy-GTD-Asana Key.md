@@ -14,3 +14,8 @@ Role == A public project starting with @
 
 Action == Asana Task 
 >A task requested of you by another partner is a contract between you and that partner, treat it as such.  You're committing, unless you let them know otherwise, to completing this task.  If you're going to reorganize or shift the information in it make sure and let your followers know in the comments section.
+
+### GTD
+Context == Tag
+Use tags for the contexts, i.e. the type of task or the context inwhich you need to get it done.
+We will be using standardized contexts 
