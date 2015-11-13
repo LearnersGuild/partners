@@ -39,6 +39,6 @@ We will be using standardized contexts across the organization:
 **Due date == Due date**
 
 **Timing == New tasks, Upcoming and Later in Asana**
-* New tasks: have not been sorted yet into imminent or later
+> * New tasks: have not been sorted yet into imminent or later
 * Upcoming: means that you will be getting to them soon, they are your next actions
 * Later: means they do not need your immediate attention. *Note: These are different from those tagged “maybe later” which means that they’re future projects.  Later just means they’re not immediate*
