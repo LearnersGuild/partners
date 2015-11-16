@@ -26,7 +26,7 @@ Mentors are learners who may or may not be actively working in a particular craf
 Open information is information visible and accessible to everyone inside and outside of Learners Guild. Contrast with private and transparent.
 
 # Partner
-Everyone who works for Learners Guild is a partner.
+Everyone who works at or for Learners Guild who is *entrusted with upholding its guiding principles and furthering its prupose* is a partner.
 
 # Practitioner
 Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
