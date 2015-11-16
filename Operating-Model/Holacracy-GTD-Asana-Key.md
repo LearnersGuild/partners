@@ -28,6 +28,9 @@ We will be using standardized contexts across the organization:
 * Read: Something that requires reading
 * Listen: Something that requires listening
 * Frog: This is a big action, and will require concerted effort/time
+* Focus:
+* Avoiding:
+* Easy:
 * Waiting: This is waiting on someone else to complete a task of their own first
 * Maybe later: This is a good idea worth keeping, but now’s not the time for it, you’ll look at this context every once in a while and see if anything needs to be moved to more immediate
 * High Pri: These are high priority tasks that needs immediate attention 
