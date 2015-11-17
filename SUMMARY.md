@@ -36,7 +36,6 @@
    * [Guide to Your Equity](Hiring-Documents/Guide-to-Your-Equity.md)
    * [Guide Introduction](Hiring-Documents/Guide-Introduction.md)
    * [Welcome to Learners Guild](Hiring-Documents/Welcome-to-Learners-Guild.md)
-   * [Objectives and Key Results](Hiring-Documents/Objectives-and-Key-Results.md)
 * [Benefits and Perks](Benefits-and-Perks/README.md)
    * [Health Care and Disability Insurance](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
    * [Vacation and Sick Leave](Benefits-and-Perks/Vacation-and-Sick-Leave.md)

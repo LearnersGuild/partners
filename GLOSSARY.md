@@ -19,6 +19,9 @@ Learners are involved with one or more crafts. These are the industries and skil
 # Crew
 Learners are organized into crews. Crews are the atomic level of group organization in Learners Guild, designed to provide an accountability framework for their component learners. Each crew has a defined purpose, domain, and objectives. Generally crews are composed of 12 learners.
 
+# Guild Core
+The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
+
 # Mentors
 Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, support, and otherwise assist apprentices and practitioners in their learning.
 
@@ -26,16 +29,31 @@ Mentors are learners who may or may not be actively working in a particular craf
 Everyone who works for or with Learners Guild is a learner. This includes the staff of the core (partners) as well as everyone involved with a guild chapter.
 
 # Partner
-Partner is the term we use for learners who work in the core at Learners Guild.
+Partner is the term we use for learners who work in the Guild Core
 
 # Practitioner
 Practitioners are learners who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good mentors can advance to become mentors.
 
-# Role
-A craft is a profession which has a specific role associated with it. For example, the craft of software development is associated with the role "software developer". The craft of photovoltaic technology is associated with the role "solar electric technician".
+# Learner
+Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
+
+# Member
+Everyone who works for or with Learners Guild is a member. This includes the staff (parnters) of the core as well as everyone involved with a guild chapter, as well as all learners.
+
+# Mentor
+Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, mentor, and otherwise assist apprentices and practitioners in their learning.
+
+# Partner
+Everyone who works for Learners Guild is a partner.
+
+# Practitioner
+Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
+
+# Professional Role
+A craft is a profession which has a specific Professional Role associated with it. For example, the craft of software development is associated with the Role "software developer". The craft of photovoltaic technology is associated with the Role "solar electric technician".
 
 # Stages
 Within a role, learners move through three stages of development: apprentice, practitioner, and mentor. For example, a learner might be an "apprentice software developer" or a "practicing solar electric technician" or a "mentor graphic designer". Learners can occupy multiple roles at once, and they can be at various stages in each role.
 
 # Stakeholder
-Stakeholders include all learners in addition to affinity organizations,  investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
+Stakeholders include all members in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
