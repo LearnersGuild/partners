@@ -55,3 +55,12 @@ Some common collection tools include:
 
 >“Probably in the last 72 hours, you and I have gotten more change producing and project creating and priority shifting inputs than our parents got in a month, some of them in a year” — David Allen 
 
+## Clarifying What You’ve Captured
+ Capturing is just the beginning. It’s important to regularly process all of the “stuff” that you’ve capture to determine what meaning it has (if any) and whether there is any action to be taken. Everything that you’ve captured into your various physical and electronic inboxes is generically referred to as “stuff”. The process for processing this stuff is essentially the same whether it’s in a physical or electronic form.
+#### Is it Actionable? 
+Go through each inbox item by item. The first question to ask for each item is “is it actionable?”. In other words, does any action need to be taken in response to that item. If there’s no action to be taken you have three choices - you can trash (or recycle) the time, you can put it into a Someday/Maybe list or folder (indicating it may be actionable in the future) or you can file it away for future reference.
+####What’s the Next Action...and can it be done in 2 minutes or less? 
+In the event that there is an action to be taken, define the next physical action. If this action is going to take less than two minutes then do it right away. Keeping in mind that two minutes is a guideline. If you have relatively little time to process your inboxes, then you might only do actions that take a minute or less, whereas if you have an abundance of time available you might choose to take action on things that require five minutes or less.
+#### What if it takes more than two minutes? 
+If it’s something that can’t be done right away, you essentially have two options. You can either do it at some point in the future or you can give it to someone else to do. If you choose to defer the task, place it on either your Calendar or your Next Actions/Project list. If you delegate it to someone else you’ll probably need to maintain a waiting list to keep track of what you’ve delegated.
+
