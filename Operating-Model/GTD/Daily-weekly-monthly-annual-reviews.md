@@ -15,7 +15,7 @@ LG's assumption is that you're committing to these practices unless you let the 
 ###Daily:
 - **When**: Once in the morning and another in the evening
 - **Length**: 5-10 minutes
-- **Purpose**: Clarify what's being done today and prepare to move forward with work.
+- **Purpose**: Clarify what's being done today and prepare to move forward with work
 - **Tasks**:
     - What tasks are in upcoming and will be moved to today?
     - Look at calendar and think: Am I blocking off the time I need?
@@ -53,14 +53,10 @@ LG's assumption is that you're committing to these practices unless you let the 
     - Review someday/maybe list, does anything need to become more current?
 
 ###Annual:
-- **When**: End of each year or first Monday of the year depending on your time and style
+- **When**: End of each year
 - **Length**: 1-2 hours
-- **Purpose**: Clarify what's being done today and prepare to move forward with work.
+- **Purpose**: Broad reflection on goals and purpose and life balance
 - **Tasks**:
-    - What tasks are in upcoming and will be moved to today?
-    - Check in with personal and professional goals for the year
-    - Alignment with purpose of roles and of organization
-
-Annual Review:
-Goals for the year
-Alignment with purpose
+    - Goals for the year - How did I do last year and what do I want to focus on for the upcoming one?
+    - Alignment with purpose -  am I headed in the right direction?
+    - Overall effort balance - Did I give enough time to the things that really matter to me?
