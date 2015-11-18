@@ -16,7 +16,7 @@
        * [Finer Points](Operating-Model/Holacracy/Finer-Points-of-Holacracy.md)
        * [Holacracy-Asana Key](Operating-Model/Holacracy/Holacracy-Asana-Key.md)
    * [Getting Things Done](guide/Operating-Model/GTD/home.md)
-        * [GTD-Asana Key](Operating-Model/GTD/Holacracy-GTD-Asana-Key.md)
+        * [GTD-Asana Key](Operating-Model/GTD/GTD-Asana-Key.md)
    * [Transparency](Operating-Model/Transparency.md)
    * [Language](Operating-Model/Language.md)
    * [Sourcing Candidates](Operating-Model/Sourcing-Candidates.md)
