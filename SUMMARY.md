@@ -14,7 +14,7 @@
        * [Specific Roles](Operating-Model/Holacracy/Holacracy-Specific-Roles.md)
        * [Terms and Definitions](Operating-Model/Holacracy/Holacracy-Terms-and-Definitions.md)
        * [Finer Points](Operating-Model/Holacracy/Finer-Points-of-Holacracy.md)
-       * [Holacracy-GTD-Asana Key](Operating-Model/GTD/Holacracy-GTD-Asana-Key.md)
+       * [Holacracy-Asana Key](Operating-Model/Holacracy/Holacracy-Asana-Key.md)
    * [Getting Things Done](guide/Operating-Model/GTD/home.md)
         * [GTD-Asana Key](Operating-Model/GTD/Holacracy-GTD-Asana-Key.md)
    * [Transparency](Operating-Model/Transparency.md)
