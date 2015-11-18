@@ -55,7 +55,7 @@ Some common collection tools include:
  - **Wallet/Purse** — You may accumulate important information (e.g. business cards) in your wallet or purse. Emptying these sources regularly will help ensure this input is dealt with in a timely manner.
  - **Voicemail** — Voicemails can accumulate and can easily be forgotten. It is recommended that you establish a workflow for capturing voicemails. This could be as simple as writing down the information from the voicemail on a piece of paper that is added to your inbox. 
 
- 
+<br><br> 
 
 >“Probably in the last 72 hours, you and I have gotten more change producing and project creating and priority shifting inputs than our parents got in a month, some of them in a year” — David Allen 
 
