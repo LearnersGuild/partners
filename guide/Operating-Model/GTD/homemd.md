@@ -77,10 +77,10 @@ In order to apply GTD effectively it’s important to have an effective system i
 
 Actionable items items include meetings and appointments you’re committed to attending, active projects and tasks and things that you’re waiting for. Non-Actionable stuff may be trashed, stored in a “someday/maybe” or “tickler” list or folder or filed, either in paper form or electronically, for reference.
 
-| Actionable        | Non-Actionable           |
+| Actionable| Non-Actionable|
 | :-------------: |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Calendar      | Trash |
+| Projects      | Someday/maybe      |
+| Next Actions | File/Reference      |
 
 
