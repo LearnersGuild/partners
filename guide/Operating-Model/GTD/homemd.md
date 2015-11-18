@@ -19,7 +19,7 @@ The key GTD concepts are as follows:
 ### What has your attention?
 A good place to start is to notice what has your attention. As David Allen puts it:
 
->“If you don't pay appropriate attention to what has your attention, it will take more of your attention that it deserves.” — David Allen
+>“If you don't pay appropriate attention to what has your attention, it will take more of your attention than it deserves.” — David Allen
 
 And conversely:
 
