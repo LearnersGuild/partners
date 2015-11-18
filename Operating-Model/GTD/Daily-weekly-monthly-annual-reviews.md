@@ -8,7 +8,7 @@ It requires changing our habits, which is difficult but rewarding.
 
 Please reach out to the [GTD Coach](https://glassfrog.holacracy.org/roles/4477015) if you're having resistance or trouble building these habits.
 
-Learner's Guild's assumption is that you're committing to these practices unless you let the Coach know otherwise.
+LG's assumption is that you're committing to these practices unless you let the Coach know otherwise.
 
 
 
