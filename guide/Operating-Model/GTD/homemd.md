@@ -89,7 +89,7 @@ Actionable items items include meetings and appointments you’re committed to a
  - **Doing Predefined Work** — You might also be doing work based on planning — specifically work that resulted from processing the “stuff” that came into your life.
  - **Defining Work** — Lastly, it’s important to acknowledge that defining work is in itself work. The act of processing and organizing your projects and next actions falls into this category.
 
-In our modern lives and work environments it’s easy to get into a pattern of being interrupt driven. The latest and loudest gets the attention, even if it’s not what is most important. In keeping with the theme of GTD, the practice is to notice these behaviors and to replace them with more productive habits.
+>In our modern lives and work environments it’s easy to get into a pattern of being interrupt driven. The latest and loudest gets the attention, even if it’s not what is most important. In keeping with the theme of GTD, the practice is to notice these behaviors and to replace them with more productive habits.
 
 
 
