@@ -13,6 +13,7 @@ The key GTD concepts are as follows:
 - **Keep things out of your head**. The mind is a great place to have thoughts, but a lousy place to store them - especially in this modern day and age.
 - **Decide actions and outcomes as things show up on your radar, not later**. Said another way, deal with things when they show up, not when they blow up.
 - **Regularly review and update the complete inventory of open loops in your life and work**. If your psyche knows that you will review what you’ve externalized regularly, it can relax and will stop interrupting at inopportune times — for example when you’re trying to sleep.
+<br>
 
 >“It’s possible for a person to have an overwhelming number of things to do and still function productively with a clear head and a positive sense of relaxed control.” — David Allen 
 
@@ -55,7 +56,7 @@ Some common collection tools include:
  - **Wallet/Purse** — You may accumulate important information (e.g. business cards) in your wallet or purse. Emptying these sources regularly will help ensure this input is dealt with in a timely manner.
  - **Voicemail** — Voicemails can accumulate and can easily be forgotten. It is recommended that you establish a workflow for capturing voicemails. This could be as simple as writing down the information from the voicemail on a piece of paper that is added to your inbox. 
 
-<br><br> 
+<br> 
 
 >“Probably in the last 72 hours, you and I have gotten more change producing and project creating and priority shifting inputs than our parents got in a month, some of them in a year” — David Allen 
 
@@ -93,7 +94,7 @@ Actionable items items include meetings and appointments you’re committed to a
  - **Doing Predefined Work** — You might also be doing work based on planning — specifically work that resulted from processing the “stuff” that came into your life.
  - **Defining Work** — Lastly, it’s important to acknowledge that defining work is in itself work. The act of processing and organizing your projects and next actions falls into this category.
 
-<br><br>
+<br>
 
 >In our modern lives and work environments it’s easy to get into a pattern of being interrupt driven. The latest and loudest gets the attention, even if it’s not what is most important. In keeping with the theme of GTD, the practice is to notice these behaviors and to replace them with more productive habits.
 
