@@ -52,16 +52,14 @@ LG's assumption is that you're committing to these practices unless you let the 
         - Other roles I'm interacting with, are our relationships clear?
     - Review someday/maybe list, does anything need to become more current?
 
-###Daily:
-- **When**: Once in the morning and another in the evening
-- **Length**: 5-10 minutes
+###Annual:
+- **When**: End of each year or first Monday of the year depending on your time and style
+- **Length**: 1-2 hours
 - **Purpose**: Clarify what's being done today and prepare to move forward with work.
 - **Tasks**:
     - What tasks are in upcoming and will be moved to today?
-    - Look at calendar and think: Am I blocking off the time I need?
-    - Choose projects if relevant or prioritized
-    - Process Inbox
-    - In Evening, what’s left on today that wasn’t done, does it stay there or move?
+    - Check in with personal and professional goals for the year
+    - Alignment with purpose of roles and of organization
 
 Annual Review:
 Goals for the year
