@@ -18,9 +18,11 @@ The key GTD concepts are as follows:
 
 ### What has your attention?
 A good place to start is to notice what has your attention. As David Allen puts it:
+
 >“If you don't pay appropriate attention to what has your attention, it will take more of your attention that it deserves.” — David Allen
 
 And conversely:
+
 >“There is usually an inverse proportion between the amount something is on your mind and the amount it is getting done.”  — David Allen
 
 A good place to start is to pay attention to what’s on your mind. Both, what’s front-most and what’s on the periphery of your thoughts. The fact that you’re having thoughts about something indicates that thing is not on “cruise control”, as David Allen puts it. In other words, it’s not clear what it means and what action, if any needs to be taken. 
