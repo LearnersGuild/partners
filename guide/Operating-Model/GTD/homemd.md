@@ -68,5 +68,10 @@ If it’s something that can’t be done right away, you essentially have two op
 
 ![alt text](http://zim-wiki.org/manual/Usage/GTD_flowchart.png "GTD Flow Chart")
 
+With some practice, this process becomes very natural and automatic and, in many cases, you’ll find that you can go through this sequence very quickly, taking as little as a second or two for some items. Here are a few general tips:
+- Go through each inbox in order, even though it may be tempting to dig through the list and only deal with “urgent” items. The intention is to **be proactive rather than reactive** and developing discipline around processing your inbox encourages a proactive approach.
+- Once you take something out of an inbox **don’t put it back**. Either discard it, keep it for future reference, act on or delegate it right away or put a plan in place to deal with it in the future.
+
+
 
 
