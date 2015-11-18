@@ -36,14 +36,32 @@ LG's assumption is that you're committing to these practices unless you let the 
         - Is it stalled? Empty? Am I still going ahead? Then put next action 
     - Process all your inboxes (including Asana, email, voicemail, text, physical inboxes) 
         - have a checklist that lists all of your different inboxes
+    - Do a personal checkin, is there anyone on the team I need to clear with?
     
+###Monthly:
+- **When**: End of each month or first Monday of the month depending on your time and style
+- **Length**: 30-60 minutes
+- **Purpose**: Balancing attention and effort with roles and priorities, broader prioritization picture across circles and roles, and clarifying working relationships and processes
+- **Tasks**:
+    - Are there areas that are getting way too much attention?
+    - Am I doing things that aren’t defined in my roles?
+    - Do I need to let some roles go?
+    - Role review:
+        - Accountabilities
+        - Purpose
+        - Other roles I'm interacting with, are our relationships clear?
+    - Review someday/maybe list, does anything need to become more current?
 
-Monthly Review:
-Are there areas that are getting way too much attention?
-Am I doing things that aren’t defined in my roles?
-Do I need to let some roles go?
-Role review
-Review someday/maybe list, does anything need to become more current?
+###Daily:
+- **When**: Once in the morning and another in the evening
+- **Length**: 5-10 minutes
+- **Purpose**: Clarify what's being done today and prepare to move forward with work.
+- **Tasks**:
+    - What tasks are in upcoming and will be moved to today?
+    - Look at calendar and think: Am I blocking off the time I need?
+    - Choose projects if relevant or prioritized
+    - Process Inbox
+    - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
 Annual Review:
 Goals for the year
