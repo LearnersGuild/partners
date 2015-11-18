@@ -72,6 +72,15 @@ With some practice, this process becomes very natural and automatic and, in many
 - Go through each inbox in order, even though it may be tempting to dig through the list and only deal with “urgent” items. The intention is to **be proactive rather than reactive** and developing discipline around processing your inbox encourages a proactive approach.
 - Once you take something out of an inbox **don’t put it back**. Either discard it, keep it for future reference, act on or delegate it right away or put a plan in place to deal with it in the future.
 
+## Organizing: Actionable & Non Actionable Items
+In order to apply GTD effectively it’s important to have an effective system in place. Before we delve into the organizational elements of this system it’s important to distinguish the two types of “stuff” that will be organized.
 
+Actionable items items include meetings and appointments you’re committed to attending, active projects and tasks and things that you’re waiting for. Non-Actionable stuff may be trashed, stored in a “someday/maybe” or “tickler” list or folder or filed, either in paper form or electronically, for reference.
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 
