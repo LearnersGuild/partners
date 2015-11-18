@@ -43,5 +43,15 @@ Some common collection tools include:
 - **Voice Recorder** — People who are on the road a lot often find it useful to capture voice notes. These notes are later transcribed for processing.
 - **Digital Camera** — Taking a picture of something can be an efficient way to capture information.
 
+#### Other “Inboxes”
+ There are numerous ways in which we collect information and, in this modern technological era, many ways in which stuff comes into our lives. It’s important to identify all of the sources of incoming information so that you can ensure that these sources are processed regularly. Typical examples include:
+ - **Backpack/Briefcase**— Each of these is essentially an inbox. If it isn’t processed regularly then important opportunities could slip through the cracks. Especially if you’re a frequent traveller, it’s recommend that you carry a distinct folder that you deem your mobile inbox.
+ - **E-mail - ** — You likely have at least a couple of accounts and may receive a high volume of e- mail. Having a strategy to deal with e-mail is important and is a topic we’ll cover in the second part of the course.
+ - **Facebook**, Twitter, etc. — Social media has given others a range of new ways to get in touch with us.
+ - **Mailbox** —The volume of mail coming into physical mailboxes has diminished for many people in our technological era. But, it still important to have a strategy for dealing with incoming mail.
+ - **Text Message** — Text messages can provide a convenient alternative to phone calls and e- mails in some situations. They key is to have a strategy to manage this source of information without it becoming an unnecessary distraction.
+ - **Wallet/Purse** — You may accumulate important information (e.g. business cards) in your wallet or purse. Emptying these sources regularly will help ensure this input is dealt with in a timely manner.
+ - **Voicemail** — Voicemails can accumulate and can easily be forgotten. It is recommended that you establish a workflow for capturing voicemails. This could be as simple as writing down the information from the voicemail on a piece of paper that is added to your inbox. 
+
 >“Probably in the last 72 hours, you and I have gotten more change producing and project creating and priority shifting inputs than our parents got in a month, some of them in a year” — David Allen 
 
