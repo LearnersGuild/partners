@@ -23,12 +23,20 @@ LG's assumption is that you're committing to these practices unless you let the 
     - Process Inbox
     - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
-Weekly Review:
-Go through every project
-	Ask yourself: Is this still happening?
-	Is there anything missing?
-	Is it stalled? Empty? Am I still going ahead? Then put next action 
-Process all your inboxes - have a checklist for that
+###Weekly:
+- **When**: At the beginning of each week, usually Monday morning or Sunday evening
+- **Length**: 10-20 minutes
+- **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
+- **Tasks**:
+    - Go through every project. Ask yourself: 
+        - Is this still happening?
+        - Did my or my Lead Link's priorities change?
+        - Are there new strategies, metrics, or goals for the circle that would change my prioritization?
+        - Is there anything missing?
+        - Is it stalled? Empty? Am I still going ahead? Then put next action 
+    - Process all your inboxes (including Asana, email, voicemail, text, physical inboxes) 
+        - have a checklist that lists all of your different inboxes
+    
 
 Monthly Review:
 Are there areas that are getting way too much attention?
