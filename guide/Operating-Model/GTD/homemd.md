@@ -64,3 +64,9 @@ In the event that there is an action to be taken, define the next physical actio
 #### What if it takes more than two minutes? 
 If it’s something that can’t be done right away, you essentially have two options. You can either do it at some point in the future or you can give it to someone else to do. If you choose to defer the task, place it on either your Calendar or your Next Actions/Project list. If you delegate it to someone else you’ll probably need to maintain a waiting list to keep track of what you’ve delegated.
 
+#### This process can be summarized in the following diagram:
+
+![alt text](http://zim-wiki.org/manual/Usage/GTD_flowchart.png "GTD Flow Chart")
+
+
+
