@@ -38,7 +38,7 @@ A good place to start is to pay attention to what’s on your mind. Both, what�
 ### Capture Tools
  It’s important to have convenient ways of collecting “stuff” that has come into your world that isn’t on cruise control. This stuff can include things like thoughts, pieces of paper and e-mails. It’s not necessary to make any decision about what this stuff means at this stage in the process, but if something obviously has no value (e.g. some junk mail that arrived in your inbox) then you might as well get rid of it right away.
 Some common collection tools include:
-- **Physical In-basket**** — It is recommended that you have at least one physical inbox for each location (e.g. work and home) that is processed regularly.
+- **Physical In-basket** — It is recommended that you have at least one physical inbox for each location (e.g. work and home) that is processed regularly.
 - **Notebook** — Sometimes it’s most convenient to capture things on paper. Unless you’re keeping a log or journal, opt for a notebook with tear off pages so that you can easily put what you’ve captured into your in-basket or scanner.
 - **Computer** —If you’re often in front of your computer, it will likely makes sense to capture some items directly into your computer.
 - **iPhone, iPad, Android, Blackberry, etc.** — Mobile devices can also provide a very convenient way to capture pretty much anything that has your attention.
