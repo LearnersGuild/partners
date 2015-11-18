@@ -15,8 +15,8 @@
        * [Terms and Definitions](Operating-Model/Holacracy/Holacracy-Terms-and-Definitions.md)
        * [Finer Points](Operating-Model/Holacracy/Finer-Points-of-Holacracy.md)
        * [Holacracy-Asana Key](Operating-Model/Holacracy/Holacracy-Asana-Key.md)
-   * [Getting Things Done](guide/Operating-Model/GTD/home.md)
-        * [GTD-Asana Key](Operating-Model/GTD/GTD-Asana-Key.md)
+   * [Getting Things Done](guide/Operating-Model/GTD/homemd.md)
+       * [GTD-Asana Key](Operating-Model/GTD/GTD-Asana-Key.md)
    * [Transparency](Operating-Model/Transparency.md)
    * [Language](Operating-Model/Language.md)
    * [Sourcing Candidates](Operating-Model/Sourcing-Candidates.md)
@@ -48,3 +48,4 @@
    * [New Parent Leave](Benefits-and-Perks/New-Parent-Leave.md)
    * [Other Protected Absences](Benefits-and-Perks/Other-Protected-Absences.md)
 * [Acknowledgements](Acknowledgements.md)
+
