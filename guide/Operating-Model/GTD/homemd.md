@@ -6,6 +6,17 @@ Ultimately however it is the [GTD Coach](https://glassfrog.holacracy.org/roles/4
 
 There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately dissapear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
 
+## Why this model?
+We're using this hybrid for many reasons, here are some of the main ones:
+
+- Meetings can run in circles, where we speak passionately “about” topics but don't actually get to actionable outcomes.
+- Those who are heard in meetings are those who spoke the loudest and/or quickest. And quieter, slower thinkers are not heard from nearly as much.
+- Partners feel disempowered by the power structure.  
+- Partners don’t feel enough autonomy, and needed to check in with a very large number of people to “cover their butt” and make sure its ok to do what they want to do.
+- Ideas and movement are bottlenecked by the managers, because most change and action have to go through them.
+- Work is overwhelming, and stress builds quickly as problems become more complicated
+- Our minds spend a lot of RAM on keeping up with our work and don't have enough space for creativity or our own personal well-being
+
 ## GTD® in a Nutshell
 Getting Things Done, commonly referred to as GTD, is an approach to productivity that was developed by David Allen. It was documented in the form of the [Getting Things Done](http://amzn.com/B00KWG9M2E) book which was first published in 2001. 
 
