@@ -34,7 +34,7 @@ All new partners should also check out our [Guide to Your Equity](../Hiring-Docu
 
 ## Determining Market Salary based on Consulting Rates
 
-If a candidate has been consulting for over a year, we'll use an internal formula that compensates them for the opportunity cost of their consulting practice in order to calculate base salary. This formula takes into account billable/non-billable ratio, the demand they have for their services (both past and future), payroll tax and benefits costs...etc.
+If a candidate has been consulting for over two years, we'll use an internal formula that compensates them for the opportunity cost of their consulting practice in order to calculate base salary. This formula takes into account billable/non-billable ratio, the demand they have for their services (both past and future), payroll tax and benefits costs...etc.
 
 ---
 [^1] This can be done at most every 6 months, and the offer must be from another company that partner wants to work for. This keeps us in integrity with other companies, so we're not wasting their precious time interviewing for jobs we don't intend to take. 
