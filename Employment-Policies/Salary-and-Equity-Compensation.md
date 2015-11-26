@@ -10,10 +10,10 @@ We have a standard rubric that determines all partner salaries. **Everyone in th
 
 Choosing to apply this rubric to everyone has the following advantages:
 
+* Removes information asymmetry
 * No more dreaded performance reviews
 * Feedback becomes about doing our work better, not evaluating our market worth
-* Removes information asymmetry
-* Encourages partners to periodically interview with other companies
+* Encourages partners to periodically interview with other companies and re-choose Learners Guild
 
 ## Market Bias
 
