@@ -71,3 +71,11 @@ Here are some of the Lead Link's main accountabilities:
 The Rep link's primary accountability is to carry tensions up from the circle to its parent circle.
 
 eg. If I, in Admissions, need to add an accountability to the Prep circle, I ask my Rep Link to take that tension to the GCC Governance meeting and add the accountability on the Prep circle there.
+
+## Governor Role
+<br>Purpose:  This circle's structure evolved through governance in order to optimally express its purpose
+<br>Domain: This circle’s governance
+<br>Accountabilities:
+- Meeting with circle members in order to process their governance tensions
+- Acting as Secretary when enacting governance outside of a meeting
+- Creating and passing governance proposals for this circle
