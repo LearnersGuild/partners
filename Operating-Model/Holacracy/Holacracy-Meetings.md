@@ -16,6 +16,9 @@ This is where we decide WHAT we are doing. We resolve tensions here by coming up
 Here is the [Tactical Meeting flow](https://drive.google.com/open?id=0B603F2WUOtLJOHZJeXNScW5tNVk)
 
 # Governance Meetings
+
+***Note*** - *Governance meetings are only applicable once your circle moves to distributed governance, they are will not be used until that time.  Feel free to check out this section but know that it will only be required knowledge once your circle moves to distributed governance*
+
 This is where we decide HOW we’re working together. Outcomes of Governance meetings are new roles/circles, changing/adding accountabilities, changing domains and also policies.
 
 [This is a video](https://vimeo.com/94227010) from Karim's work with Dev Bootcamp training a facilitator on how to run a Governance Meeting. It should be really useful however for everyone. It’s good to know ideally what we’re thinking about in Governance meetings and how we test objections, etc.
