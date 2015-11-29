@@ -15,7 +15,7 @@ This is where we decide WHAT we are doing. We resolve tensions here by coming up
 
 Here is the [Tactical Meeting flow](https://drive.google.com/open?id=0B603F2WUOtLJOHZJeXNScW5tNVk)
 
-# Governance Meetings
+# Governance Meetings - [DG]
 
 ***Note*** - *Governance meetings are only applicable once your circle moves to distributed governance, they are will not be used until that time.  Feel free to check out this section but know that it will only be required knowledge once your circle moves to distributed governance*
 
