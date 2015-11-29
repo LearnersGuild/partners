@@ -20,6 +20,7 @@ We will be using standardized contexts across the organization:
 * Waiting: This is waiting on someone else to complete a task of their own first
 * Maybe later: This is a good idea worth keeping, but now’s not the time for it, you’ll look at this context every once in a while and see if anything needs to be moved to more immediate
 * High Pri: These are high priority tasks that needs immediate attention 
+* Stale: These are tags that are auto-marked by the GTD bot that haven't been touched in over 4 weeks. 
 
 
 
