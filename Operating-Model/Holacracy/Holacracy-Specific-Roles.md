@@ -79,3 +79,7 @@ eg. If I, in Admissions, need to add an accountability to the Prep circle, I ask
 - Meeting with circle members in order to process their governance tensions
 - Acting as Secretary when enacting governance outside of a meeting
 - Creating and passing governance proposals for this circle
+
+The Governor is a role we created specifically at LG in order to bypass distributed governance.  It is the ratifier's judgement that distributed governance during the founding period of LG is not healthy, and the policy has a system for each circle eventually moving towards distributed governance.  
+
+But until then the role of Governor will pass and process all governance for their circle.
