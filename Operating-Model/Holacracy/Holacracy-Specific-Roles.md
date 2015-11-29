@@ -67,7 +67,7 @@ Here are some of the Lead Link's main accountabilities:
 
 [Video on the Lead Link role](http://holacracy.org/resources/the-lead-link-role-in-holacracy)
 
-## Rep Link Role
+## Rep Link Role -  [DG]
 The Rep link's primary accountability is to carry tensions up from the circle to its parent circle.
 
 eg. If I, in Admissions, need to add an accountability to the Prep circle, I ask my Rep Link to take that tension to the GCC Governance meeting and add the accountability on the Prep circle there.
