@@ -30,7 +30,7 @@ You can think of a Domain as a “property right”, that leads to another simpl
 
 eg. Our Facebook Group
 
-## Objection
+## Objection - [DG]
 Objections are raised in a Governance meeting.  It is when a partner makes a proposal that you think, through one of your roles, might cause harm or set the organization backwards.
 
 It's sometimes hard not to take objections personally.  They feel like an interruption of the flow and a slowing down of the work we're trying to get done.  However, they are a very important and an integral part of the Holacratic process.  Through objecting and integrating the proposals are chiseled and formed into something that will keep Learners Guild healthy and move us all forward.  We have to trust that others feeling objections from their roles are what's protecting us from creating any damage with our proposals.
