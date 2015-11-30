@@ -8,8 +8,8 @@ In all interactions with each other and with our stakeholders we do our best to 
 
 * **Kindness:** Treating myself and others with dignity, respect and an open heart.
 * **Integrity:** Speaking my truth clearly and authentically. Keeping my word. Calling out and repairing my mistakes (even when no one is looking).
-* **Whole-heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
-* **Full responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding.
+* **Whole Heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
+* **Radical Responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding. [Owning our experience, and our emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
 
 Furthermore, we all share responsibility for holding each other accountable to these agreements.
 
