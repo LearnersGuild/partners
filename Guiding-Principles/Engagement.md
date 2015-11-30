@@ -32,11 +32,7 @@ Don't gossip. Don't build political alliances to get work done. If you mention s
 Sugar coating leads to cavities. Be real. Minimize bullshit and call people on it (kindly please).
 ![Alt text](/images/candor.jpg)
 
-On the flip side of choosing radical honesty, is choosing to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [put down our defenses/reactions and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
-
-## Slow down to speed up
-
-You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box][eisenhower-box].
+On the flip side of choosing radical honesty, is choosing to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [put down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
 ## Seek to clarify, not to control
 
@@ -51,6 +47,11 @@ Autonomy only works if we choose to communicate over command. In a cooperative e
 Working with a team involves an implicit (and hopefully, explicit) commitment to each other as much as to the work at hand. Collaboration means that we prioritize collective synchrony over individual achievement. Don't abandon your team.
 
 > "If you want to go fast, go alone. If you want to go far, go together" ~African Proverb
+
+## Slow down to speed up
+
+You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box][eisenhower-box].
+![Alt text](/imageseisenhowerbox.jpg)
 
 ## Hold strong opinions lightly
 
