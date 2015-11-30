@@ -27,9 +27,12 @@ Part of our work is to be aware of our privileges and of the responsibilities th
 
 Don't gossip. Don't build political alliances to get work done. If you mention someone's name when they're not present do it in the same way you would if they were present. If you have feedback for someone, the best and only place for this feedback is to give it to them directly. If that's not working, get others to join the conversation. Let's build a team where everyone is confident that they are respected and honored when they're not present. Checkout our [Conflict Resloution Process][conflict-process] for more details on resolving tensions.
 
-## Keep it real
+## Choose to be real and vulnerable
 
 Sugar coating leads to cavities. Be real. Minimize bullshit and call people on it (kindly please).
+![Alt text](/images/candor.jpg)
+
+On the flip side of choosing radical honesty, is choosing to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [put down our defenses/reactions and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
 ## Slow down to speed up
 
