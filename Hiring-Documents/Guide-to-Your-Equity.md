@@ -1,5 +1,3 @@
-> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
-
 # Guide to Your Equity
 
 To find out how many shares of currently outstanding stock there are, email help@learnersguild.org.
