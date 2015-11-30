@@ -67,7 +67,19 @@ Here are some of the Lead Link's main accountabilities:
 
 [Video on the Lead Link role](http://holacracy.org/resources/the-lead-link-role-in-holacracy)
 
-## Rep Link Role
+## Rep Link Role -  [DG]
 The Rep link's primary accountability is to carry tensions up from the circle to its parent circle.
 
 eg. If I, in Admissions, need to add an accountability to the Prep circle, I ask my Rep Link to take that tension to the GCC Governance meeting and add the accountability on the Prep circle there.
+
+## Governor Role
+<br>Purpose:  This circle's structure evolved through governance in order to optimally express its purpose
+<br>Domain: This circle’s governance
+<br>Accountabilities:
+- Meeting with circle members in order to process their governance tensions
+- Acting as Secretary when enacting governance outside of a meeting
+- Creating and passing governance proposals for this circle
+
+The Governor is a role we created specifically at LG in order to bypass distributed governance.  It is the ratifier's judgement that distributed governance during the founding period of LG is not healthy, and the policy has a system for each circle eventually moving towards distributed governance.  
+
+But until then the role of Governor will pass and process all governance for their circle.

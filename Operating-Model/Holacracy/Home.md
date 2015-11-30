@@ -32,6 +32,8 @@ Role: Governor
 Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
 # Getting Started with Holacracy
+***Note*** - *Some terms and definitions will be marked with [DG] for distributed governance.  This means you don't need to worry about understanding or studying them until we move towards a distributed governance model*
+
 - Watch our [Intro Video 1](https://shereef.wistia.com/medias/idy7nj5k0y) and [Intro Video 2](https://shereef.wistia.com/medias/rk4gx03yj6)
 
 - You can also read this [general summary](http://chrisriedy.me/2013/05/28/holacracy-a-social-technology-for-purposeful-organisation/)
@@ -63,26 +65,13 @@ We're using this hybrid for many reasons, here are some of the main ones:
 - Work is overwhelming, and stress builds quickly as problems become more complicated
 - Our minds spend a lot of RAM on keeping up with our work and don't have enough space for creativity or our own personal well-being
 
-# What are Holacracy and GTD?
+# What is Holacracy?
 Holacracy is a social technology, an organizational design or operating system for companies.
-Getting Things Done (GTD) is a well known and effective personal productivity system.
 
 * [Holacracy main site](http://holacracy.org)
 * [Holacracy general summary](http://chrisriedy.me/2013/05/28/holacracy-a-social-technology-for-purposeful-organisation/)
 * Some writing on how Medium is using it: [Here](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers#),[here](https://medium.com/about-holacracy),[here](https://medium.com/about-holacracy/93446941a52a),[here](https://medium.com/about-holacracy/fdf89d9007f7), and [here](https://medium.com/about-holacracy/36e599a8b6c5)
 * This is a great [FAQ](http://clarifyingquestions.wordpress.com/) by the founder to help answer some deeper questions.
-* [GTD main site](http://gettingthingsdone.com/)
 
 ## More resources
 Check out the [LG Operational Model Google Drive](https://drive.google.com/open?id=0B603F2WUOtLJang2UmVWTmZUVjA) for more resources
-
-
-## Missing sections
-
-Why GTD?
-High level how it works.
-Asana rules, conexts, public tags...etc.
-GTD coach availability
-Pair reviews?
-Resources: the book, articles ...etc.
-Common objections and their responses.
