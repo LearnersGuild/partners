@@ -22,32 +22,20 @@ Learners are organized into crews. Crews are the atomic level of group organizat
 # Guild Core
 The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
+# Member
+Everyone who works for or with Learners Guild is a member. This includes the staff (partners) of the core as well as everyone involved with a guild chapter, as well as all learners.
+
 # Mentors
 Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, support, and otherwise assist apprentices and practitioners in their learning.
 
 # Learner
-Everyone who works for or with Learners Guild is a learner. This includes the staff of the core (partners) as well as everyone involved with a guild chapter.
-
-# Partner
-Partner is the term we use for learners who work in the Guild Core
-
-# Practitioner
-Practitioners are learners who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good mentors can advance to become mentors.
-
-# Learner
 Everyone who is applying, going through, or finished a Learners Guild offering is a learner. This includes applicants, apprentices, practitioners and mentors.
-
-# Member
-Everyone who works for or with Learners Guild is a member. This includes the staff (partners) of the core as well as everyone involved with a guild chapter, as well as all learners.
-
-# Mentor
-Mentors are learners who may or may not be actively working in a particular craft but have nonetheless achieved a high level of expertise in that craft. Their primary responsibility is to guide, mentor, and otherwise assist apprentices and practitioners in their learning.
 
 # Open
 Open information is information visible and accessible to everyone inside and outside of Learners Guild. Contrast with private and transparent.
 
 # Partner
-Everyone who works at or for Learners Guild who is *entrusted with upholding its guiding principles and furthering its prupose* is a partner.
+Partner is the term we use for learners who work in the Guild Core. A partner is an employee of the Learners Guild who has an open ended, fixed employment. Partners are *entrusted with upholding the Guilds guiding principles and furthering its prupose*.
 
 # Practitioner
 Practitioners are members who are being paid to practice their craft. Their primary responsibilities are to their projects and to their own continued development and refinement of their craft. Practitioners who have reached a defined level of skill in their craft and have proven themselves to be good guides can advance to become mentors.
@@ -63,6 +51,9 @@ Within a role, learners move through three stages of development: apprentice, pr
 
 # Stakeholder
 Stakeholders include all members in addition to affinity organizations, investors, board, customers, and anyone else interacting with—or impacted by—Learners Guild.
+
+# Support staff
+Support staff are guild members who work for Learners Guild but have a variable and/or short term commitment. 
 
 # Transparent
 Transparent information is information visible and accessible to all partners at Learners Guild, but is not shared with the outside world (including non-partner members). Contrast with open and private.
