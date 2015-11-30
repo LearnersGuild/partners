@@ -1,5 +1,3 @@
-> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
-
 # Sourcing Candidates
 
 Building a great team starts with attracting great candidates, and there are three channels we can use to attract candidates: **referrals**, **outbound recruiting**, and **inbound interest**.  We should keep all three channels open, but be thoughtful about the biases that result from each channel so that we can make them work for our team-building goals and values.
@@ -9,8 +7,6 @@ Building a great team starts with attracting great candidates, and there are thr
 Referrals from people who already work at Learners Guild are one of the best signals we can get about whether or not a candidate will be successful at Learners Guild. Learners Guild partners understand Learners Guild’s needs and what it’s like to work at Learners Guild, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
 
 In order to get good referrals, everyone needs to know which positions are open, know how to start the recruiting process, have time to search their network, and feel aligned with the company incentives. Open positions should be posted on [our jobs page][jobs-page] and also in the [#hiring channel][slack-hiring-channel] so that everyone sees whom we’re trying to hire.
-
-Every month, each circle will allocate time during a meeting to talk about which positions are open and go through all partners' networks looking for and thinking about candidates. Partners will do initial outreach to interesting connections, which will give us a good space to talk about how we start the recruiting process.
 
 We also offer a [$5,000 referral bonus][referral-bonuses]) for any new hire that comes from an partner referral to help align company incentives with individual incentives.
 
@@ -34,7 +30,7 @@ Every inbound application will receive a response from the Learners Guild team w
 
 Note: We use [Workable][tooling-workable] to manage candidates, but when you "Disqualify" a candidate on Workable, it does not send the candidate an email or let them know that they have been disqualified. You should always send the candidate an email before you Disqualify them.
 
-[jobs-page]: TODO need link
-[slack-hiring-channel]: TODO need link
+[jobs-page]: https://learnersguild.workable.com
+[slack-hiring-channel]: https://learnersguild.slack.com/messages/hiring/
 [tooling-workable]: /Operating-Model/Tooling.md#workable
 [referral-bonuses]: /Benefits-and-Perks/Referral-Bonuses.md
