@@ -34,7 +34,7 @@ Any formal conflict starts with a partner bringing a request directly to another
 
 At all stages, the partner receiving the request can say Yes, No, or negotiate for a different outcome. If there's a "Yes" or another outcome that's sufficient to both, then the conflict is resolved. If there's a "No" then the initiating partner has the choice of either escalating the conflict to the next phase, or dropping it.
 
-## Resolution phases
+## Resolution Phases
 
 1. In the first phase, the two partners sit together and try to sort it out privately.
 
@@ -46,7 +46,11 @@ At all stages, the partner receiving the request can say Yes, No, or negotiate f
 
 ## Clearing Coach
 
-If you need coaching or support before clearing with someone, or before/during engaging in a formal resolution process, reach out to the Clearing Coach and set up a coaching session. The Clearing Coach will support you in resolving the conflict directly, and hold you accountable to closing the loop. 
+If you need coaching or support before clearing with someone, or before/during engaging in a formal resolution process, reach out to the Clearing Coach and set up a coaching session. The Clearing Coach will support you in resolving the conflict directly, and hold you accountable to closing the loop.
+
+## Third Party
+
+Sometimes, a partner can sense a conflict between two people (or is caught in a triangulation between them). If that's the case, they can ask one (or both) parties to the perceived conflict wether or not there actually is one (reality check), and make a request that they address it and report back.
 
 ---
 [^1] This the only process by which a partner is asked to leave Learners Guild
