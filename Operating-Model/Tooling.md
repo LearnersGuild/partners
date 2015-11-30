@@ -1,5 +1,3 @@
-> EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
-
 # Tooling
 
 _This document describes which tools we use at Learners Guild and how we use them._
