@@ -79,7 +79,9 @@ It's easy to feel like because we're in education we need to pretend to be purel
 
 ## Love is important
 
-Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.
+Use the word. Express it. Allow it. Serve it. It belongs at work. It belongs in our learning communities. It is appropriate.  
+
+Love comes bearing many gifts: forgiveness, gratitude, enjoyment and ease. Let's work together for a low-drama, low-struggle, enemy-free, loving company. 
 
 ## Serve with humility
 
