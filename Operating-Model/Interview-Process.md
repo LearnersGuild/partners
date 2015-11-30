@@ -34,6 +34,27 @@ After the morning meeting(s), candidates go out to lunch with the team before co
 
 It is important to get a sense for how candidates handle a task outside of their comfort zone, how they ask for help, and generally how they operate in an unfamiliar and challenging environment. It is important that candidates feel like they’ve earned their offer by the time they get it, so this part of the process should be hard. If possible, we will sign an hourly contract with the candidate so they can start working side by side with us for anywhere between 1 and 10 weeks. During this period, we're looking for every partner to be two thumbs up (or HELL YES) to this candidate coming on board as a partner.
 
+### Stage 5: Provisional Partner
+
+Once an applicant has been accepted and hired, they enter into a six month engagement period. During this period, the new hire (referred to here as the **provisional partner**) is treated as a full partner with all corresponding benefits and responsibilities.
+
+**All previous internal hiring conversations, notes, feedback and comments are shared with them at this point**
+
+At the end of this period, the provisional partner meets with at least 2 other partners to decide whether or not to continue their employment. The other partners involved in the decision include at least one of the following:
+
+- The partner responsible for hiring the provisional partner
+- The partner who has worked most closely with the provisional partner
+- The partner whose domain and responsibilities are most affected by the provisional partner
+
+The idea behind this structure is to allow both the provisional partner and the rest of the team time to figure out if the provisional partner is a good fit for their position. The end of the engagement is a time to address concerns and provide cumulative feedback.
+
+If any of the involved partners (especially the provisional partner) feel that the provisional partner is not a good fit for their position, then they together decide to either end the provisional partner's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing  takes over the process and make the final call.
+
+If all involved partners are content (especially the provisional partner), then the engagement period is over and the provisional partner is officially a full partner.
+
+It is important to emphasize that this is not a "trial" period. The provisional partner and the team have made a serious commitment to each other, and both will respect that commitment. The engagement period is a time to build that relationship and to work towards a more serious commitment.
+
+
 ## Protocols
 
 ### Anonymized Resumes
@@ -52,23 +73,5 @@ The process of sourcing and hiring candidates adheres to a modified version of t
 The hiring process for any candidate does not move beyond Stage 3 until these criteria have been satisfied for the position in question.
 
 Our intent in establishing this rule is to place constraints which direct us towards equality for all partners. We acknowledge that these aims must be sought actively, because passivity only serves to perpetuate existing inequalities and injustices.
-
-### Six Month Engagement
-
-Once an applicant has been accepted and hired, they enter into a six month engagement period. During this period, the new hire (referred to here as the **provisional partner**) is treated as a full partner with all corresponding benefits and responsibilities.
-
-At the end of this period, the provisional partner meets with at least 2 other partners to decide whether or not to continue their employment. The other partners involved in the decision include at least one of the following:
-
-- The partner responsible for hiring the provisional partner
-- The partner who has worked most closely with the provisional partner
-- The partner whose domain and responsibilities are most affected by the provisional partner
-
-The idea behind this structure is to allow both the provisional partner and the rest of the team time to figure out if the provisional partner is a good fit for their position. The end of the engagement is a time to address concerns and provide cumulative feedback.
-
-If any of the involved partners (especially the provisional partner) feel that the provisional partner is not a good fit for their position, then they together decide to either end the provisional partner's employment or move them to a more suitable position. If a decision is not able to be reached, then the partner responsible for firing  takes over the process and make the final call.
-
-If all involved partners are content (especially the provisional partner), then the engagement period is over and the provisional partner is officially a full partner.
-
-It is important to emphasize that this is not a "trial" period. The provisional partner and the team have made a serious commitment to each other, and both will respect that commitment. The engagement period is a time to build that relationship and to work towards a more serious commitment.
 
 [guide]: https://github.com/LearnersGuild/guide
