@@ -1,10 +1,10 @@
 # Conflict Resolution Process
 
-We address and resolve conflicts with these principles at front of mind:
+As partners, we address and resolve conflicts with these principles at front of mind:
 
 * It’s impossible to change other people. We can only change ourselves.
 * We take ownership for our thoughts, beliefs, words, and actions. We don’t spread rumors.
-* We don’t talk behind someone’s back.
+* We don’t talk about another partner behind their back.
 * We resolve disagreements directly with those involved, and don't drag anyone else into the problem.
 * We don’t blame problems on others. When we feel like blaming, we take it as an invitation to reflect on how we might be part of the problem (and the solution).
 
@@ -51,6 +51,10 @@ If you need coaching or support before clearing with someone, or before/during e
 ## Third Party
 
 Sometimes, a partner can sense a conflict between two people (or is caught in a triangulation between them). If that's the case, they can ask one (or both) parties to the perceived conflict wether or not there actually is one (reality check), and make a request that they address it and report back.
+
+## Partners v.s. Non-Partners
+
+Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to the this process, or have agreed to it. When resolving conflicts with non partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation. 
 
 ---
 [^1] This the only process by which a partner is asked to leave Learners Guild
