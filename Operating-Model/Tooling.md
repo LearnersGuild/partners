@@ -30,11 +30,19 @@ To best follow the [Getting Things Done][gtd] method in your own work, acquire t
 
 Link: https://app.asana.com/<br>
 Purpose: Project management and low-level task tracking.<br>
-Users: All partners.
+Users: All partners and support staff
 
 We use Asana for task management (according to the [Getting Things Done][gtd] methodology) as well as for Holacracy tactical meetings.
 
 Think twice about private projects. Close the gaps.
+
+### Calendly
+
+Link: http://calendly.com
+Purpose: Inter-team easy Scheduling
+Users: All partners and support staff
+
+Use calendly to share your free/busy time and make it easy for yourself and others to schedule ad-hoc meetings.
 
 ### GitHub
 
