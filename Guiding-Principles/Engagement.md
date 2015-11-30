@@ -57,9 +57,13 @@ You can't sustain a sprint through a marathon. Remember the tortoise. When in do
 
 Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning. Embrace not-knowing, and don't confuse confidence with certainty.
 
-## Don't be afraid to be ridiculous, or screw up.
+## Be Bold
 
-Or be afraid, but do it anyway.
+* [Move fast and break things](http://startupquote.com/post/1624569753)
+* [Ask for forgiveness, not permission](http://www.bothsidesofthetable.com/2010/06/15/its-better-to-beg-for-forgiveness-than-to-ask-for-permission/)
+* [Aim to make new mistakes every day](https://www.google.com/search?q=make+mistakes+quotes&espv=2&biw=1280&bih=657&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiKid--57jJAhVL5WMKHdwJDkkQsAQIGw)
+* [Don't be afraid to be ridiculous, or screw up (or be afraid, but do it anyway)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?language=en)
+* [Just F@#*ing Do It](http://www.bothsidesofthetable.com/2009/11/19/what-makes-an-entrepreneur-four-lettersjfdi/)
 
 > "Be bold, and mighty forces will come to your aid " ~ Johann Goethe
 
