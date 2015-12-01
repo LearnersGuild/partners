@@ -4,7 +4,7 @@ The governance model of Learners Guild is based on [Holacracy][holacracy]. The o
 
 Ultimately however it is the purpose of the [Holacracy Coach](https://glassfrog.holacracy.org/roles/4477013) and the [GTD Coach](https://glassfrog.holacracy.org/roles/4477015) roles to support everyone at LG to get the most out of this system and to have it run smoothly.
 
-There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately dissapear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
+There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately disappear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
 
 ## Governance
 
