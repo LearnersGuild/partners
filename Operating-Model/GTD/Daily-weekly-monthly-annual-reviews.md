@@ -21,7 +21,11 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
     - What tasks are in upcoming and will be moved to today?
     - Look at calendar and think: Am I blocking off the time I need?
     - Choose projects if relevant or prioritized
-    - Process Inbox
+    - Process Inbox - **This is the Crucial Step** - You're looking to do 4 things with each task:
+        -    Assign it to the appropriate project
+        -    Assign it to the appropriate role
+        -    Add any necessary [context tags](http://guide.learnersguild.org/Operating-Model/GTD/GTD-Asana-Key.html)
+        -    Move it to today, upcoming or later
     - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
 ###Weekly:
