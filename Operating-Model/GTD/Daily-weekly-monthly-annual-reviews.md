@@ -13,6 +13,7 @@ LG's assumption is that you're committing to these practices unless you let the 
 
 
 ###Daily:
+Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 - **When**: Once in the morning and another in the evening
 - **Length**: 5-10 minutes
 - **Purpose**: Clarify what's being done today and prepare to move forward with work
