@@ -29,6 +29,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
     - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
 ###Weekly:
+Check out the [Weekly Review Video](https://shereef.wistia.com/medias/wvrglv1q83)
 - **When**: At the beginning of each week, usually Monday morning or Sunday evening.  Do this in conjunction with your daily review for that day.
 - **Length**: 10-20 minutes - To be done in conjunction with the daily review for that day
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
@@ -45,6 +46,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
     - Do a personal checkin, is there anyone on the team I need to clear with?
     
 ###Monthly:
+Check out the [Monthly Review Video](https://shereef.wistia.com/medias/t0qk5ghlgp)
 - **When**: End of each month or first Monday of the month depending on your time and style
 - **Length**: 30-60 minutes
 - **Purpose**: Balancing attention and effort with roles and priorities, broader prioritization picture across circles and roles, and clarifying working relationships and processes
