@@ -33,6 +33,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 - **Length**: 10-20 minutes - To be done in conjunction with the daily review for that day
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
 - **Tasks**:
+    - Go through the later tasks, does anything need to shift to upcoming?
     - Go through every project. Ask yourself: 
         - Is this still happening?
         - Did my or my Lead Link's priorities change?
