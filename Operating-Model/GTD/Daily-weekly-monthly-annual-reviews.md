@@ -29,7 +29,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
     - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
 ###Weekly:
-- **When**: At the beginning of each week, usually Monday morning or Sunday evening
+- **When**: At the beginning of each week, usually Monday morning or Sunday evening.  Do this in conjunction with your daily review for that day.
 - **Length**: 10-20 minutes - To be done in conjunction with the daily review for that day
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
 - **Tasks**:
