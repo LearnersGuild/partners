@@ -28,7 +28,7 @@ We will be using standardized contexts across the organization:
 
 **Due date == Due date**
 
-**Timing == New tasks, Upcoming and Later in Asana**
+**Timing == New tasks, Today, Upcoming and Later in Asana**
 * New tasks: have not been sorted yet into today, upcoming or later
 * Today: This is where you'll sort tasks that you've decided in your morning sorting that you'll be doing today.  Generally keep this list short and manageable to avoid overwhelm or blockage
 * Upcoming: means that you will be getting to them soon, they are your next actions
