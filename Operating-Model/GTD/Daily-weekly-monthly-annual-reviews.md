@@ -30,7 +30,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 
 ###Weekly:
 - **When**: At the beginning of each week, usually Monday morning or Sunday evening
-- **Length**: 10-20 minutes
+- **Length**: 10-20 minutes - To be done in conjunction with the daily review for that day
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
 - **Tasks**:
     - Go through every project. Ask yourself: 
