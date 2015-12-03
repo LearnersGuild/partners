@@ -56,7 +56,6 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
         - Accountabilities
         - Purpose
         - Other roles I'm interacting with, are our relationships clear?
-    - Review someday/maybe list, does anything need to become more current?
 
 ###Annual:
 - **When**: End of each year
