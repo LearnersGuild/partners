@@ -36,7 +36,7 @@ It is important to get a sense for how candidates handle a task outside of their
 
 ### Stage 5: Provisional Partner
 
-Once an applicant has been accepted and hired, they enter into a six month engagement period. During this period, the new hire (referred to here as the **provisional partner**) is treated as a full partner with all corresponding benefits and responsibilities.
+Once an applicant has been accepted and hired, they enter into a four month engagement period. During this period, the new hire (referred to here as the **provisional partner**) is treated as a full partner with all corresponding benefits and responsibilities.
 
 **All previous internal hiring conversations, notes, feedback and comments are shared with them at this point**
 
