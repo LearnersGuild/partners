@@ -47,11 +47,11 @@ Building an organization designed to scale exponentially, we will not attempt to
 * Membership enrollment
 * Financial instruments
 * Fundraising
+* Software development
 
 ### Peripheral competencies to be outsourced
 
-* Software development[^5]
-* Curriculum curation[^6]
+* Curriculum curation[^5]
 * Curriculum content
 * Marketing
 * Accounting
@@ -76,6 +76,4 @@ We choose to take as evidence of learning the products of praxis: portfolios, co
 
 [^4]  A core competency is the set of skills that we want to be the best in the world at. We want everything done well, both core and outsourced. The core competencies are the ones we want to do better than anyone. For example, we aim for someone saying “Oh, you want to learn to be the best Group Facilitator, go work at the Guild”, but we don’t aim for “Oh, you want to learn to be the best Software Developer, go work at the Guild”.
 
-[^5] This is the competency most likely to switch to core. It’s right on the fence.
-
-[^6] Q. Why is Emotional Social Intelligence Curriculum a core competency, while the technical curriculum isn’t? A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from JavaScript to Swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.
+[^5] Q. Why is Emotional Social Intelligence Curriculum a core competency, while the technical curriculum isn’t? A. EE is part of the learning framework, the technical curriculum is what's inside the framework. For example, a guild chapter can switch from JavaScript to Swift but EE would stay the same. Learners Guild needs to focus on building the system by which a great technical curriculum is framed, curated, authored, and constantly updated by everyone, rather on get good at doing the actual curating, authoring and updating.
