@@ -55,4 +55,6 @@ Our intent in establishing this rule is to place constraints which direct us tow
 
 [guide]: https://github.com/LearnersGuild/guide
 
+---
+
 [^1] The only possible exception to this is if a candidate has worked with several of the partners beforehand.
