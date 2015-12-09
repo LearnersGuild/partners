@@ -25,6 +25,7 @@
    * [Budgeting](Operating-Model/Budgeting.md)
    * [Onboarding](Operating-Model/Onboarding.md)
    * [Sharing Files](Operating-Model/Sharing-Files.md)
+   * [Calendar](Operating-Model/Calendar.md)
 * [Employment Policies](Employment-Policies/README.md)
    * [Equal Opportunity Employment](Employment-Policies/Equal-Opportunity-Employment.md)
    * [At-Will Employment](Employment-Policies/At-Will-Employment.md)
