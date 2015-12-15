@@ -20,7 +20,28 @@ At Learners Guild we strive to make the default state of all information transpa
 
 **Think of Learners Guild as a fortress with stone exterior walls and glass interior walls.** Internally, we strive to build openness, trust, and a sense of safety for all partners. We protect our vulnerability and create a safe space for learning and growth by being diligent, intentional, and extremely careful about what we expose to the outside world.
 
-Some guidance is given under the [Private Information](#private-information) and [Open Information](#open-information) policies below to help partners decide when and why to choose one transparency level over another.
+Use the External Transparency Matrix below to determine whether a particular piece of information or intellectual property can be shared. Also, some guidance is given under the [Private Information](#private-information) and [Open Information](#open-information) policies below to help partners decide when and why to choose one transparency level over another.
+
+## External Transparency Matrix
+
+Some information needs to be shared with certain members of the outside world, but we need to be cautious in what and how this information is shared.
+
+Use this matrix to answer questions like:
+
+- What is the category of this information?
+- With whom do I wish to share it?
+- Will sharing this information help or damage our purpose?
+
+| Open to All        | Share with Trusted People\*          | NDA Required      | Never Share               |
+|--------------------|--------------------------------------|-------------------|---------------------------|
+| Our guide          | Who funds us                         | Amount of funding | Partner salaries & comp   |
+| That we are funded | Who is on our board                  | Financial model   | No. of outstanding shares |
+| Team profiles      | Launch strategy (timing, location)   |                   | Valuation                 |
+|                    | Pitch deck                           |                   |                           |
+|                    | Business model                       |                   |                           |
+|                    | Curriculum overview                  |                   |                           |
+
+\* for potential hires, affiliate partners, etc. Optionally, use a "[FrieNDA](http://randsinrepose.com/archives/friendda/)".
 
 ## Transparent Information
 
@@ -81,6 +102,8 @@ Partners are, of course, encouraged to share as much of their _received_ feedbac
 As we grow, Learners Guild will likely open up more and more information to the outside world.
 
 For the time being, however, we are more or less in "stealth" mode: we are invisible, and we share only select information with a select few people not-partners.
+
+Use the [External Transparency Matrix](#External-Transparency-Matrix) above to determine what information can be shared with whom.
 
 [glossary]: ../GLOSSARY.md
 [equal-opportunity-employment]: ../Employment-Policies/Equal-Opportunity-Employment.md
