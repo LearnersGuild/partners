@@ -22,7 +22,7 @@ We are in the learning business. Learning is the process of acting on our curios
 
 First: **A genuine love for and pursuit of truth**
 
-  We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as transparent as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
+  We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as open as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
 
 Second: **An uncompromising embrace of mastery**
 
