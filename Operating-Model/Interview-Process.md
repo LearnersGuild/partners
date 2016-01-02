@@ -32,7 +32,7 @@ After the morning meeting(s), candidates go out to lunch with the team before co
 
 ### Stage 4: Working Together
 
-It is important to get a sense for how candidates handle a task outside of their comfort zone, how they ask for help, and generally how they operate in an unfamiliar and challenging environment. It is important that candidates feel like they’ve earned their offer by the time they get it, so this part of the process should be hard. If possible, we will sign an hourly contract with the candidate so they can start working side by side with us for anywhere between 1 and 10 weeks. During this period, we're looking for every partner to be two thumbs up (or HELL YES) to this candidate coming on board as a partner. Ultimately, the Hiring Partner responsible for this role will make the final Hire/No Hire call. 
+It is important to get a sense for how candidates handle a task outside of their comfort zone, how they ask for help, and generally how they operate in an unfamiliar and challenging environment. It is important that candidates feel like they’ve earned their offer by the time they get it, so this part of the process should be hard. If possible, we will sign an hourly contract with the candidate so they can start working side by side with us for anywhere between 1 and 10 weeks. During this period, we're looking for every partner to be two thumbs up (or HELL YES) to this candidate coming on board as a partner. Ultimately, the Hiring Manager responsible for this role will make the final Hire/No Hire call. 
 
 ## Protocols
 
