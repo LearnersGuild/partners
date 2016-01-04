@@ -1,5 +1,21 @@
 # Interview & Hiring Process
 
+## Philosophy
+
+Having a well-articulated interview process is good, but if people aren't educated as to _how_ to interview, the results from the process will be poor.
+
+Furthermore, in addition to finding a "fit" with a candidate, there are fairness and justice issues about which interviewers need to be aware. More information on these issues can be found in the section below titled "Ensuring a Fair and Just Process".
+
+When interviewing for "fit", we're trying to get a sense of how someone will (a) fit into the culture, and (b) perform in their role. Keeping this in mind, there are some basic guidelines that tend to lead toward better outcomes:
+
+- For culture fit, probing about someone's "interpersonal" skills and "motivational" skills is key.
+- For performance, probing about someone's actual skills is key.
+- Past success is a better predictor of future success than hypotheticals. As such, in general, backward-looking questions ("Give me an example of an accomplishment you're proud of from your current job.") are better than forward-looking questions ("What do you hope to accomplish here?")
+- Likewise, in general, specific questions ("Give me an example of an interpersonal interaction from your current job where you wish you could have a do-over.") are superior to abstract questions ("What are your weaknesses from an interpersonal perspective?")
+
+And, of course, it's always a good idea to review some [Sample Interview Questions](Sample-Interview-Questions.md)
+
+
 ## Stages
 
 Every candidate goes through three interviews that help us find the right person for the job.[^1]
@@ -56,6 +72,13 @@ The hiring process for any candidate does not move beyond Stage 3 until these cr
 Our intent in establishing this rule is to place constraints which direct us towards equality for all partners. We acknowledge that these aims must be sought actively, because passivity only serves to perpetuate existing inequalities and injustices.
 
 [guide]: https://github.com/LearnersGuild/guide
+
+## Ensuring a Fair and Just Process
+
+When interviewing, one must be careful to ensure a fair and just process for all candidates. As such, if you will be interviewing _any_ candidate, it's important to familiarize yourself with the following:
+
+- [Legal Guide to Interviewing](Legal-Guide-to-Interviewing.md)
+- [Guide for Pre-employment Inquiries](Guide-for-Pre-employment-Inquiries.md)
 
 ---
 
