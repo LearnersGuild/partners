@@ -4,6 +4,8 @@
 
 Every candidate goes through three interviews that help us find the right person for the job.[^1]
 
+See also: [Sourcing Candidates](Sourcing-Candidates.md)
+
 ### Stage 0: Initial Contact and Communications
 
 Before they are interviewed, the candidate shows some relevant work that helps give us an initial screen and something to talk about in the first coffee interview.
