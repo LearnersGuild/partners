@@ -32,7 +32,6 @@ Role: Governor
 Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
 # Getting Started with Holacracy
-***Note*** - *Some terms and definitions will be marked with [DG] for distributed governance.  This means you don't need to worry about understanding or studying them until we move towards a distributed governance model*
 
 - Watch our [Operating Model Videos](https://shereef.wistia.com/projects/fwy60ilf20)
 
