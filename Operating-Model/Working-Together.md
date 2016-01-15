@@ -40,11 +40,19 @@ We use all-remote meetings because it is smoother to have every participant logg
 
 ## What Full-Time Means
 
-Full time is 32 hours a week, regardless of where those hours are spent.
+Full-time can mean very different things for different people and organizations. Our goal is to develop a healthy pace for the long haul.
 
-32 hours means full hours, the same as billable hours for wage-based work. Managing time is a skill; especially when working remotely, it is difficult to not work too much or too little. We have to hold ourselves and each other accountable to find our balance.
+We recognize that for the company to achieve its goals, we need to be productive, efficient, and resilient. We also recognize that it is easier to fill time with any work than to prioritize work. One hour of focused labor on a core competency is better than two hours of distracted work that is misaligned with our current strategies.
+
+We agree to work as much as we can and feel inspired to do, but not so much that it erodes our ability to maintain pace. As a general number to aim for, we use 32 (full) hours a week.
+
+Managing time is a skill; especially when working remotely, it is difficult to not work too much or too little. We have to hold ourselves and each other accountable to find our balance.
 
 A benefit of working remotely is that it allows you to use these hours most productively. It reduces commute time. If you choose to work remotely, pick the times you're most productive.
+
+We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ (to org mission) of the work, but is a prime recipe for burnout.
+
+> "If you want to go fast, go alone. If you want to go far, go together"
 
 ## Scheduling and Availability
 
