@@ -46,11 +46,29 @@ Full time is 32 hours a week, regardless of where those hours are spent.
 
 A benefit of working remotely is that it allows you to use these hours most productively. It reduces commute time. If you choose to work remotely, pick the times you're most productive.
 
-## Availability
+## Scheduling and Availability
 
 We encourage partners to be available for communication (either in person or on Slack) as much as they wish and feel is appropriate for their current task. This can mean leaving Slack open all day, or logging in for set periods a few times per day.
 
 Communication, as they say, is the key to every relationship. Working remotely makes synchronous communication a choice, not a requirement. While the benefits of being able to "go dark" and focus on a task without risk of distraction are great, we must also make time to be explicitly available to the team.
+
+### Open, Permissionless Communication
+
+In some companies, nobody talks to each other unless they schedule a meeting first, even if it's just for a quick question. Let's not do that please.
+
+For quick conversations, just reach out!
+
+The best place to do so is on a public Slack channel. That way, other partners can chime in to provide useful information.
+
+If the conversation needs to be private, the next best option is to either (a) send them a private message in Slack or (b) give them a phone call.
+
+If you know that you'll need to spend some more serious time with them (more than 10 minutes or so), or you want to book time in the future, then it is a good idea to schedule a meeting.
+
+### Scheduling Meetings
+
+For 1-1 meetings with other partners, we use [Calendly](https://calendly.com/). Every partner has an account, which makes it easy to book time with them.
+
+For meetings that involve more than 2 people, the best option is to create an event in your Google calendar and invite them by email. Use our group email addresses to invite lots of partners at once.
 
 ## Getting Things Done
 
