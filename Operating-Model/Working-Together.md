@@ -18,17 +18,27 @@ We also do spoken check-ins at the start of every tactical meeting.
 
 One of the criteria for our team is that we enjoy spending time together. We believe that a place of work ought to be an energizing, supportive, and engaging environment. It ought to be a place where each of us _wants_ to be.
 
-With that in mind, we recognize and account for the reality and the benefits of remote work. To allow for each partner to find their balance between remote and onsite work, we use the following guidelines.
+With that in mind, we recognize and account for the reality and the benefits of remote work. We may hire partners who are only available for remote work. As we grow, we will become increasingly distributed and we want to practice working remotely early so that we experience little growth friction.
 
-## Weekly Co-working
+To allow for each partner to find their balance between remote and onsite work, we use the following guidelines.
 
-1 day every week we work onsite together.
+### Weekly Co-working
+
+1 day every week we work onsite together in our respective locations.
 
 On these days no partner will take no external meetings, all meetings must be internal. We prioritize these days of co-working over anything else: our culture is our product.
 
 In the future, we might move this to 2 days a week.
 
-## Counting Hours
+### Remote Meetings
+
+All weekly tactical meetings are held remotely via Zoom. We agree to show up on time and ready for these meetings.
+
+These meetings will be scheduled ahead of time by the Secretary and all participants will receive a calendar invite with a link to the Zoom room.
+
+We use all-remote meetings because it is smoother to have every participant logged into a video conference than to have one group in person with the rest remote.
+
+## What Full-Time Means
 
 Full time is 32 hours a week, regardless of where those hours are spent.
 
