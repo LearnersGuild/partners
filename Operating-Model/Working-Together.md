@@ -2,15 +2,17 @@
 
 # Working Together
 
-## Daily Stand-Ups
+How, when, and where we work together.
 
-To ensure that communication channels stay open and rust-free, every partner attends a daily stand-up with their primary circle. These stand-ups occur in person or via Slack. Each partner will answer the following questions as tersely as possible (less than 30 seconds total):
+## Daily Check-Ins
 
-- What did you work on yesterday?
-- What are you working on today?
-- What, if anything, is blocking you?
+We believe in bringing our whole selves to our work practice. Our personal and inner lives will affect our work, and vice versa. In order for us to work well together, it helps to know how we're doing beyond just project updates.
 
-For the hour after daily stand-ups, partners are expected to be available in person and/or on Slack so that any necessary collaboration or unblocking communication can take place.
+In this spirit, we do a daily checkin in the #daily-checkin channel on Slack. For each of the three categories _personal_, _work_, and _inner_, we give a 1-5 rating (1 = terrible, 5 = awesome) and some brief words about how we're feeling in each of those areas.
+
+Anything safe for work can be shared, with the understanding that anything shared during checkins is strictly confidential unless explicitly stated otherwise.
+
+We also do spoken check-ins at the start of every tactical meeting.
 
 ## Working Remotely
 
