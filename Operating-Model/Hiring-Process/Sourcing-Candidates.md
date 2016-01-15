@@ -8,7 +8,7 @@ Referrals from people who already work at Learners Guild are one of the best sig
 
 In order to get good referrals, everyone needs to know which positions are open, know how to start the recruiting process, have time to search their network, and feel aligned with the company incentives. Open positions should be posted on [our jobs page][jobs-page] and also in the [#hiring channel][slack-hiring-channel] so that everyone sees whom we’re trying to hire.
 
-We also offer a [$5,000 referral bonus][referral-bonuses]) for any new hire that comes from an partner referral to help align company incentives with individual incentives.
+We also offer a [$5,000 referral bonus][referral-bonuses] for any new hire that comes from an partner referral to help align company incentives with individual incentives.
 
 **The danger with referrals is that we are most likely to refer candidates who are like us, which can result in a homogenous team instead of the diverse one we want to create.** We will emphasize diversity as a priority in our referral meetings and also search the local networks we are involved in. We will also continue to look for other ways to offset this bias on an organizational level.
 
