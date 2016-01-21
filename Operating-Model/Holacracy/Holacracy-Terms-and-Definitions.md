@@ -70,7 +70,7 @@ A “Role” is an organizational entity meant to be filled and energized by one
 
 - Fulfill a [Purpose](Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
 
-- Control a [Domain](Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
+- Control a [Domain](Holacracy-Terms-and-Definitions.html#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
 
 - Perform [Accountabilities](Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
 
