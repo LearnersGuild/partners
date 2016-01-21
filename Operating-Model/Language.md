@@ -36,5 +36,5 @@ See the [Learners Guild glossary][glossary]
 
 Use [NVC][nvc] with all partners and members.
 
-[glossary]: ../../GLOSSARY.html
+[glossary]: ../../GLOSSARY.md
 [nvc]: https://en.wikipedia.org/wiki/Nonviolent_Communication
