@@ -32,5 +32,5 @@ Note: We use [Workable][tooling-workable] to manage candidates, but when you "Di
 
 [jobs-page]: https://learnersguild.workable.com
 [slack-hiring-channel]: https://learnersguild.slack.com/messages/hiring/
-[tooling-workable]: ../Operating-Model/Tooling.md#workable
+[tooling-workable]: ../../Operating-Model/Tooling.md#workable
 [referral-bonuses]: ../../Benefits-and-Perks/Referral-Bonuses.md
