@@ -1,6 +1,6 @@
 # Holacracy Nuances
 
-For some short videos on practicing Holacracy, check out the [Kung Fu of Holacracy series](http://www.clearerpathsconsulting.com/kung-fu-of-holacracy/).
+For some short videos on practicing Holacracy, check out the [Kung Fu of Holacracy series](http://www.livingorgs.com/holacracy-video1/).
 
 ## When to use accountabilities vs. domains or policies.
 
