@@ -105,5 +105,5 @@ For the time being, however, we are more or less in "stealth" mode: we are invis
 
 Use the [External Transparency Matrix](#External-Transparency-Matrix) above to determine what information can be shared with whom.
 
-[glossary]: ../GLOSSARY.md
+[glossary]: ../GLOSSARY
 [equal-opportunity-employment]: ../Employment-Policies/Equal-Opportunity-Employment.md
