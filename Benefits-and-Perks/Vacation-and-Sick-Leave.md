@@ -2,7 +2,7 @@
 
 # Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Learners Guild, so in addition to the recognized [Holiday List](/Benefits-and-Perks/Holiday-List.md), Learners Guild offers 12 days of paid vacation every year that accrues 1 day per month of work. Partners should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at Learners Guild, so in addition to the recognized [Holiday List](../Benefits-and-Perks/Holiday-List.md), Learners Guild offers 12 days of paid vacation every year that accrues 1 day per month of work. Partners should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
 
 Partners also accrue 1 hour of sick leave for every 30 hours of work, but cannot accrue more than 5 days of sick leave.
 
