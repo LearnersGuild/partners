@@ -52,8 +52,21 @@ To make a style edit (change formatting, edit link, etc.), follow these steps:
 1. Your changes are now saved and should be visible on the live Guide at http://guide.learnersguild.org/
   - If you don't see them right away, wait 10-15 seconds and refresh the page (sometimes it takes a little bit for the server to update)
 
+## Making Content Edits
+
+To edit the content of the Guide, we use [GitHub flow][gh-flow].
+
+Distilled, the process looks like this:
+
+1. Create a new branch to encapsulate the desired changes
+2. Make all changes as commits on the new branch
+3. When the branch is ready to be merged, open a pull request from your branch to the `master` branch
+4. Have at least one another partner review and approve of the changes
+5. When the changes are approved, merge the pull request
+
 [gh-repo]:https://help.github.com/articles/github-glossary/#repository
 [gb-format]:http://help.gitbook.com/format/index.html
 [gh-hello-world]:https://guides.github.com/activities/hello-world/
 [gh-collaboration]:https://youtu.be/SCZF6I-Rc4I?list=PLg7s6cbtAD15Das5LK9mXt_g59DLWxKUe
 [gb-guide]:https://www.gitbook.com/book/learnersguild/guide/
+[gh-flow]:https://guides.github.com/introduction/flow/
