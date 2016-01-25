@@ -49,5 +49,6 @@
    * [Sabbatical](Benefits-and-Perks/Sabbatical.md)
    * [New Parent Leave](Benefits-and-Perks/New-Parent-Leave.md)
    * [Other Protected Absences](Benefits-and-Perks/Other-Protected-Absences.md)
+* [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](Acknowledgements.md)
 
