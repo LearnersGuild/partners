@@ -22,6 +22,16 @@ Full time partners can receive a company laptop.
 
 To best follow the [Getting Things Done][gtd] method in your own work, acquire the tools you need.
 
+## Hiring Tools
+
+### Workable
+
+Link: https://learnersguild.workable.com/
+
+Purpose:  Workable is our tool for listing current openings at Learners Guild and managing the recruiting and hiring process.
+
+Users: All Partners
+
 ## Social Tools
 
 ### Asana
