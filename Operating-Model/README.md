@@ -11,7 +11,7 @@
   * [GTD-Asana Key](GTD/GTD-Asana-Key.md)
 * [Transparency](Transparency.md)
 * [Language](Language.md)
-* [Sourcing Candidates](Sourcing-Candidates.md)
+* [Sourcing Candidates](Hiring-Process/Sourcing-Candidates.md)
 * [Interview Process](Hiring-Process/README.md)
     * [Sourcing Candidates](Hiring-Process/Sourcing-Candidates.md)
     * [Legal Guide to Interviewing](Hiring-Process/Legal-Guide-to-Interviewing.md)
