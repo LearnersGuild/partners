@@ -32,7 +32,7 @@ They also receive a blurb about Learners Guild, the position, and our [guide][gu
 
 A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is **what they want to do next** and whether that matches what we’re looking for at Learners Guild. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
 
-The interviewer spends 30-60 minutes getting to know the candidate and let them ask questions about Learners Guild and the position. Based on previous experience, this screens about 80% of candidates. It should be transparent if the candidate’s experience or interests are misaligned for the job.
+The interviewer spends 30-60 minutes getting to know the candidate and let them ask questions about Learners Guild and the position. Based on previous experience, this screens about 80% of candidates. It should be clear if the candidate’s experience or interests are misaligned for the job.
 
 This interview also fills the purpose of selling Learners Guild and recruiting promising candidates, as this is their first real contact with Learners Guild. Their desire to work here is formed in this meeting.
 
