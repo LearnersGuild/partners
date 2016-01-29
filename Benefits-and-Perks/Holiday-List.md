@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>President’s Day</td>
-    <td>February 16</td>
+    <td>February 15</td>
   </tr>
   <tr>
     <td>Cesar Chavez Day</td>
