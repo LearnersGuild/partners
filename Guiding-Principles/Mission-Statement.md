@@ -12,7 +12,7 @@ The mission of Learners Guild is to provide the opportunity for anyone who has t
 * The  higher education system is failing to address this economic challenge, with rising tuition, poor results, and mounting student debt.
 * The technology industry has a diversity problem: women are largely underrepresented, and blacks and latinos are almost invisible. As a result the future is being built by people who represent a fraction of it.
 
-We fulfill our purpose by building a learning community of beginner software developers that is highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
+We fulfill our purpose by building a learning community of beginner software developers that is self-organizing, highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
 
 We build systems that support a thriving learning culture: inclusive, safe, and effective. We invest financial, curricular, and mentoring support in our learning communities. We believe learning is a collective and personal transformation: we provide social and emotional intelligence curricula to facilitate the journey.
 
