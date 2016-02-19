@@ -4,9 +4,11 @@
 
 Taking time off and recharging is critical to doing your best work at Learners Guild, so in addition to the recognized [Holiday List](../Benefits-and-Perks/Holiday-List.md), Learners Guild offers 12 days of paid vacation every year that accrues 1 day per month of work. Partners should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
 
-Partners also accrue 1 hour of sick leave for every 30 hours of work, but cannot accrue more than 5 days of sick leave.
+All employees (seasonal, part-time and temporary) are eligible for paid sick leave after 30 days of employment (with such accruals beginning on the first day of employment) and can begin using paid sick leave after 90 days of employment. Employees accrue 1 hour of sick leave for every 30 hours of work.
 
-Partners should report vacation and sick days to Kruz Consulting, who will mark it in the payroll system (which keeps track of accrued days and should include them on every pay stub).
+Partners can accrue up to 5 days of sick leave per year, and carry over an additional 5 days unused sick leave from the previous year, for a maximum of 10 days sick leave per year.
+
+Employees should request or report vacation and sick days via the Trinet HR Passport which tracks accrual and marks it in the system.  
 
 Partners with chronic or terminal illnesses should talk with their team(s) about their needs for remote work, flexible time, disability leave and/or other support.
 
