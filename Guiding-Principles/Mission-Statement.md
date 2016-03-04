@@ -55,7 +55,7 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 ## Complementary Missions
 
-There are many other purposes and missions that allign with ours. As we work towards a dignified livelihood for everyone we hope that we can also contribute in small part to:
+There are many other purposes and missions that allign with ours. As we work towards a dignified livelihood for everyone, we acknowledge and value the intersection of this work with many other issues, and hope that we can support the movements towards...
 
 - Diversifying the tech industry
 - Economic justice
