@@ -53,6 +53,21 @@ B. **Meaningful employment of Guild members in software development careers**. M
 
 > “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.” ~ Cesar Chavez
 
+## Complementary Missions
+
+There are many other purposes and missions that allign with ours. As we work towards a dignified livelihood for everyone we hope that we can also contribute in small part to:
+
+- Diversifying the tech industry
+- Economic justice
+- Addressing systematic oppression in all its forms
+- Creating more connection and community 
+- Stemming the SF, Oakland, and NY housing crisis...etc.
+
+
+While we respect these purposes (and others) as equally valid and complementary to ours, it's important for us to make the distinction that they are not primary or secondary reasons for our existance as a corporation. Learners Guild exists for only one purpose: a dignified livelihood for everyone. 
+
+
+
 ---
 
 [^1] Dignity means I'm seen, honored and respected. The work I'm doing honors my potential and my talent, and meets the world's need. I'm working on things that are beautiful, and meaningful. I'm on purpose, and I feel a sense of belonging in the world.
