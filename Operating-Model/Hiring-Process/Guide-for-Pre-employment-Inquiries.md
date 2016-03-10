@@ -6,18 +6,13 @@
 	<thead>
 		<tr>
 			<th>Category</th>
-			<th>May Ask</th>
 			<th>May Not Ask</th>
+			<th>May Ask</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<th>Gender and Family</th>
-			<td>
-				<ul>
-					<li>If candidate has relatives already employed by the organization</li>
-				</ul>
-			</td>
 			<td>
 				<ul>
 					<li>Sex of candidate</li>
@@ -28,27 +23,25 @@
 					<li>Sexual preference</li>
 				</ul>
 			</td>
+			<td>
+				<ul>
+					<li>If candidate has relatives already employed by the organization</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<th>Race</th>
-			<td>
-			</td>
 			<td>
 				<ul>
 					<li>Candidate's race or color</li>
 					<li>Photo to be affixed to application or resume</li>
 				</ul>
 			</td>
+			<td>
+			</td>
 		</tr>
 		<tr>
 			<th>National Origin or Ancestry</th>
-			<td>
-				<ul>
-					<li>Whether candidate has a legal right to be employed in the U.S.</li>
-					<li>Ability to speak or write English fluently, if job related</li>
-					<li>Other languages spoken, if job related</li>
-				</ul>
-			</td>
 			<td>
 				<ul>
 					<li>Ethnic association of a surname</li>
@@ -61,18 +54,25 @@
 					<li>Maiden name of a married woman</li>
 				</ul>
 			</td>
+			<td>
+				<ul>
+					<li>Whether candidate has a legal right to be employed in the U.S.</li>
+					<li>Ability to speak or write English fluently, if job related</li>
+					<li>Other languages spoken, if job related</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<th>Religion</th>
 			<td>
 				<ul>
-					<li>Employer may state regular days, hours or shifts to be worked.</li>
+					<li>Religious affiliation</li>
+					<li>Religious holidays observed</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li>Religious affiliation</li>
-					<li>Religious holidays observed</li>
+					<li>Employer may state regular days, hours or shifts to be worked.</li>
 				</ul>
 			</td>
 		</tr>
@@ -80,25 +80,20 @@
 			<th>Age</th>
 			<td>
 				<ul>
-					<li>If candidate is 18 or over</li>
-					<li>If under 18, can candidate, after employment, submit a work permit?</li>
-				</ul>
-			</td>
-			<td>
-				<ul>
 					<li>Date of Birth</li>
 					<li>Date of High School Graduation</li>
 					<li>Age / Age of Children</li>
 				</ul>
 			</td>
+			<td>
+				<ul>
+					<li>If candidate is 18 or over</li>
+					<li>If under 18, can candidate, after employment, submit a work permit?</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<th>Disability</th>
-			<td>
-				<ul>
-					<li>Whether candidate can perform the essential job-related functions</li>
-				</ul>
-			</td>
 			<td>
 				<ul>
 					<li>If candidate has a disability</li>
@@ -107,16 +102,14 @@
 					<li>Note: Don’t make assumptions about a person with a disability and what they can and can’t do</li>
 				</ul>
 			</td>
+			<td>
+				<ul>
+					<li>Whether candidate can perform the essential job-related functions</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<th>Personal</th>
-			<td>
-				<ul>
-					<li>Membership in any jobrelated trade or professional association (not other memberships)</li>
-					<li>Job references</li>
-					<li>Availability to work shifts, holidays, to travel, or to relocate only if job-related</li>
-				</ul>
-			</td>
 			<td>
 				<ul>
 					<li>Emergency Contact (at interview stage)</li>
@@ -125,6 +118,13 @@
 					<li>Wage garnishments</li>
 					<li>Driver’s License, unless job related</li>
 					<li>Union affiliation</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Membership in any jobrelated trade or professional association (not other memberships)</li>
+					<li>Job references</li>
+					<li>Availability to work shifts, holidays, to travel, or to relocate only if job-related</li>
 				</ul>
 			</td>
 		</tr>
