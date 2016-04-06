@@ -36,5 +36,9 @@ All new partners should also check out our [Guide to Your Equity](../Hiring-Docu
 
 If a candidate has been consulting for over two years, we'll use an internal formula that compensates them for the opportunity cost of their consulting practice in order to calculate base salary. This formula takes into account billable/non-billable ratio, the demand they have for their services (both past and future), payroll tax and benefits costs...etc.
 
+## Candidates from a Non-Profit Background
+
+While it's difficult to [get good data](https://nonprofitquarterly.org/2010/06/21/nonprofit-salaries-achieving-parity-with-the-private-sector/) on this, we think on average, non-profit salaries tend to be 5% to 10% lower than for profit salaries. For this reason, if a candidate is applying to us with a non-profit we will adjust our rubric based on that. 
+
 ---
 [^1] This can be done at most every 6 months, and the offer must be from another company that partner wants to work for. This keeps us in integrity with other companies, so we're not wasting their precious time interviewing for jobs we don't intend to take. 
