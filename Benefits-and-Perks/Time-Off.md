@@ -1,8 +1,10 @@
 > EARLY DRAFT: This section still needs a lot more work before it is ready. Most things here will probably change before it reaches a publishable state.
 
-# Vacation, Professional Learning Days, and Sick Leave
+# Vacation
 
 Taking time off and recharging is critical to doing your best work at Learners Guild, so in addition to the recognized [Holiday List](../Benefits-and-Perks/Holiday-List.md), Learners Guild offers 12 days of paid vacation every year that accrues 1 day per month of work. After two months of employment, partners may "borrow" up to 3 days (24 hours) of vacation at a time, before it has accrued. If a partner leaves Learners Guild with a "negative" vacation balance, they will be asked to pay back the company for the hours not yet accrued. Unused vacation time does not carry over to the next year.  Partners should schedule their vacations on the Trinet HR Passport, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+
+# Sick Leave
 
 All employees (seasonal, part-time and temporary) are eligible for paid sick leave after 30 days of employment (with such accruals beginning on the first day of employment) and can begin using paid sick leave after 90 days of employment. Employees accrue 1 hour of sick leave for every 30 hours of work.
 
