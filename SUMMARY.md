@@ -42,7 +42,7 @@
    * [Guide to Your Equity](Hiring-Documents/Guide-to-Your-Equity.md)
 * [Benefits and Perks](Benefits-and-Perks/README.md)
    * [Health Care and Disability Insurance](Benefits-and-Perks/Healthcare-and-Disability-Insurance.md)
-   * [Vacation and Sick Leave](Benefits-and-Perks/Vacation-and-Sick-Leave.md)
+   * [Time Off](Benefits-and-Perks/Time-Off.md)
    * [Holiday List](Benefits-and-Perks/Holiday-List.md)
    * [Referral Bonuses](Benefits-and-Perks/Referral-Bonuses.md)
    * [Continuing Education](Benefits-and-Perks/Continuing-Education.md)
