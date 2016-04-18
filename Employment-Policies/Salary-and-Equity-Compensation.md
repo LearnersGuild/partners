@@ -28,7 +28,7 @@ To acknowledge and help counteract some of this bias:
 
 Every offer also comes with the option to take less salary in exchange for equity. The earlier a partner joins Learners Guild, the more equity they are granted for their salary exchange. The history of offers, and equity exchanges chosen is also transparent to partners and to people coming on board.
 
-At the beginning of each quarter we will adjust the equity to salary exchange **for new offers or raises** to make sure it stays at market rate. At that time existing partners may choose to change the percentage of their salary they are exchanging for equity (at the same rate new offers are being made at).
+At the beginning of each quarter we will adjust the equity to salary exchange **for new offers or raises** to make sure it stays at market rate. Once a year, on the anniversary of their start date, existing partners may choose to change the percentage of their salary they are exchanging for equity (at the same rate new offers are being made at).
 
 All new partners should also check out our [Guide to Your Equity](../Hiring-Documents/Guide-to-Your-Equity.md), which walks through the nuances of owning Learners Guild stock options.
 
