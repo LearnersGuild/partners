@@ -22,7 +22,7 @@ These meetings will be scheduled ahead of time by the Secretary and all particip
 
 We use all-remote meetings because it is smoother to have every participant logged into a video conference than to have one group in person with the rest remote.
 
-## What Full-Time Means
+## What Full-Time / Flex-Time Means
 
 > "If you want to go fast, go alone. If you want to go far, go together"
 
@@ -36,8 +36,13 @@ Managing time is a skill; especially when working remotely, it is difficult to n
 
 We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ (to org mission) of the work, but is a prime recipe for burnout.
 
-** Tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week. **
+**tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week.**
 
+## Partner Retreats
+
+A remote, flex-time, holacracy-driven organization means we don't have an opportunity to spend "tribe time" together we nurture our professional and personal relationships as a team outside of a work context. 
+
+To make room for this, partners are required to attend around five residential retreats a year. Length of the retreats will vary from 2 to 5 days. 
 
 ## Scheduling and Availability
 
