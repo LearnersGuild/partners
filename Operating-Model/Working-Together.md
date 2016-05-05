@@ -14,21 +14,7 @@ We also do spoken check-ins at the start of every tactical meeting.
 
 ## Working Remotely
 
-One of the criteria for our team is that we enjoy spending time together. We believe that a place of work ought to be an energizing, supportive, and engaging environment. It ought to be a place where each of us _wants_ to be.
-
-With that in mind, we recognize and account for the reality and the benefits of remote work. We may hire partners who are only available for remote work. As we grow, we will become increasingly distributed and we want to practice working remotely early so that we experience little growth friction.
-
-To allow for each partner to find their balance between remote and onsite work, we use the following guidelines.
-
-### Weekly Co-working
-
-1 day every week we work onsite together in our respective locations.
-
-On these days no partner will take no external meetings, all meetings must be internal. We prioritize these days of co-working over anything else: our culture is our product.
-
-In the future, we might move this to 2 days a week.
-
-### Remote Meetings
+With the exception of partners that need to be on site to support learners, we are a remote time. There is no location requirement where a partner must do their work.
 
 All weekly tactical meetings are held remotely via Zoom. We agree to show up on time and ready for these meetings.
 
@@ -38,19 +24,20 @@ We use all-remote meetings because it is smoother to have every participant logg
 
 ## What Full-Time Means
 
+> "If you want to go fast, go alone. If you want to go far, go together"
+
 Full-time can mean very different things for different people and organizations. Our goal is to develop a healthy pace for the long haul.
 
-We recognize that for the company to achieve its goals, we need to be productive, efficient, and resilient. We also recognize that it is easier to fill time with any work than to prioritize work. One hour of focused labor on a core competency is better than two hours of distracted work that is misaligned with our current strategies.
+We recognize that for the company to achieve its goals, we need to be productive, efficient, and resilient. It is easier to fill time with any work than to prioritize work. One hour of focused labor on a core competency is better than two hours of distracted work that is misaligned with our current strategies.
 
-We agree to work as much as we can and feel inspired to do, but not so much that it erodes our ability to maintain pace. As a general number to aim for, we use 32 (full) hours a week.
+We agree to work as much as we can and feel inspired to do, but not so much that it erodes our ability to maintain pace, or depletes our lives outside of work. As a general number to aim for, we use 40 (full) hours a week.
 
 Managing time is a skill; especially when working remotely, it is difficult to not work too much or too little. We have to hold ourselves and each other accountable to find our balance.
 
-A benefit of working remotely is that it allows you to use these hours most productively. It reduces commute time. If you choose to work remotely, pick the times you're most productive.
-
 We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations reward quantity of work and idolize members who burn the candle at both ends. This not only distracts from the more important metrics of _quality_ and _accuracy_ (to org mission) of the work, but is a prime recipe for burnout.
 
-> "If you want to go fast, go alone. If you want to go far, go together"
+** Tldr: Work when you're most productive. Work smart on stuff that energizes you rather than depletes you. Aim for roughly 40 hours a week. **
+
 
 ## Scheduling and Availability
 
@@ -78,7 +65,7 @@ For meetings that involve more than 2 people, the best option is to create an ev
 
 ## Getting Things Done
 
-All partners in Learners Guild commit to practicing [Getting Things Done](GTD.md). The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed.
+All partners in Learners Guild commit to practicing [Getting Things Done](GTD). The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed.
 
 Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
 
