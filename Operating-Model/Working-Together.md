@@ -14,7 +14,7 @@ We also do spoken check-ins at the start of every tactical meeting.
 
 ## Working Remotely
 
-With the exception of partners that need to be on site to support learners, we are a remote time. There is no location requirement where a partner must do their work.
+With the exception of partners that need to be on site to support learners, we are a remote team. There is no location requirement where a partner must do their work.
 
 All weekly tactical meetings are held remotely via Zoom. We agree to show up on time and ready for these meetings.
 
