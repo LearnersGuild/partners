@@ -22,6 +22,10 @@ These meetings will be scheduled ahead of time by the Secretary and all particip
 
 We use all-remote meetings because it is smoother to have every participant logged into a video conference than to have one group in person with the rest remote.
 
+In order to maximize working productivity and quality of life, partners can expense the cost of a monthly coworking space membership (flexible or dedicated desk), if they prefer not to work from home.
+
+The amount of reimbursement may vary by city, but should align to typical membership costs for a partner's location (use WeWork or Impact Hub's location-based rates as a guideline: https://www.wework.com/locations / http://www.impacthub.net/where-are-impact-hubs/)
+
 ## What Full-Time / Flex-Time Means
 
 > "If you want to go fast, go alone. If you want to go far, go together"
@@ -40,9 +44,9 @@ We seek to avoid the Cult of Productivity anti-pattern. Too often, organizations
 
 ## Partner Retreats
 
-A remote, flex-time, holacracy-driven organization means we don't have an opportunity to spend "tribe time" together we nurture our professional and personal relationships as a team outside of a work context. 
+A remote, flex-time, holacracy-driven organization means we don't have an opportunity to spend "tribe time" together we nurture our professional and personal relationships as a team outside of a work context.
 
-To make room for this, partners are required to attend around five residential retreats a year. Length of the retreats will vary from 2 to 5 days. 
+To make room for this, partners are required to attend around five residential retreats a year. Length of the retreats will vary from 2 to 5 days.
 
 ## Scheduling and Availability
 
