@@ -18,39 +18,27 @@ And, of course, it's always a good idea to review some [Sample Interview Questio
 
 ## Stages
 
-Every candidate goes through three interviews that help us find the right person for the job.[^1]
-
 See also: [Sourcing Candidates](Sourcing-Candidates.md)
 
-### Stage 0: Initial Contact and Communications
+### Context
 
-Before they are interviewed, the candidate shows some relevant work that helps give us an initial screen and something to talk about in the first coffee interview.
+We strive to be extremely thoughtful about who we bring on board in the early stages of our company and want every partner to be a yes to each new hire. We also want all prospective new hires to meet every partner on the team and be a yes to all of us. For this reason, our process will be longer and more thorough than candidates may find at other companies. To accomplish these goals, while still balancing efficiency, our hiring process is as follows:
 
-They also receive a blurb about Learners Guild, the position, and our [guide][guide] so that they can self-screen if our culture doesn’t match the kind of company they want to work for. **Values in particular are emphasized here so that they understand how important they are to the Learners Guild team and to make sure they align.**
+###Stage 1: Initial Screen
 
-### Stage 1: Informal/Skype/Coffee — 30-60 Minutes
+Applications are submitted via Workable. Promising candidates are invited to complete an initial phone screen with someone from our recruiting partner, Team Theory.
 
-A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is **what they want to do next** and whether that matches what we’re looking for at Learners Guild. This interview can happen over the phone, Skype, in the office, or out at a coffee shop.
+### Stage 2: Role Fit
 
-The interviewer spends 30-60 minutes getting to know the candidate and let them ask questions about Learners Guild and the position. Based on previous experience, this screens about 80% of candidates. It should be clear if the candidate’s experience or interests are misaligned for the job.
+After passing the initial phone screen, candidates are interviewed with a focus on how they will perform in the role to which they’ve applied. This stage may involve a technical interview (e.g. pair programming exercise or other demonstration of relevant skills) and will include speaking with 1-3 partners who will work most closely with the person in that role and/or have the most relevant knowledge to assess a candidate’s skill set for it.
 
-This interview also fills the purpose of selling Learners Guild and recruiting promising candidates, as this is their first real contact with Learners Guild. Their desire to work here is formed in this meeting.
+### Stage 3: Company / Culture Fit
 
-### Stage 2: Technical Interview — 2 Hour
+After a candidate’s role fit has been established, they will interview with all remaining partners with a focus on company and culture fit. These conversations consist of a series of paired videoconference interviews over the course of 5 days. Partners will communicate with each other in between conversations; if at any point Learners Guild decides not to move forward with a candidate, all remaining interviews will be canceled, but candidates will know the entire interview timeline up front.
 
-The technical interview is a chance to **dive into the candidate’s ability** at the job they’re interviewing for. The lead on this hire prepares two exercises which each take 45 minutes, one which involves high level thinking for the position and another which focuses on more low level implementation.
+### Timeline
 
-The last 30 minutes are used for questions and answers from both sides. This interview should filter out 50-70% of candidates (of the remaining 20%), and by the end of it, the lead interviewer should have an opinion on whether or not the candidate is the right person for the job.
-
-### Stage 3: Team Fit — Full Day
-
-The candidate comes in for a whole day of work and discussion with the team. In the morning they'll sit in on a holacracy tactical meeting to get a feel for how it works, and for the team field.
-
-After the morning meeting(s), candidates go out to lunch with the team before coming back to the office for one on ones (or one on twos) with everyone, depending on time constraints and team size. Every partner needs to be one or two thumbs up for the candidate before they move to stage 4.
-
-### Stage 4: Working Together
-
-It is important to get a sense for how candidates handle a task outside of their comfort zone, how they ask for help, and generally how they operate in an unfamiliar and challenging environment. It is important that candidates feel like they’ve earned their offer by the time they get it, so this part of the process should be hard. If possible, we will sign an hourly contract with the candidate so they can start working side by side with us for anywhere between 1 and 10 weeks. During this period, we're looking for every partner to be two thumbs up (or HELL YES) to this candidate coming on board as a partner. Ultimately, the Hiring Manager responsible for this role will make the final Hire/No Hire call. 
+We strive for a two-week turnaround from the time a candidate submits their application in Workable to the time they’ve met all of our partners. Once a candidate passes the Role Fit stage (Stage 2), all remaining partner interviews (Stage 3) will be calendared within 5 days. Partners will be proactive in asking candidates if they have a competing offer timeline and will make every effort to adjust our process to stay competitive for promising candidates.
 
 ## Protocols
 
@@ -79,7 +67,3 @@ When interviewing, one must be careful to ensure a fair and just process for all
 
 - [Legal Guide to Interviewing](Legal-Guide-to-Interviewing.md)
 - [Guide for Pre-employment Inquiries](Guide-for-Pre-employment-Inquiries.md)
-
----
-
-[^1] The only possible exception to this is if a candidate has worked with several of the partners beforehand.
