@@ -30,26 +30,6 @@ You can think of a Domain as a “property right”, that leads to another simpl
 
 eg. Our Facebook Group
 
-## Objection - [DG]
-Objections are raised in a Governance meeting.  It is when a partner makes a proposal that you think, through one of your roles, might cause harm or set the organization backwards.
-
-It's sometimes hard not to take objections personally.  They feel like an interruption of the flow and a slowing down of the work we're trying to get done.  However, they are a very important and an integral part of the Holacratic process.  Through objecting and integrating the proposals are chiseled and formed into something that will keep Learners Guild healthy and move us all forward.  We have to trust that others feeling objections from their roles are what's protecting us from creating any damage with our proposals.
-
-However, for this to work well, objections have to be valid.  The facilitator will help the objector reflect on whether or not their objection is valid by checking the objection against these following criteria:
-
-- Will this proposal cause harm, degrade clarity, or set us backwards, or do you just have a better idea? - If it’s a better idea then it is not a valid objection
-
-- Is this harm caused by the proposal, or does it already exist? - If it already exists then it is not a valid objection
-
-- Is this objection based on presently known data, or is it a future fear? - If future fear then it is not a valid objection
-
-- Are you objecting from a role or as yourself as a person? Does this proposal limit any of your roles? - If you’re just speaking, not within a role, then it’s not a valid objection.
-
-- Does this objection have to do with the allocation of resources or assigning of roles around this proposal? - If it does the it’s not a valid objection. (Because allocating resources and assigning roles are up to the Lead link and not part of Governance)
-
-8:50 - 18:30 of [this video](https://vimeo.com/94227010) Karim explains to a facilitator how to test objections.  It's a good view into how we think about objections as facilitators and a great guide for all partners.
-
-And here's the [guide to testing objections](https://drive.google.com/open?id=0B603F2WUOtLJSjR0RHdKY0VSUmM)
 
 ## Partner
 Partner is the term we use for anyone who's working at Learners Guild.  A partner does not have any "titles" or "positions". They are free to energize the roles that interest them (with the agreement of the Lead Link of course) and also to resign any roles that they are not thriving in.
@@ -90,7 +70,7 @@ A “Role” is an organizational entity meant to be filled and energized by one
 
 - Fulfill a [Purpose](Holacracy-Terms-and-Definitions#purpose): Express certain capacities or potentials, perform certain functions, and/or pursue certain results on behalf of the Organization
 
-- Control a [Domain](Holacracy-Terms-and-Definitions#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
+- Control a [Domain](Holacracy-Terms-and-Definitions.html#domain): Control and regulate certain property, functions, processes, domains, or areas on behalf of the Organization
 
 - Perform [Accountabilities](Holacracy-Terms-and-Definitions#accountability): Perform or otherwise manage and effect the execution of certain ongoing activities for the Organization
 

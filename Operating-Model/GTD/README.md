@@ -20,6 +20,8 @@ We're using this hybrid for many reasons, here are some of the main ones:
 ## GTD® in a Nutshell
 Getting Things Done, commonly referred to as GTD, is an approach to productivity that was developed by David Allen. It was documented in the form of the [Getting Things Done](http://amzn.com/B00KWG9M2E) book which was first published in 2001. 
 
+The first thing you need to do is watch our [GTD Overview Video](https://shereef.wistia.com/medias/0me7x7hd71)
+
 The key GTD concepts are as follows:
 - **Keep things out of your head**. The mind is a great place to have thoughts, but a lousy place to store them - especially in this modern day and age.
 - **Decide actions and outcomes as things show up on your radar, not later**. Said another way, deal with things when they show up, not when they blow up.

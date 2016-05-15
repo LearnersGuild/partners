@@ -4,7 +4,7 @@ The governance model of Learners Guild is based on [Holacracy][holacracy]. The o
 
 Ultimately however it is the purpose of the [Holacracy Coach](https://glassfrog.holacracy.org/roles/4477013) and the [GTD Coach](https://glassfrog.holacracy.org/roles/4477015) roles to support everyone at LG to get the most out of this system and to have it run smoothly.
 
-There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately dissapear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
+There is a cost to learning these tools and methodologies but you should expect them to eventually and ultimately disappear into the background and become of great support to your work at LG and beyond.  If this does not become the case eventually it is up to you to reach out for support.
 
 ## Governance
 
@@ -32,9 +32,8 @@ Role: Governor
 Holacracy is a new way of running an organization that removes power from a management hierarchy and distributes it across clear roles, which can then be executed autonomously. The work is actually more structured than in a conventional company, just differently so. With Holacracy, there is a clear set of rules and processes for how a team breaks up its work, and defines its roles with clear accountabilities and expectations.
 
 # Getting Started with Holacracy
-***Note*** - *Some terms and definitions will be marked with [DG] for distributed governance.  This means you don't need to worry about understanding or studying them until we move towards a distributed governance model*
 
-- Watch our [Intro Video 1](https://shereef.wistia.com/medias/idy7nj5k0y) and [Intro Video 2](https://shereef.wistia.com/medias/rk4gx03yj6)
+- Watch our [Operating Model Videos](https://shereef.wistia.com/projects/fwy60ilf20)
 
 - You can also read this [general summary](http://chrisriedy.me/2013/05/28/holacracy-a-social-technology-for-purposeful-organisation/)
 
@@ -44,14 +43,13 @@ Holacracy is a new way of running an organization that removes power from a mana
 
 - Learn about the [Holacracy Specific Roles](Holacracy-Specific-Roles.md)
 
-- Watch the [Glassfrog Tool intro video](https://shereef.wistia.com/medias/8wqy1yxwsk)
-
-- Learn how we're using Asana by learning the [Holacracy-GTD-Asana Key](Holacracy-GTD-Asana Key.md) 
+- Learn how we're using Asana by learning the [Holacracy-Asana-Key](Holacracy-Asana-Key.md) 
 
 
 - When you're ready learn more about the [Finer Points of Holacratic Practice](Finer-Points-of-Holacracy.md)
 
 - Check out the [Holacracy Book](http://amzn.com/162779428X) and [Reinventing Organizations](http://amzn.com/2960133501)
+***Note*** - *Again, because we are not running distributed governance, please ignore the sections that are about Governance Meetings or Governance meetings processes in the Holacracy Book*
 
 # Why this system?
 

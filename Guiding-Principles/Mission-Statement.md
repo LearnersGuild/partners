@@ -2,7 +2,7 @@
 
 # Purpose, Mission, and Vision
 
-Our Purpose is for everyone to have access to a world class learning community that will unleash their potential, bring them closer to themselves and each other, and provide them the opportunity of a dignified[^1] livelihood.
+Our Purpose is for everyone to have the opportunity of a dignified[^1] livelihood.
 
 ## Mission Statement
 
@@ -12,7 +12,7 @@ The mission of Learners Guild is to provide the opportunity for anyone who has t
 * The  higher education system is failing to address this economic challenge, with rising tuition, poor results, and mounting student debt.
 * The technology industry has a diversity problem: women are largely underrepresented, and blacks and latinos are almost invisible. As a result the future is being built by people who represent a fraction of it.
 
-We fulfill our purpose by building a learning community of beginner software developers that is highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
+We fulfill our purpose by building a learning community of beginner software developers that is self-organizing, highly scaleable and accessible. Our aim is to support everyone who has the will and capacity to obtain valued employment to do so.
 
 We build systems that support a thriving learning culture: inclusive, safe, and effective. We invest financial, curricular, and mentoring support in our learning communities. We believe learning is a collective and personal transformation: we provide social and emotional intelligence curricula to facilitate the journey.
 
@@ -52,6 +52,21 @@ B. **Meaningful employment of Guild members in software development careers**. M
   And measured subjectively by how meaningful the members feel their work is.
 
 > “From the depth of need and despair, people can work together, can organize themselves to solve their own problems and fill their own needs with dignity and strength.” ~ Cesar Chavez
+
+## Complementary Missions
+
+There are many other purposes and missions that allign with ours. As we work towards a dignified livelihood for everyone, we acknowledge and value the intersection of this work with many other issues, and hope that we can support the movements towards...
+
+- Diversifying the tech industry
+- Economic justice
+- Addressing systematic oppression in all its forms
+- Creating more connection and community 
+- Stemming the SF, Oakland, and NY housing crisis...etc.
+
+
+While we respect these purposes (and others) as equally valid and complementary to ours, it's important for us to make the distinction that they are not primary or secondary reasons for our existance as a corporation. Learners Guild exists for only one purpose: a dignified livelihood for everyone. 
+
+
 
 ---
 

@@ -6,12 +6,12 @@ Following is a set of strategies that exists at the _individual_ level: these ar
 
 In all interactions with each other and with our stakeholders we do our best to conduct ourselves with:
 
-* **Kindness:** Treating myself and others with dignity, respect and an open heart.
-* **Integrity:** Speaking my truth clearly and authentically. Keeping my word. Calling out and repairing my mistakes (even when no one is looking).
+* **Kindness:** Treating myself and others with dignity, respect and an open heart. Assuming good intentions and giving others the benefit of doubt. 
+* **Integrity:** Speaking my truth clearly and authentically. Keeping my word. Calling out and repairing my mistakes (even when no one is looking). Choosing courage over comfort. Doing what's right over what's expedient or fun. Practicing the values I profess. Having good boundaries and honoring others' boundaries. Being reliable. 
 * **Whole Heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
-* **Radical Responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding. [Owning our experience, and our emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
+* **Radical Responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding. [Owning my experience, and my emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
 
-Furthermore, we all share responsibility for holding each other accountable to these agreements.
+Furthermore, we all share the responsibility of holding ourselves and each other accountable to these agreements.
 
 ## Examine Privilege; Own Yours and Ours
 

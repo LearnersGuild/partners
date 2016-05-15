@@ -13,6 +13,7 @@ LG's assumption is that you're committing to these practices unless you let the 
 
 
 ###Daily:
+Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 - **When**: Once in the morning and another in the evening
 - **Length**: 5-10 minutes
 - **Purpose**: Clarify what's being done today and prepare to move forward with work
@@ -20,14 +21,20 @@ LG's assumption is that you're committing to these practices unless you let the 
     - What tasks are in upcoming and will be moved to today?
     - Look at calendar and think: Am I blocking off the time I need?
     - Choose projects if relevant or prioritized
-    - Process Inbox
+    - Process Inbox - **This is the Crucial Step** - You're looking to do 4 things with each task:
+        -    Assign it to the appropriate project
+        -    Assign it to the appropriate role
+        -    Add any necessary [context tags](http://guide.learnersguild.org/Operating-Model/GTD/GTD-Asana-Key.html)
+        -    Move it to today, upcoming or later
     - In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
 ###Weekly:
-- **When**: At the beginning of each week, usually Monday morning or Sunday evening
-- **Length**: 10-20 minutes
+Check out the [Weekly Review Video](https://shereef.wistia.com/medias/wvrglv1q83)
+- **When**: At the beginning of each week, usually Monday morning or Sunday evening.  Do this in conjunction with your daily review for that day.
+- **Length**: 10-20 minutes - To be done in conjunction with the daily review for that day
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
 - **Tasks**:
+    - Go through the later tasks, does anything need to shift to upcoming?
     - Go through every project. Ask yourself: 
         - Is this still happening?
         - Did my or my Lead Link's priorities change?
@@ -39,6 +46,7 @@ LG's assumption is that you're committing to these practices unless you let the 
     - Do a personal checkin, is there anyone on the team I need to clear with?
     
 ###Monthly:
+Check out the [Monthly Review Video](https://shereef.wistia.com/medias/t0qk5ghlgp)
 - **When**: End of each month or first Monday of the month depending on your time and style
 - **Length**: 30-60 minutes
 - **Purpose**: Balancing attention and effort with roles and priorities, broader prioritization picture across circles and roles, and clarifying working relationships and processes
@@ -50,7 +58,6 @@ LG's assumption is that you're committing to these practices unless you let the 
         - Accountabilities
         - Purpose
         - Other roles I'm interacting with, are our relationships clear?
-    - Review someday/maybe list, does anything need to become more current?
 
 ###Annual:
 - **When**: End of each year

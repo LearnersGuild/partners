@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 19</td>
+    <td>January 18</td>
   </tr>
   <tr>
     <td>President’s Day</td>
-    <td>February 16</td>
+    <td>February 15</td>
   </tr>
   <tr>
     <td>Cesar Chavez Day</td>

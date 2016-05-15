@@ -2,8 +2,8 @@
 
 # Healthcare and Disability Insurance
 
-Learners Guild’s priorities with benefits are wellness and education, so it’s important that we offer our partners good medical coverage and disability insurance. Both of these benefits are managed through Zenefits, which every partner should have set up before their first day at Learners Guild.
+Learners Guild prioritizes health benefits, wellness and education, so it’s important that we offer our partners good medical coverage and disability insurance. Both of these benefits are managed through the Professional Employer Organization [Trinet](http://www.trinet.com). Every partner should set up their account with Trinet before their first day at Learners Guild.  Enrollment information will be sent via email to your Learners Guild email address.
 
-We offer medical, dental, and vision coverage at Learners Guild for partners and their dependents. Learners Guild contributes 85% of the cost for all partner policies and 50% for dependents. The medical plan is with Anthem Blue Cross, the Dental plan is with Assurant Partner Benefits, and the vision plan is with Guardian. All partners are eligible for coverage on the first of the month following their hire date. These policies are all managed through Zenefits, which is where you can find more details about the plans and their coverage.
+Through Trinet, we offer various medical, dental, and vision packages for partners and their dependents. Learners Guild contributes 80% of the cost for all partner policies and 80% for dependents. All partners are eligible for coverage on the first of the month following their hire date. These policies are all managed through the Trinet HR Passport, where you can find details about the plans and their coverage.
 
-We will also offer both short term and long term disability insurance, though we are currently waiting to get quotes back from Zenefits with our options for coverage.
+We will soon offer both short term and long term disability insurance, though we are currently waiting to get quotes back with our options for coverage.
