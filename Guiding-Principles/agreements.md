@@ -4,11 +4,11 @@
 
 There are two distinct and complementary 'modes' or 'spaces' that we operate in as partners. **Org Space** concerns itself with getting the work done. Moving the company towards its purpose tactically and strategically. Our [Operating Model](Operating-Model) spells out the details of our **Org Space** agreements. When operating in **Org Space** we intentionally put our personal tensions aside and step into our roles and function from there.
 
-We are, however, much more than our roles. In our work together we are affected as people, not just as roles. In the course of working with each other, we impact each other. Feelings get hurt, toes get stepped on. Friendships start and end. Misunderstandings. Attraction. You name it.
+We are, however, much more than our roles. In our work together we are affected as people, not just as roles. In the course of working with each other, we impact each other. Toes get stepped on, feelings get hurt, friendships start and end. Misunderstandings. Attraction. Power struggles. You name it.
 
 Our Tribe agreements are our attempt to deliberately address our interpersonal relationships, and care for them. In doing so, we are more able to fulfill our organizations' purpose.
 
-For this reason, every partner takes on a secondary objective: ** to care for, and nurture our teams' culture and the relationships in it **
+For this reason, **every partner takes on a secondary purpose: to co-create a thriving culture for our team that brings out the best in us**
 
 ## Four Tribe Agreements
 
@@ -51,7 +51,7 @@ If you tried to clear a withhold with someone and failed, use our [Conflict Resl
 
 ### Hold Others Accountable
 
-Our agreements are meaningless if we don't hold ourselves and each other accountable to them. It is crucial that we step up to violated promises, broken commitments and bad behavior. In doing so, we maintain our integrity, and support each other lovingly and firmly in doing the same. 
+Our agreements are meaningless if we don't hold ourselves and each other accountable to them. It is crucial that we step up to violated promises, broken commitments and bad behavior. In doing so, we maintain our integrity, and support each other lovingly and firmly in doing the same.
 
 ## Five Interpersonal Practices
 
