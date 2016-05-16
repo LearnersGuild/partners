@@ -5,8 +5,9 @@
    * [Mission Statement](Guiding-Principles/Mission-Statement.md)
    * [Core Values](Guiding-Principles/Values.md)
    * [Org Strategy](Guiding-Principles/Strategy.md)
-   * [Rules of Engagement](Guiding-Principles/Engagement.md)
+   * [Tribe Agreements](Guiding-Principles/agreements.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
+   * [General Guidelines](guidelines.md)
 * [Operating Model](Operating-Model/README.md)
    * [Working Together](Operating-Model/Working-Together.md)
    * [Holacracy](Operating-Model/Holacracy/Home.md)
@@ -51,4 +52,3 @@
    * [Other Protected Absences](Benefits-and-Perks/Other-Protected-Absences.md)
 * [Contributing](CONTRIBUTING.md)
 * [Acknowledgements](Acknowledgements.md)
-
