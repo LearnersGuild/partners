@@ -10,12 +10,9 @@ Our Tribe agreements are our attempt to deliberately address our interpersonal r
 
 For this reason, every partner takes on a secondary objective: ** to care for, and nurture our teams' culture and the relationships in it **
 
-Following is a set of strategies that exists at the _individual_ level: these are heuristics (rules of thumb) we agree to follow in our daily work and interactions with each other and with our stakeholders.
+## Four Tribe Agreements
 
-
-## Tribe Agreements
-
-In all interactions with each other and with our stakeholders we do our best to conduct ourselves with: ### Hold others accountable
+These are the agreements we keep in our daily work and interactions with each other and with our stakeholders in order to care for our Tribe Space.
 
 ### Act in Integrity
 
@@ -30,31 +27,54 @@ Don't gossip. Don't build political alliances to get work done. If you mention s
 
 If you have feedback for supporting staff, or other stakeholders, do your best to give it directly to them. If that's not possible/efficient/effective it's OK to talk about them with another partner.
 
-If a you have a conflict with someone, use our [Conflict Resloution Process][conflict-process] to resolve it.
+### Clear personal tensions swiftly and directly
 
-### Clear interpersonal tensions
+We are human. Personal conflicts will come up as we work together. When you feel that something personal is beginning to get in the way of you working optimally with another partner, **address it directly with them as soon as you can.**
 
-### Identify real tensions. firm w/tension, flex/proposal
+We call this process "clearing a withhold".
+
+A withhold is anything that I'm "holding" in my mind or heart, that's keeping me from feeling "clear" with you.
+
+Withholds come in many different flavors:
+
+* **A Pinch:** Something someone did, that "pinched" my ego. I could let it go, but it's building a small level of resentment, so I'll just say it. For example: "When you didn't respond to that question I asked in the meeting I felt snubbed". Pinches are quick to resolve, and usually don't need more than a "thank you" in response.
+
+* **A Reality Check:** We make up stories all the time about each other. If you notice a belief forming in your mind about someone else, ask them about it. For example: "I noticed that whenever I talk about anything related to marketing, you seem to zone out. I'm starting to make up a story in my mind that you think I'm shitty at marketing. Is there any truth to that?"
+
+* **A Reflection:** We can see things in others that they don't see in themselves. Sometimes it's important to make room for a reflection in order to clear the air between us. Reflections can be "negative" or "positive" feedback about how we are relating personally to someone. This is distinctly different from feedback about their work product. For example: "Your accent reminds me of this guy who used to bully me, and sometimes I notice myself mad at you for no reason." or "I really like your writing style. I've always wanted to write like that and sometimes I notice that I feel intimidated and jealous of you."
+
+Sharing reflections in this way, and being heard, can often diffuse the withhold, and reduce its charge.
+
+If you tried to clear a withhold with someone and failed, use our [Conflict Resloution Process][conflict-process] to resolve it.
+
+### Hold Others Accountable
 
 
-## Interpersonal practices
 
-- Reflect to each other on practices
+## Five Interpersonal Practices
 
-### **Kindness:** Treating myself and others with dignity, respect and an open heart. Assuming good intentions and giving others the benefit of doubt.
+Our interpersonal practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
 
-### **Whole Heartedness:** Being present. Fully engaging in my work. Mind, body, heart and spirit. Not holding back.
+### Practice Kindness
 
-### **Radical Responsibility:** Assuming full ownership of our collective purpose and my role(s) in it. Never blaming or avoiding. [Owning my experience, and my emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
+We treat ourselves and others with dignity, respect and an open heart. We assume good intentions and give others the benefit of doubt.
 
-### Choose to be real and vulnerable
+### Practice Whole Heartedness
 
-Sugar coating leads to cavities. Be real. Minimize bullshit and call people on it (kindly please).
+We are present. Fully engaging our work. Mind, body, heart and spirit. We don't hold back.
+
+### Practice Radical Responsibility:
+
+We assume full ownership of our collective purpose and our role(s) in it. We don't blame or avoid. [We own our experience, and our emotions](https://www.youtube.com/watch?v=lk_a2iWWoVQ&feature=youtu.be).
+
+### Practice Being Real and Vulnerable
+
+We are real with each other. We minimize bullshit and call people on it (kindly).
 ![Alt text](/images/candor.jpg)
 
-On the flip side of choosing radical honesty, is choosing to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [put down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
+On the flip side of choosing radical honesty, we choose to be vulnerable. Vulnerability means choosing to be impacted by someone else's truth and being committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
-### Examine Privilege; Own Yours and Ours
+### Practice Resisting and Overcoming Oppression
 
 Because of our collective history and the poor design of the social and economic systems we operate in, the dice are loaded. Racism, sexism, classism, homophobia are some of the many ways there is a systematic imbalance of power and privilege in our society.
 
@@ -68,16 +88,3 @@ Part of our work is to be aware of our privileges and of the responsibilities th
 
 
 [conflict-process]: Conflict.md
-
-
-
-## Org Agreements
-
-- practice GTD
-- claim authority over your domains
-- notice & process governance tensions
-- pratice holocracy
-- voice your disagreement
-- assign tasks to responsibilities
-- request for action in shared mgmt system
-- partners set own working hours
