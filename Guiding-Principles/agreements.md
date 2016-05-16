@@ -45,11 +45,13 @@ Withholds come in many different flavors:
 
 Sharing reflections in this way, and being heard, can often diffuse the withhold, and reduce its charge.
 
+Another good use of sharing a reflection, is with regards to the Five Personal Practices. Because these practices are interpersonal, giving and receiving reflections from each other on our progress and the areas where we need to practice more supports them in staying alive.
+
 If you tried to clear a withhold with someone and failed, use our [Conflict Resloution Process][conflict-process] to resolve it.
 
 ### Hold Others Accountable
 
-
+Our agreements are meaningless if we don't hold ourselves and each other accountable to them. It is crucial that we step up to violated promises, broken commitments and bad behavior. In doing so, we maintain our integrity, and support each other lovingly and firmly in doing the same. 
 
 ## Five Interpersonal Practices
 
