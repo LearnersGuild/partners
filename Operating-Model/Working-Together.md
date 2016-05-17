@@ -74,8 +74,8 @@ For meetings that involve more than 2 people, the best option is to create an ev
 
 ## Getting Things Done
 
-All partners in Learners Guild commit to practicing [Getting Things Done](GTD). The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed.
+All partners in Learners Guild commit to practicing [Getting Things Done](GTD/README.md). The [Holacracy constitution](https://github.com/LearnersGuild/Holacracy-Constitution) requires that partners be responsible for tracking their next-actions and projects in a database that is constantly updated and reviewed.
 
 Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
 
-Check out the [Getting Things Done](GTD) section of the Guide for more information.
+Check out the [Getting Things Done](GTD/README.md) section of the Guide for more information.
