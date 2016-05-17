@@ -78,4 +78,4 @@ All partners in Learners Guild commit to practicing [Getting Things Done](GTD). 
 
 Getting Things Done (GTD) is a well known and effective personal productivity system that formalizes this process. We all use Asana for GTD, and we even have a bot that automates tedious tasks and helps us use it better!
 
-Check out the [Getting Things Done](GTD.md) section of the Guide for more information.
+Check out the [Getting Things Done](GTD) section of the Guide for more information.
