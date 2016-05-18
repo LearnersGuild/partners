@@ -7,7 +7,7 @@
    * [Org Strategy](Guiding-Principles/Strategy.md)
    * [Tribe Agreements](Guiding-Principles/agreements.md)
    * [Conflict Resolution Process](Guiding-Principles/Conflict.md)
-   * [General Guidelines](guidelines.md)
+   * [General Guidelines](Guiding-Principles/guidelines.md)
 * [Operating Model](Operating-Model/README.md)
    * [Working Together](Operating-Model/Working-Together.md)
    * [Holacracy](Operating-Model/Holacracy/Home.md)
