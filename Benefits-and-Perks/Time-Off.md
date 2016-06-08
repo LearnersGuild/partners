@@ -6,7 +6,7 @@ Taking time off and recharging is critical to doing your best work at Learners G
 
 # Sick Leave
 
-All employees (seasonal, part-time and temporary) are eligible for paid sick leave after 30 days of employment (with such accruals beginning on the first day of employment) and can begin using paid sick leave after 90 days of employment. Employees accrue 1 hour of sick leave for every 30 hours of work.
+All employees (seasonal, part-time and temporary) are eligible for paid sick leave after 30 days of work (with such accruals beginning on the first day of employment) and can begin using paid sick leave 90 days after their start date. Employees accrue 1 hour of sick leave for every 30 hours of work.
 
 Partners can accrue up to 6 days of sick leave per year, and carry over an additional 5 days unused sick leave from the previous year, for a maximum of 11 days sick leave per year.
 
