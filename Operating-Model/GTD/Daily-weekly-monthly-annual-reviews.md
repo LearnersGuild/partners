@@ -35,7 +35,8 @@ Check out the [Weekly Review Video](https://shereef.wistia.com/medias/wvrglv1q83
 - **Purpose**: Re-prioritizing projects and clearing all inboxes in preparation for the week
 - **Tasks**:
     - Go through the later tasks, does anything need to shift to upcoming?
-    - Go through every project. Ask yourself: 
+    - Go through every project. Update it under the progress tab.
+      Also Ask yourself: 
         - Is this still happening?
         - Did my or my Lead Link's priorities change?
         - Are there new strategies, metrics, or goals for the circle that would change my prioritization?
