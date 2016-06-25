@@ -35,3 +35,8 @@ These policies are not about how to impact a domain, they are generally about cr
 The same rule applies though that they should be restricting or redirecting action, not creating it.
 
 Crafting these policies is much more an art than a science though, and in some cases these policies can be used in lieu of creating accountabilities on every role in a circle, which is cumbersome and difficult to later edit or refine.  That is the one exception where a policy can be used to create action instead of just restrict it.  But even then it is important to give the very specific context in which this action is to be created.  So we use the "when X then Y" format.
+
+## How to know if you have a governance tension
+
+One of the disadvantages of running without distributed governance, is that we can fall easily out of practice of sensing, naming, and processing governance tensions.  But processing these tensions is vital to the success, maturation, and evolution of our organization.  These questions should help you sense whether or not you have governance tensions, and should be asked often, at least with the weekly review.
+
