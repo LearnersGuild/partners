@@ -54,6 +54,6 @@ One of the disadvantages of running without distributed governance, is that we c
 -- Who should do this?
 -- Why should I do that?
 -- Shouldn’t so and so take care of this?
-Should denotes responsibility and accountability… If you’re thinking it it’s a clear sign that a governance tension is arising for you.
+"Should" denotes responsibility and accountability… If you’re thinking it, it’s a clear sign that a governance tension is arising for you.
 
 
