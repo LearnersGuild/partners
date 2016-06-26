@@ -50,4 +50,10 @@ One of the disadvantages of running without distributed governance, is that we c
 - Looking at my circle's purpose, do we have all the roles we need to fulfill this purpose? Are there any missing links or gaping holes in our structure?
 - Is there anything that I'm implicitly expecting of my own roles or of roles around me that isn't explicitly stated?
 - Is there some resource of circle that is being negatively impacted by all of us using it independently without coordination? (For example many different roles are posting to our facebook page without any coherent messaging or style. This would be a place for domain)
+- The word “should” is coming up:
+-- Who should do this?
+-- Why should I do that?
+-- Shouldn’t so and so take care of this?
+Should denotes responsibility and accountability… If you’re thinking it it’s a clear sign that a governance tension is arising for you.
+
 
