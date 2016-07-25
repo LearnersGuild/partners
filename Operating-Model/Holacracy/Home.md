@@ -35,7 +35,7 @@ Holacracy is a new way of running an organization that removes power from a mana
 
 - Watch our [Operating Model Videos](https://shereef.wistia.com/projects/fwy60ilf20)
 
-- You can also read this [general summary](https://s3.amazonaws.com/prod_object_assets/assets/157865681992435/Blinkracy-Blinkist.pdf?AWSAccessKeyId=AKIAIXM6FRIC5QVSA63Q&Expires=1469461105&Signature=%2BaNIU4khBbTzpuoiDrwgHerYwx8%3D#_=_)
+- You can also read this [general summary](https://s3.amazonaws.com/prod_object_assets/assets/157865681992435/Blinkracy-Blinkist.pdf?AWSAccessKeyId=AKIAIXM6FRIC5QVSA63Q&Expires=1469461105&Signature=%2BaNIU4khBbTzpuoiDrwgHerYwx8%3D#_=_), it's a simplified vesion and should give you a good general picture
 
 - Learn the different Definitions [Terms and Definitions](Holacracy-Terms-and-Definitions.md)
 
