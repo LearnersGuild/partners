@@ -32,14 +32,14 @@ Use this matrix to answer questions like:
 - With whom do I wish to share it?
 - Will sharing this information help or damage our purpose?
 
-| Open to All        | Share with Trusted People\*          | NDA Required      | Never Share               |
-|--------------------|--------------------------------------|-------------------|---------------------------|
-| Our guide          | Who funds us                         | Amount of funding | Partner salaries & comp   |
-| That we are funded | Who is on our board                  | Financial model   | No. of outstanding shares |
-| Team profiles      | Launch strategy (timing, location)   |                   | Valuation                 |
-|                    | Pitch deck                           |                   |                           |
-|                    | Business model                       |                   |                           |
-|                    | Curriculum overview                  |                   |                           |
+| Open to All        | Share with Trusted People\*        | NDA Required      | Never Share               |
+|:-------------------|:-----------------------------------|:------------------|:--------------------------|
+| Our guide          | Who funds us                       | Amount of funding | Partner salaries & comp   |
+| That we are funded | Who is on our board                | Financial model   | No. of outstanding shares |
+| Team profiles      | Launch strategy (timing, location) |                   | Valuation                 |
+|                    | Pitch deck                         |                   |                           |
+|                    | Business model                     |                   |                           |
+|                    | Curriculum overview                |                   |                           |
 
 \* for potential hires, affiliate partners, etc. Optionally, use a "[FrieNDA](http://randsinrepose.com/archives/friendda/)".
 
