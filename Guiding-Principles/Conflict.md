@@ -10,7 +10,7 @@ As partners, we address and resolve conflicts with these principles at front of 
 
 ## Formal Process
 
-Most interpersonal tensions can be resolved by sharing and being heard. If, however, your tension is work-related, or it isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
+Most interpersonal tensions can be resolved by sharing and being heard. If, however, your tension is work-related, or it isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.
 
 Any formal conflict starts with a partner bringing a request directly to another partner. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our circle to arrive to meetings on time."), to more involved ("Please commit to engaging a professional coach that will help you with your writing style."), to the most extreme ("Please resign this particular role" or "Please resign from the Company").[^1]
 
@@ -39,6 +39,6 @@ Sometimes, a partner can sense a conflict between two people (or is caught in a 
 Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to the this process, or have agreed to it. When resolving conflicts with non partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
 
 ---
-[^1] This the only process by which a partner is asked to leave Learners Guild
+[^1]: This the only process by which a partner is asked to leave Learners Guild
 
-[^2] If the Conflict Resolver is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.
+[^2]: If the Conflict Resolver is involved in the initial conflict, the conflict still needs to progress through the 4 stages before they ultimately make a call in the fourth step.

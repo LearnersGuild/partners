@@ -43,5 +43,6 @@ In addition, be sure your notes evaluate criteria actually necessary to perform 
 
 Do not to exaggerate the employment opportunity no matter how anxious you are to recruit the applicant. For example, an interviewing manager who misrepresented that the applicant would earn substantially more as her employee than at the applicant's current job created a significant loss for the manager's employer. The applicant accepted the new job, but after several months of complaining that her earnings were lower than represented, she was fired. Unable to return to her former job or find other work matching her former income, the disappointed employee sued and was awarded over a million dollars that included future lost income plus punitive damages. Such damages are recoverable, said the court, against an employer who induces an applicant to leave secure employment by knowingly making false promises regarding the terms of his future employment. [^1]
 
-[^1] Helmer v. Bingham Toyota Isuzu, 129 Cal. App. 4th 1121 (Cal. App., 5th Dist.,
-2005)
+---
+
+[^1]: Helmer v. Bingham Toyota Isuzu, 129 Cal. App. 4th 1121 (Cal. App., 5th Dist., 2005)
