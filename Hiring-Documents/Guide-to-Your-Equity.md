@@ -1,9 +1,5 @@
 # Guide to Your Equity
 
-To find out how many shares of currently outstanding stock there are, email help@learnersguild.org.
-
-We have not **yet** undergone a 409A valuation to determine the current strike price of Learners Guild stock.
-
 **This guide is meant to help you understand the piece of Learners Guild that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Learners Guild gives you a stake in our success. As Learners Guild grows and increases in value, you will own a piece of that growth and increased value. Learners Guild is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Learners Guild decreases in value, then your options won’t be worth anything.
@@ -51,6 +47,9 @@ However, there is a very significant increase in the tax burden of exercising op
 The exercise price is how much Learners Guild stock was worth when you received the stock option grant. Figuring out the right number for this (one that keeps the IRS happy, but also helps make option grants valuable) is important. Investors in Learners Guild get *Preferred Stock* with some special privileges (more on that below) so we don’t want to use the same valuation they paid to price your Common Stock.
 
 The lower the exercise price for Common Stock, the more money your options will earn you, so it’s in our best interest to make this price really low. Traditionally, companies would divide the Preferred Stock price by 10 or more and use that price, but the IRS decided that was unfair, so now private companies are required to undergo something called a 409a valuation to determine the exercise price of our stock. The valuation is good for a whole year or until we raise more money. (We are currently in the process of getting our 409A Valuation)
+
+There are currently 15,175,000 outstanding shares in our cap table.
+
 
 ## Taxes
 
