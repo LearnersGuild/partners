@@ -6,7 +6,7 @@ California law entitles a childbearing partner to take Pregnancy Disability Leav
 
 ## Bereavement Leave
 
-An partner who wishes to take time off due to the death of an immediate family member should notify their team(s). Paid bereavement leave will be granted up to ten consecutive days for the death of a family member including the following:  spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, brother or sister.
+An partner who wishes to take time off due to the death of an immediate family member should notify their team(s). Paid bereavement leave will be granted up to three consecutive days for the death of a family member including the following:  spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, brother or sister.
 
 
 ## Jury Duty or Witness Summons
